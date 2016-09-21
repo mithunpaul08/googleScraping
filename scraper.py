@@ -15,7 +15,7 @@ res.raise_for_status()
 #playFile.close()
 soup = bs4.BeautifulSoup(res.text,"lxml")
 linkElems = soup.select('.r a')
-numOpen = min(10, len(linkElems))
+numOpen = min(5, len(linkElems))
 #1. download and save html files from the first one results---done
 #1.2 download and save html files from the first ten results----done
 
@@ -38,17 +38,33 @@ for i in range(numOpen):
     hrefValue=linkElems[i].get('href')
 
     if(hrefValue.find('.pdf')>0):
-        print 'file number' + `i`+  ' is a pdf file'
+        print 'file number ' + `i`+  ' is a pdf file'
         os.rename(combinedFileName,combinedFileName+'.pdf')
         pdfFileObj = open(combinedFileName+'.pdf', 'rb')
         pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
         pageObj = pdfReader.getPage(0)
         extractedText=pageObj.extractText()
-        print extractedText
-        
+
+        for i in xrange(pdfReader.getNumPages()):
+            pageObj = pdfReader.getPage(i)
+            extractedText=extractedText+pageObj.extractText()
+
+
+        #print extractedText
+
+        #remove the file if it already exists
+        try:
+            os.remove(combinedFileName+'InTxtFormat.txt')
+        except OSError:
+            pass
+        #write the extracted text from pdf document to a txt file
+
+        target = open(combinedFileName+'InTxtFormat.txt', 'w')
+        target.write(extractedText)
+        target.close()
     else:
         #if file is html or txt
-        print'file number' + `i`+  ' is not a pdf file'
+        print'file number ' + `i`+  ' is not a pdf file'
 
         #get the unicode converted file and rename it as html
         #os.rename('waterResultInHtmlFormat.txt','waterResultInHtmlFormat.html')
