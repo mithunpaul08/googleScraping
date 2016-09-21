@@ -1,8 +1,19 @@
-stubFilename='waterResults'
-for i in range(11):
-    combinedFileName=stubFilename +`i` + '.txt'
-    print combinedFileName
+#just a sandbox/testbed file
 
+import PyPDF2
+
+pdfFileObj = open('test.pdf', 'rb')
+pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
+pageObj = pdfReader.getPage(0)
+extractedText=pageObj.extractText()
+print extractedText
+
+
+# stubFilename='waterResults'
+# for i in range(11):
+#     combinedFileName=stubFilename +`i` + '.txt'
+#     print combinedFileName
+#
 #stubFilename='waterResults'
 #for i in range(11):
 #    stubFilename +=`i`
