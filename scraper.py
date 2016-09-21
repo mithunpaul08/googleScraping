@@ -15,7 +15,7 @@ res.raise_for_status()
 #playFile.close()
 soup = bs4.BeautifulSoup(res.text,"lxml")
 linkElems = soup.select('.r a')
-numOpen = min(10, len(linkElems))
+numOpen = min(1, len(linkElems))
 #1. download and save html files from the first one results---done
 #1.2 download and save html files from the first ten results----done
 
@@ -39,10 +39,13 @@ for i in range(numOpen):
         #if file is html or txt
         print'file number' + `i`+  ' is not a pdf file'
         res = requests.get('http://google.com' + linkElems[i].get('href'))
+        res.raise_for_status()
+        soup = bs4.BeautifulSoup(res.text,"lxml")
+        print soup
+
+        #create a unique file name to store each of the results
         stubFilename='waterResults'
-        #combinedFileName=stubFilename +`i` + '.txt'
         combinedFileName=stubFilename +`i`
-        print combinedFileName
         waterResultFile = open(combinedFileName, 'wb')
         for chunk in res.iter_content(100000):
             waterResultFile.write(chunk)
@@ -52,12 +55,12 @@ for i in range(numOpen):
         os.rename(combinedFileName,combinedFileName+'.html')
 
         #read into an html handle
-        # myhtml = open("waterResultInHtmlFormat.html").read()
-        #
+        myhtml = open(combinedFileName+".html").read()
+
         # #write the text from html page to a txt file
-        # target = open('waterResultInTxtFormat.txt', 'w')
-        # target.write(html2text.html2text(myhtml))
-        # target.close()
+        target = open(combinedFileName+'InTxtFormat.txt', 'w')
+        target.write(html2text.html2text(myhtml))
+        target.close()
 
 
 
