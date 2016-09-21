@@ -9,10 +9,16 @@ res.raise_for_status()
 #playFile.close()
 soup = bs4.BeautifulSoup(res.text)
 linkElems = soup.select('.r a')
-numOpen = min(5, len(linkElems))
+numOpen = min(10, len(linkElems))
 for i in range(numOpen):
     webbrowser.open('http://google.com' + linkElems[i].get('href'))
-#
+#todo
+#1. download html files from the first ten results
+#2. convert html to text, using BeautifulSoup
+#3. download pdf files from the first ten results
+#4. download html files from the first ten results
+
+
 # noStarchSoup = bs4.BeautifulSoup(res.text,"lxml")
 # type(noStarchSoup)
 # elems = noStarchSoup.select('div')
