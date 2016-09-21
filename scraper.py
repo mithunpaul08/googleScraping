@@ -9,9 +9,10 @@ res.raise_for_status()
 #playFile.close()
 soup = bs4.BeautifulSoup(res.text)
 linkElems = soup.select('.r a')
-numOpen = min(10, len(linkElems))
+numOpen = min(1, len(linkElems))
 for i in range(numOpen):
-    webbrowser.open('http://google.com' + linkElems[i].get('href'))
+    print(linkElems[i].get('href'))
+    #webbrowser.open('http://google.com' + linkElems[i].get('href'))
 #todo
 #1. download html files from the first ten results
 #2. convert html to text, using BeautifulSoup
