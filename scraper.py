@@ -1,32 +1,28 @@
 import requests, bs4, sys, webbrowser, html2text, os , PyPDF2
+
 # encoding=utf8
 # the html file written by beautifulsoup4 wasnt getting parsed by html2text.
 #So converted it to default utf8 encoding
+
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
-res = requests.get('https://www.google.com/search?q=pests+diseases+tamil+nadu+agriculture')
+
+#various typical requests
+#todo: add into a string array and call ?
+#res = requests.get('https://www.google.com/search?q=pests+diseases+tamil+nadu+agriculture')
+#res = requests.get('https://www.google.com/search?q=soil+degradation+tamil+nadu+agriculture')
+res = requests.get('https://www.google.com/search?q=farm+sizes+tamil+nadu+agriculture')
+
 res.raise_for_status()
-#print(res.text[:250])
-#code to write the html to a file if you want to
-#playFile = open('RomeoAndJuliet.txt', 'wb')
-#for chunk in res.iter_content(100000):
-#    playFile.write(chunk)
-#playFile.close()
 soup = bs4.BeautifulSoup(res.text,"lxml")
 linkElems = soup.select('.r a')
 numOpen = min(5, len(linkElems))
-#1. download and save html files from the first one results---done
-#1.2 download and save html files from the first ten results----done
 
 for i in range(numOpen):
-    #print(linkElems[i].get('href'))
-    #webbrowser.open('http://google.com' + linkElems[i].get('href'))
     #find if href has .pdf in it
     res = requests.get('http://google.com' + linkElems[i].get('href'))
     res.raise_for_status()
-    #soup = bs4.BeautifulSoup(res.text,"lxml")
-    #print soup
 
     #create a unique file name to store each of the results
     stubFilename='waterResults'
@@ -57,8 +53,8 @@ for i in range(numOpen):
             os.remove(combinedFileName+'InTxtFormat.txt')
         except OSError:
             pass
-        #write the extracted text from pdf document to a txt file
 
+        #write the extracted text from pdf document to a txt file
         target = open(combinedFileName+'InTxtFormat.txt', 'w')
         target.write(extractedText)
         target.close()
@@ -73,6 +69,12 @@ for i in range(numOpen):
         #read into an html handle
         myhtml = open(combinedFileName+".html").read()
 
+        #remove the file if it already exists
+        try:
+            os.remove(combinedFileName+'InTxtFormat.txt')
+        except OSError:
+            pass
+
         # #write the text from html page to a txt file
         target = open(combinedFileName+'InTxtFormat.txt', 'w')
         target.write(html2text.html2text(myhtml))
@@ -84,8 +86,10 @@ for i in range(numOpen):
 
 
 #todo
-#1.2 download html files from the first ten results---done
+#1.1 download and save html files from the first one results---done
+#1.2 download and save html files from the first ten results----done
+#1.3 download html files from the first ten results---done
 #2. convert first 10 html results to text and save them---done
-#3. download pdf files from the first ten results
-#4. convert the pdf files into txt and save them
+#3. download pdf files from the first ten results--done
+#4. convert the pdf files into txt and save them---done
 #5. create a folder structure
