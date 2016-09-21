@@ -1,0 +1,387 @@
+![TNAU Agritech Portal](images/index_01.gif)  
+---  
+|   | [Home](index.html "Home" ) | [ About Us](about_us/abt_us.html "About Us"
+) | [Success Stories](success_stories/success_index.html "Success Stories" ) |
+[Farmers' Association ](farm_association/farm_assoct.html "Farmer's
+Association" )| [Farmers' Innovation](farm_innovations/farm_innovations.html)
+| [Publications](tnau_publish.html "Publications" ) |  [Contact ](contact.html
+"Contact Us" ) | [](http://agritech.tnau.ac.in/agritech.xml)
+
+|  
+---|---|---  
+  |  
+| [Agriculture](agriculture/agri_index.html "Agriculture" )  
+[![Agriculture](images/agri.jpg)](agriculture/agri_index.html)  
+SRI, Rice, Pulses, Oil Seeds,  
+Forage, Millets, Cereals,  
+Season, Irrigation, Weed, Pest,  
+Disease, [read more...](agriculture/agri_index.html "Read More on Agriculture"
+) | [Horticulture](horticulture/horti_index.html "Horticulture" )  
+[![Horticulture](thumb/horticulture.jpg)](horticulture/horti_index.html)  
+Nursery, Fruits, Vegetables,  
+Flowers, Spices, Plantation,  
+Medicinal, Aromatic Crops,  
+Landscaping, [read more...](horticulture/horti_index.html "Read More on
+Horticulture" ) |  [Agrl.
+Marketing](agricultural_marketing/agrimark_index.html "Agriculture Marketing"
+)  
+[![Agriculture
+Marketing](images/agri_mark.jpg)](agricultural_marketing/agrimark_index.html)  
+Commodity Boards, Schemes,  
+Food Processing, Value  
+Addition,  
+Markets, [read more...](agricultural_marketing/agrimark_index.html "Read More
+on Agriculture Marketing" ) |  [Agrl.
+Engineering](agricultural_engineering/agriengg_index.html "Agriculture
+Engineering" )  
+[![Agricultural
+Engineering](images/agri_engin.jpg)](agricultural_engineering/agriengg_index.html)  
+Farm Machinery, Bio-energy,  
+Processing, PHT, Machinary,  
+Equipment, Conservation,  
+[read more...](agricultural_engineering/agriengg_index.html "Read More on
+Agriculture Engineering" ) | [Seed ](seed_certification/seedtech_index.html
+"Seed" )  
+[![Seed](thumb/seed.jpg)](seed_certification/seedtech_index.html)  
+Seed Production, Seed  
+Certification, Processing,  
+Breeder, Foundation, Seed  
+Law, Seed Act, [read more...](seed_certification/seedtech_index.html "Read
+More on Seed" )  
+---|---|---|---|---  
+[Organic Farming ](org_farm/orgfarm_index.html "Organic Certification" )  
+[![Organic
+Certification](thumb/organic_farming.jpg)](org_farm/orgfarm_index.html)  
+Organic, Certification,  
+Accreditation, Vermicompost,  
+Pseudomonas,  
+Panchagavya, [read more...](org_farm/orgfarm_index.html "Read More on Organic
+Farming" ) | [Sericulture](sericulture/seri_index.html "Sericulture" )  
+[![Sericulture](images/seri.jpg)](sericulture/seri_index.html)  
+Mulbery, Silk worm  
+Rearing, Cacoon,  
+Sericulture,  
+[read more...](sericulture/seri_index.html "Read More on Sericulture" ) |
+[Forestry](forestry/forest_index.html "Forestry" )  
+[![Forestry](thumb/forestry.jpg)](forestry/forest_index.html)  
+Agro Forestry, Social Forestry,  
+Silviculture, Timber, Wildlife,  
+Contract Farming,  
+[read more...](forestry/forest_index.html "Read More on Forestry" ) |
+[Fishery](fishery/fish_index.html "Fishery" )  
+[![Fishery](thumb/fisheries.jpg)](fishery/fish_index.html)  
+Fresh water Fish, Marine Fish,  
+Prawn, Fish Species, Riverine  
+Fishery, Ornamental Fish,  
+[read more...](fishery/fish_index.html "Read More on Fishery" ) | [Animal
+Husbandry](animal_husbandry/animhus_index.html "Animal Husbandry" )  
+[![Animal
+Husbandry](thumb/animal_husbandry.jpg)](animal_husbandry/animhus_index.html)  
+Cattle, Livestock, Poultry,  
+Piggery, Veterinary Services,  
+Goat, Pig,  
+[read more...](animal_husbandry/animhus_index.html "Read More on Animal
+Husbandry" )  
+![Technologies](images/index_31.gif) | ![Special
+Technologies](images/index_33.gif) | ![Schemes &
+Services](images/index_35.gif) | [![Daily
+Events](images/recent.jpg)](up_backup.html)
+[More](http://www.agritech.tnau.ac.in/up_backup.html).....  
+---|---|---|---  
+  
+[Crop Production](agriculture/agri_index.html "Crop Production" )  
+[Crop Protection](crop_protection/crop_prot.html "Crop Protection" )  
+[Crop Improvement](crop_improvement/crop_imprv.html "Crop Improvement" )  
+[Bio Technology](bio-tech/biotech.html "Bio Technology" )  
+[Post Harvest Technology](postharvest/postharvest.html "Post Harvest
+Technology" )
+
+[Nutrition](nutrition/nutrition.html "Nutrition" )  
+**GUIDE: **[Agri](http://agritech.tnau.ac.in/pdf/2013/CPG%202012.pdf) | [Horti](http://agritech.tnau.ac.in/pdf/2013/cpg_horti_2013.pdf)
+
+[Technology
+Videos](http://agritech.tnau.ac.in/technologivideostnau.html)![](images/videofile_ico.png)
+[Dryland Technologies![](images/videofile_ico.png)](drylandtechnologies.html)
+[Paddy Direct
+Seeding![](images/videofile_ico.png)](direct_seedling/directseedling_ta.html)
+|  [Nutriseed Pack Technology](nutri_seed_tech/spl_technology_nutri_seed.html)  
+[Technology in Forestry](spl_tech_forestry/spl_technology_tree.html)  
+[Electronic Nose Technology
+](spl_tech_jasmine_fragrance/spl_technology_jasmine_fragrance_main.html)  
+
+[Technology in Redgram](Spl_Technology_Redgram.html)  
+
+[Path Breaking Technologies ](special_technology_path_breaking_topics.html)  
+[Reed Bed System ](special_technology.html)  
+
+[PPFM-Pink Pigmented Facultative Methylotrops](technology_ppfm.html)
+
+[System of Rice Intensification (SRI)
+](http://www.agritech.tnau.ac.in/agriculture/agri_cropproduction_rice_sri.html
+"SRI" )
+
+[](http://www.agritech.tnau.ac.in/agriculture/agri_cropproduction_rice_sri.html
+"SRI" )[Sustainable Sugarcane
+Intiative](http://www.agritech.tnau.ac.in/SSI/ssi_technology_eng.html)  
+[GAP](gap_gmp_glp/gap.html) | [GLP](gap_gmp_glp/glp.html) |
+[GMP](gap_gmp_glp/gmp.html)  
+|
+
+[Govt. Schemes &amp; Services](govt_schemes_services/govt_serv_schems.html
+"Govt. Schemes & Services" )  
+[Development Blocks](dev_blocks/indextnmap.html "Development Blocks" )  
+[Banking &amp; Credit](banking/credit_bank.html "Banking & Credit" )  
+[Crop Insurance  
+](crop_insurance/crop_ins.html "Crop Insurance"
+)[NADP](http://agritech.tnau.ac.in/govt_schemes_services/govt_serv_schems_nadp_tnau.html)
+/
+[NAIP](http://agritech.tnau.ac.in/govt_schemes_services/govt_serv_schems_naip_tnau.html)
+in TNAU  
+[ATIC](atic/atic_index.html "KVK" ) | [KVK](kvk/kvk.html "KVK" )  
+[ATMA](atma/atma.html "ATMA" ) | [NGOs &amp; SHGs](ngo_shg/ngo_shg.html "NGO's
+& SHG's" )  
+[Agri Clinics](http://www.agriclinics.net/ "AgriClinics" ) | [SFAC
+](http://www.sfacindia.com/)  
+[Kisan Call Centre](kisan/kisan.html "Kisan Call Centre" ) | [SAMETI
+](sameti/index.html)  
+[MDG-2015](mdg/mdg.html "MDG-2015" ) | [ SDG ](sdg.html)
+
+|  |
+
+[Pest and Disease Forecast for the Month of September
+2016![](new.gif)](http://agritech.tnau.ac.in/crop_protection/pdf/2016/pdsr_sep2016_eng.pdf)
+
+[Vegetable Seed Availability as on 19.09.2016 at TNAU
+![](new.gif)](pdf/Vegetable Seed Availability as on 19.pdf)
+
+[Plantation Crops -Seeds and Planting Materials Availability
+![](new.gif)](http://agritech.tnau.ac.in/horticulture/seedling&planting%20materials.pdf)
+
+[Seed Availability - Seed Stock Position as on 15.07.2016
+![](new.gif)](pdf/Seed Stock Position as on  15.7.2016.pdf)
+
+[82nd Scientific Workers' Conference](swc_2016.html)
+
+[ Honble Chief Minister approved the important schemes of the Election
+manifesto [Press Release No : 228 ]
+](http://cms.tn.gov.in//sites/default/files/press_release/pr230516_228.pdf)
+
+[TNAU Won Ricoh Education Excellence Award, 2016](pdf/TNAU Won Ricoh Education
+Excellence Award-1.pdf)
+
+[Union Budget 2016-17](pdf/bs_2016_17.pdf)
+
+[Address by the Honble President of India
+2016](http://presidentofindia.nic.in/writereaddata/Portal/Speech/Document/491
+/1_ADDRESS_-_JOINT_SESSION_OF_BOTH_HOUSES_OF_PARLIAMENT.pdf)
+
+[ Interim Budget of Govt. of Tamil Nadu 2016 - 2017
+](http://cms.tn.gov.in//sites/default/files/press_release/pr160216_001.pdf)
+
+[Honble Chief Minister honoured Agriculture Productivity (SRI) Award to Mrs.
+P.
+Prasanna](http://cms.tn.gov.in//sites/default/files/press_release/pr260116h.jpg)
+
+[Address of His Excellency the Governor of Tamil Nadu in the TN Assembly -
+2016](http://cms.tn.gov.in//sites/default/files/press_release/pr200116_e_1.pdf)
+
+[TNAU Farmers' day 2016](Farmers day index.html)
+
+[Pradhan Mantri Fasal Beema Yojana - New Crop Insurance Scheme](pdf/pmfby.pdf)
+
+[TNAU Tree Seedling Price ](pdf/FCRI SEEDLINGS SALE PRICE LIST-5.1.16.pdf)
+
+[Golden Jubilee Green Revolution Award to TNAU
+(2015)](http://www.agritech.tnau.ac.in/awards_14_15_green_revolution.html)
+
+[ Golden Jubilee of Green Revolution - Reminiscences](pdf/golden-jubliee-
+Green-Revolution-2015.pdf)
+
+[ Vice Chancellor's Video Message - The Covai Post
+](http://www.covaipost.com/popularbites/k-ramasamy-vice-chancellor-tamil-nadu-
+agricultural-universitycoimbatore/)
+
+[The Vice Chancellor, Tamil Nadu Agricultural University called on the Honble
+Chief
+Minister](http://cms.tn.gov.in//sites/default/files/press_release/pr181115c1.jpg)
+
+[Visit of Additional Secretary (DARE) & Secretary (ICAR) to TNAU](Visit of
+Additional Secretary DARE & \(ICAR\) to TNAU/index.html)
+
+[Statement No.017 of the Honble Chief Minister as per Tamil Nadu Legislative
+Assembly Rule 110 on new schemes for Agriculture
+Department](pdf/pr280915_tnla_017.pdf)
+
+[e -Bulletin,Department of Agriculture &amp; coop, Ministry of Agriculture,
+Govt.of India](pdf/e-bulletinDAC.pdf)
+
+[Citizens charter of Agriculture Department - 2015-16](pdf/CITIZEN
+CHARTER.pdf)
+
+[Policy note of Agriculture Department- 2015-16 ](pdf/Policy note 2015-16.pdf)
+
+[CGIAR - Dryland Research - Youth
+Strategy](http://www.agritech.tnau.ac.in/crop_improvement/pdf/YouthStrategy.pdf)
+
+[Convergence Between Agricultural Research & Extension ](pdf/convergence.pdf)
+
+[NAAS - Monitoring and Evaluation of Agricultural Research, Education and
+Extension for Development ](pdf/NAAS 2015 Policy 73.pdf)
+
+[Rural Cooperatives - Spreading the Umbrella of
+Cooperation](http://www.rd.usda.gov/files/RuralCoop_JulyAug.pdf)
+
+[ World Water and Food to 2025 - IFPRI ](pdf/World Water and Food to 2025.pdf)
+
+[ Food Security, Farming and Climate Change to 2050 – IFPRI ](pdf/Food
+Security, Farming and Climate Change.pdf)
+
+[ Advisory for Raindeficit Hort - Crops
+](pdf/ADVISORY_FOR_RAINDEFICIT_HORT_CROPS.pdf)
+
+[TNAU Research Agenda (2014-2018)](pdf/tnau_res_agenda.pdf)
+
+[Vision Tamil Nadu 2023 - Volume I](http://agritech.tnau.ac.in/pdf/2012/TN
+Vision 2023_Volume I.pdf)
+
+[Vision Tamil Nadu 2023 - Volume II](http://agritech.tnau.ac.in/pdf/2012/TN
+VISION 2023_Volume II.pdf)  
+  
+---  
+  |   |   |  
+![Agri Information](images/index_41.gif) | ![Market
+Information](images/market_information.jpg) | ![Related
+Information](images/index_43.gif) | ![Recent Updates](images/index_39.gif)  
+  
+[Indigenous Farming](itk/indi_farm.html "Indigenious Farming" )  
+[Sustainable Agriculture](sustainable_agri/susagri.html "Sustainable
+Agriculture" )  
+
+[Farm Enterprises](farm_enterprises/farm_enter.html "Farm Enterprises" )  
+
+[Women and Agriculture](women_in_agri/women_empowerment.html "Women and
+Agriculture" )  
+[](dietaryrisks_residue.html "Nutrition" )[Residues &amp; Dietary Risk
+](dietaryrisks_residue.html)
+
+[Food Safety & Standards](food_safetyindex.html "Food Safety & Standards" )
+
+[Environment &amp; Pollution ](environment/envi_index.html "Environment &
+Pollution " )[  
+](pdf/globalwarming.pdf)[Disaster
+Management](agriculture/agri_majorareas_disastermgt.html "Disaster Management"
+)
+
+[District Contigency
+Plan](district_contigency_plan/district_contigency_plan.html "District
+Contigency Plan" )
+
+[Stat-Hand Book - 2015 ](stat_handbook_2015.html)
+
+[Horti-Hand Book - 2014](pdf/2015/horti_handbook2014.pdf)
+
+[](agriculturalstatistics.html)
+
+|
+
+[AGMARKNET](http://agmarknet.nic.in/)
+
+[Patents](patents/patents.html "Patents" )
+
+[DEMIC - Press Notes](demic/demicpn.html) ![](new.gif)
+
+[Farmers Producer Organisation
+](http://www.agritech.tnau.ac.in/farm_association/farm_asso_organi.html)
+
+[Minimum Support Price](msp.html "Minimum Support Price" )  
+[Input Source](input_source/input_src.html "Input Source" )  
+[Export &amp; Import](export_import/imp_exp.html "Export & Import" )
+
+[NIAM](http://www.ccsniam.gov.in/) | [FIEO](http://www.fieo.org/) |
+[FCI](http://fciweb.nic.in/) | [NHRDF](http://nhrdf.org/en-us/ "National
+Horticultural Research and Development Foundation \(NHRDF\)" )
+
+[MCX](http://www.mcxindia.com/ "Multi Commodity Exchange of India Ltd \(MCX\)"
+) | [NCDEX](http://www.ncdex.com "National Commodities & Derivatives Exchange
+Ltd \(NCDEX\)" ) | [NSEL](http://www.nationalspotexchange.com/)
+
+[AGRISNET](http://www.tnagrisnet.tn.gov.in) |
+[FCMS](http://tnagrisnet.tn.gov.in/fcms/)  
+|
+
+[CM's Uzhavar Pathukappu Thittam](http://www.landreforms.tn.gov.in/UPT.html)
+
+[Agrl. EB Service
+Connection](http://www.tangedco.gov.in/linkpdf/Agri%20-Form.pdf)
+
+[TN Revenue Department](http://www.tn.gov.in/service/dept/26)
+
+[GOI-12th Five Year Plan](12th_fiveyearplan_goi.html)
+
+[TN-12th Five Year Plan](12th_fiveyearplan_tn.html)
+
+[](12th_fiveyearplan_goi.html) [TNAU-12th Five Year
+Plan](12th_fiveyearplan_tnau.html)  
+[Season &amp; Crop Report (2013-14)](pdf/seasonal_crop_13_14.pdf) [ODL (Open &
+Distance Learning)](http://sites.tnau.ac.in/department-of-open-and-distance-
+education-learning/ "ODL" )
+
+[Important Links](imp_links.html) | [Blogs](blogs.html "Important Links" )
+
+[ICT Initiatives](ict.html "ICT Intiatives" )
+
+|
+
+[TNAU Press Notes](tnaupressnotes/index.html)
+[![](new.gif)](http://www.covaipost.com/popularbites/k-ramasamy-vice-
+chancellor-tamil-nadu-agricultural-universitycoimbatore/)
+
+[TN Government Announcements](important_gos2016.html "Water Level" )
+[![](new.gif)](http://www.covaipost.com/popularbites/k-ramasamy-vice-
+chancellor-tamil-nadu-agricultural-universitycoimbatore/)[  
+TNAU Community e-Radio](comm_e_radio.html "TNAU Community e-Radio" )  
+[Television Programs](tele.html "Television Programs" )  
+[Farm Radio Programs](radio.html "Farm Radio Programs" )  
+[Water Dams in Tamil Nadu](water_level.html "Water Level" )  
+[HRD (Agricultural Trainings &amp; Events)](hrd/hrd.html "Water Level" )  
+[](important_gos2014.html "Water Level" ) [IMD -Chennai
+(Nowcasting)](http://imdchennai.gov.in/)  
+[Agro Meteorological
+Advisory](agrometeorologicaladvisory/agro_meteorological_advisory.html)  
+[Farmers' Portal ](http://www.farmer.gov.in/)  
+  
+| [![](Blogger-32.png)](http://tnauportal.blogspot.in/) |
+[![](Twitter_32x32.png)](https://twitter.com/agritechportal) |
+[![](FaceBook_32x32.png)](http://www.facebook.com/tnauagritechportal) |
+[![](Youtube-32.png)](http://www.youtube.com/user/tnauagritechportal) |
+[![](Blogger-32.png)](http://tnauagritechportal.blogspot.in/) |
+
+[](dmi/2014/index.html)[![Agri Related News Paper
+Information](images/news_info.jpg)](newspaper.html "News Paper Information" )  
+  
+---  
+[![TNAU Weather](images/weather.jpg)](http://tawn.tnau.ac.in)  
+[![amis](images/amis_en.jpg)](amis/index.html)  
+[![Organic Farming](images/org_farm_en.jpg)](org_farm/orgfarm_index.html)  
+[![Crop Doctor](images/es_icon.jpg)](expert_system/index.html)  
+[![Crop
+Protection](images/crop_prot_en.jpg)](http://www.agritech.tnau.ac.in/crop_protection/crop_prot.html)  
+  
+[](dmi/2014/index.html)[![Nutrient
+Deficiency](images/plant_nut_eng.jpg)](http://www.agritech.tnau.ac.in/agriculture/agri_min_nutri.html)  
+  
+[![Post Harvest
+Technology](images/pht_eng.jpg)](http://www.agritech.tnau.ac.in/postharvest/postharvest.html)  
+[](awards.html)[![TNAU Awards](images/awards.jpg)](awards.html)  
+[![mKisan Portal](images/mKisan_Eng.jpg)](http://mkisan.gov.in)  
+  
+  
+[Home](index.html "Home" ) | [About Us](about_us/abt_us.html "About Us" ) |
+[Success Stories](success_stories/success_index.html "Success Stories" ) |
+[Farmers' Association ](farm_association/farm_assoct.html "Farmer's
+Association" )| [Farmers' Innovation](farm_innovations/farm_innovations.html)
+| [Publications](tnau_publish.html "Publications" ) | [Site Map](sitemap.html
+"Contact Us" ) | [Disclaimer](disclaimer_en.html) |  
+  
+© 2016 TNAU. All Rights Reserved.
+

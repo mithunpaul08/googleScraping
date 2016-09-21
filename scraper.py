@@ -5,7 +5,7 @@ import requests, bs4, sys, webbrowser, html2text, os , PyPDF2
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
-res = requests.get('https://www.google.com/search?q=water+availability+tamil+nadu+agriculture')
+res = requests.get('https://www.google.com/search?q=pests+diseases+tamil+nadu+agriculture')
 res.raise_for_status()
 #print(res.text[:250])
 #code to write the html to a file if you want to
@@ -15,7 +15,7 @@ res.raise_for_status()
 #playFile.close()
 soup = bs4.BeautifulSoup(res.text,"lxml")
 linkElems = soup.select('.r a')
-numOpen = min(1, len(linkElems))
+numOpen = min(10, len(linkElems))
 #1. download and save html files from the first one results---done
 #1.2 download and save html files from the first ten results----done
 
@@ -40,8 +40,8 @@ for i in range(numOpen):
         print'file number' + `i`+  ' is not a pdf file'
         res = requests.get('http://google.com' + linkElems[i].get('href'))
         res.raise_for_status()
-        soup = bs4.BeautifulSoup(res.text,"lxml")
-        print soup
+        #soup = bs4.BeautifulSoup(res.text,"lxml")
+        #print soup
 
         #create a unique file name to store each of the results
         stubFilename='waterResults'
