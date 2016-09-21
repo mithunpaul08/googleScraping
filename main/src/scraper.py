@@ -8,6 +8,10 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 
+#print os.getcwd()
+os.chdir('../../outputs/')
+#print os.getcwd()
+#exit()
 #various typical requests
 #todo: add into a string array and call ?
 #res = requests.get('https://www.google.com/search?q=pests+diseases+tamil+nadu+agriculture')
@@ -27,7 +31,7 @@ for i in range(numOpen):
     #create a unique file name to store each of the results
     stubFilename='waterResults'
     combinedFileName=stubFilename +`i`
-    waterResultFile = open(combinedFileName, 'wb')
+    waterResultFile = open(combinedFileName, 'wb+')
     for chunk in res.iter_content(100000):
         waterResultFile.write(chunk)
     waterResultFile.close()
@@ -45,9 +49,6 @@ for i in range(numOpen):
             pageObj = pdfReader.getPage(i)
             extractedText=extractedText+pageObj.extractText()
 
-
-        #print extractedText
-
         #remove the file if it already exists
         try:
             os.remove(combinedFileName+'InTxtFormat.txt')
@@ -63,19 +64,21 @@ for i in range(numOpen):
         print'file number ' + `i`+  ' is not a pdf file'
 
         #get the unicode converted file and rename it as html
-        #os.rename('waterResultInHtmlFormat.txt','waterResultInHtmlFormat.html')
         os.rename(combinedFileName,combinedFileName+'.html')
 
         #read into an html handle
+        #myhtml = open(outputDirectory+combinedFileName+".html").read()
         myhtml = open(combinedFileName+".html").read()
 
         #remove the file if it already exists
         try:
+            #os.remove(outputDirectory+combinedFileName+'InTxtFormat.txt')
             os.remove(combinedFileName+'InTxtFormat.txt')
         except OSError:
             pass
 
         # #write the text from html page to a txt file
+        #target = open(outputDirectory+combinedFileName+'InTxtFormat.txt', 'w')
         target = open(combinedFileName+'InTxtFormat.txt', 'w')
         target.write(html2text.html2text(myhtml))
         target.close()
