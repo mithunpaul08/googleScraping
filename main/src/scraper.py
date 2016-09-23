@@ -76,18 +76,18 @@ for i in range(numOpen):
             os.remove(combinedFileName+'InTxtFormat.txt')
         except OSError:
             pass
-	
-	#ignore links
-	h = html2text.HTML2Text()
-	# Ignore converting links from HTML
-	h.ignore_links = True
-	#convert html to text
-	convertedText=h.handle(myhtml)
+
+    	#ignore links
+        h = html2text.HTML2Text()
+    	# Ignore converting links from HTML
+    	h.ignore_links = True
+    	#convert html to text
+    	convertedText=h.handle(myhtml)
 
         # #write the converted text to a txt file
         #target = open(outputDirectory+combinedFileName+'InTxtFormat.txt', 'w')
         target = open(combinedFileName+'InTxtFormat.txt', 'w')
-        target.write(html2text.html2text(convertedText))
+        target.write(html2text.html2text(convertedText).encode('utf-8'))
         target.close()
 
 
