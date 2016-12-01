@@ -31,6 +31,7 @@ res = requests.get('https://www.google.com/search?q=%22farm+size%22+tamil+nadu+a
 #https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start=1&num=10
 
 numberOfGoogleResults=1000
+startValue=205
 
 def my_range(start, end, step):
     while start <= end:
@@ -39,91 +40,99 @@ def my_range(start, end, step):
 
 
 def parseGResults(myQS,startValue):
-    res = requests.get(myQS)
-    print "value of query string is"+ myQS    
-    res.raise_for_status()
-    soup = bs4.BeautifulSoup(res.text,"lxml")
-    linkElems = soup.select('.r a')
-    numOpen = min(numberOfGoogleResults, len(linkElems))
-    print 'value of  numOpen is ' + `numOpen`
-    
-    for i in range(numOpen):
-        try:
-            #find if href has .pdf in it
-            res = requests.get('http://google.com' + linkElems[i].get('href'))
-            filenameCounter=i+startValue
+
+    print "value of query string is"+ myQS
+    try:
+        res = requests.get(myQS)
+        res.raise_for_status()
+
+    except requests.HTTPError, e:
+        print "exception occured"+ `e.response.status_code`
+    else:
+        soup = bs4.BeautifulSoup(res.text,"lxml")
+        linkElems = soup.select('.r a')
+        numOpen = min(numberOfGoogleResults, len(linkElems))
+        print 'value of  numOpen is ' + `numOpen`
+
+        for i in range(numOpen):
             try:
-                res.raise_for_status()
-            except:
-                print "exception occured"
-            else:
-                #create a unique file name to store each of the results
-                combinedFileName=stubFilename +`filenameCounter`
-                waterResultFile = open(combinedFileName, 'wb+')
-                for chunk in res.iter_content(100000):
-                    waterResultFile.write(chunk)
-                waterResultFile.close()
-                hrefValue=linkElems[i].get('href')
+                #find if href has .pdf in it
+                filenameCounter=i+startValue
+                try:
+                    res = requests.get('http://google.com' + linkElems[i].get('href'))
+                    res.raise_for_status()
+                except requests.HTTPError, e:
+                    print "exception occured"+ `e.response.status_code`
 
-                if(hrefValue.find('.pdf')>0):
-                    print 'file number ' + `filenameCounter`+  ' is a pdf file'
-                    os.rename(combinedFileName,combinedFileName+'.pdf')
-                    pdfFileObj = open(combinedFileName+'.pdf', 'rb')
-                    pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
-                    pageObj = pdfReader.getPage(0)
-                    extractedText=pageObj.extractText()
 
-                    for i in xrange(pdfReader.getNumPages()):
-                        pageObj = pdfReader.getPage(i)
-                        extractedText=extractedText+pageObj.extractText()
-
-                    #remove the file if it already exists
-                    try:
-                        os.remove(combinedFileName+'InTxtFormat.txt')
-                    except OSError:
-                        pass
-
-                    #write the extracted text from pdf document to a txt file
-                    target = open(combinedFileName+'InTxtFormat.txt', 'w')
-                    target.write(extractedText)
-                    target.close()
                 else:
-                    #if file is html or txt
-                    print'file number ' + `filenameCounter`+  ' is not a pdf file'
+                    #create a unique file name to store each of the results
+                    combinedFileName=stubFilename +`filenameCounter`
+                    waterResultFile = open(combinedFileName, 'wb+')
+                    for chunk in res.iter_content(100000):
+                        waterResultFile.write(chunk)
+                    waterResultFile.close()
+                    hrefValue=linkElems[i].get('href')
 
-                    #get the unicode converted file and rename it as html
-                    os.rename(combinedFileName,combinedFileName+'.html')
+                    if(hrefValue.find('.pdf')>0):
+                        print 'file number ' + `filenameCounter`+  ' is a pdf file'
+                        os.rename(combinedFileName,combinedFileName+'.pdf')
+                        pdfFileObj = open(combinedFileName+'.pdf', 'rb')
+                        pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
+                        pageObj = pdfReader.getPage(0)
+                        extractedText=pageObj.extractText()
 
-                    #read into an html handle
-                    #myhtml = open(outputDirectory+combinedFileName+".html").read()
-                    myhtml = open(combinedFileName+".html").read()
+                        for i in xrange(pdfReader.getNumPages()):
+                            pageObj = pdfReader.getPage(i)
+                            extractedText=extractedText+pageObj.extractText()
 
-                    #remove the file if it already exists
-                    try:
-                        #os.remove(outputDirectory+combinedFileName+'InTxtFormat.txt')
-                        os.remove(combinedFileName+'InTxtFormat.txt')
-                    except OSError:
-                        pass
+                        #remove the file if it already exists
+                        try:
+                            os.remove(combinedFileName+'InTxtFormat.txt')
+                        except OSError:
+                            pass
 
-                    #ignore links
-                    h = html2text.HTML2Text()
-                    h.ignore_links = True
+                        #write the extracted text from pdf document to a txt file
+                        target = open(combinedFileName+'InTxtFormat.txt', 'w')
+                        target.write(extractedText)
+                        target.close()
+                    else:
+                        #if file is html or txt
+                        print'file number ' + `filenameCounter`+  ' is not a pdf file'
 
-                    convertedText=h.handle(myhtml.encode('utf-8').strip())
+                        #get the unicode converted file and rename it as html
+                        os.rename(combinedFileName,combinedFileName+'.html')
 
-                    # #write the converted text to a txt file
-                    #target = open(outputDirectory+combinedFileName+'InTxtFormat.txt', 'w')
-                    target = open(combinedFileName+'InTxtFormat.txt', 'w')
-                    target.write(html2text.html2text(convertedText).encode('utf-8'))
-                    target.close()
-        except:
-            print "Exception occured in the entire function"
-            continue
+                        #read into an html handle
+                        #myhtml = open(outputDirectory+combinedFileName+".html").read()
+                        myhtml = open(combinedFileName+".html").read()
+
+                        #remove the file if it already exists
+                        try:
+                            #os.remove(outputDirectory+combinedFileName+'InTxtFormat.txt')
+                            os.remove(combinedFileName+'InTxtFormat.txt')
+                        except OSError:
+                            pass
+
+                        #ignore links
+                        h = html2text.HTML2Text()
+                        h.ignore_links = True
+
+                        convertedText=h.handle(myhtml.encode('utf-8').strip())
+
+                        # #write the converted text to a txt file
+                        #target = open(outputDirectory+combinedFileName+'InTxtFormat.txt', 'w')
+                        target = open(combinedFileName+'InTxtFormat.txt', 'w')
+                        target.write(html2text.html2text(convertedText).encode('utf-8'))
+                        target.close()
+            except:
+                print "Exception occured in the entire function"
+                continue
 
 
 
 #see if you can raise more than 10 google results
-for gCounter in my_range (73,numberOfGoogleResults,10):
+for gCounter in my_range (startValue,numberOfGoogleResults,10):
     start =gCounter
     print start
     queryString='https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start='+`start`+'&num=10'
