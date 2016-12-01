@@ -40,7 +40,7 @@ for i in range(numOpen):
 
     #create a unique file name to store each of the results
     stubFilename='waterResults'
-    combinedFileName=stubFilename +`i`
+    combinedFileName=stubFilename +i
     waterResultFile = open(combinedFileName, 'wb+')
     for chunk in res.iter_content(100000):
         waterResultFile.write(chunk)
@@ -48,7 +48,7 @@ for i in range(numOpen):
     hrefValue=linkElems[i].get('href')
 
     if(hrefValue.find('.pdf')>0):
-        print 'file number ' + `i`+  ' is a pdf file'
+        print("file number " + i+  " is a pdf file")
         os.rename(combinedFileName,combinedFileName+'.pdf')
         pdfFileObj = open(combinedFileName+'.pdf', 'rb')
         pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
@@ -71,7 +71,7 @@ for i in range(numOpen):
         target.close()
     else:
         #if file is html or txt
-        print'file number ' + `i`+  ' is not a pdf file'
+        print("file number " + i+  " is not a pdf file")
 
         #get the unicode converted file and rename it as html
         os.rename(combinedFileName,combinedFileName+'.html')
@@ -90,9 +90,8 @@ for i in range(numOpen):
     	#ignore links
         h = html2text.HTML2Text()
     	# Ignore converting links from HTML
-    	h.ignore_links = True
-    	#convert html to text
-    	convertedText=h.handle(myhtml)
+        h.ignore_links = True
+        convertedText=h.handle(myhtml)
 
         # #write the converted text to a txt file
         #target = open(outputDirectory+combinedFileName+'InTxtFormat.txt', 'w')
