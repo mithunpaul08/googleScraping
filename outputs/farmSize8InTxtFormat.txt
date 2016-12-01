@@ -1,0 +1,104 @@
+Stirring the Pyramid Agriculture, farming, micro-enterprises &amp; BOP social
+enterprises in rural India
+![](https://stirringthepyramid.files.wordpress.com/2010/07/stirring-the-
+pyramid-940x198-lowres.jpg) Skip to content * Home * The evolving bus ride
+&lt;\- Regression and decision trees in agriculture Who overuses fertilizers?
+Who underuses them? -&gt; ## Farm size trends across different states Posted
+on August 20, 2012 by Richa ![Madhya Pradesh
+farms](https://stirringthepyramid.files.wordpress.com/2012/08/img_0461ed.jpg?w=300&amp;h;=224)
+Madhya Pradesh farms Recently I visited Madhya Pradesh and visited a village
+with average landholding of 20 acres.  Given that the national average
+landholding is around 2.5 acres, I was intrigued. I talked with farmers, many
+of whom owned 7 acres, 20 acres, and 70 acres of land.  Agri-sector
+professionals whom I met during my visit stated that the average land holding
+in MP is larger than in UP.  Driving around rural areas I could see large
+fields (by UP standards) ploughed by tractors. So upon my return I looked up
+the farm size numbers by state.  The data confirmed that land holdings in MP
+are indeed more than double that of UP, averaging 2 ha (5 acres) versus .8 ha
+(2 acres).  One hectare is approx 2.5 acres. But the data also threw up some
+interesting points about other states. **Region/ State** | **Average holding
+in 2005-06 (hectares)** \---|--- **ALL INDIA** | **1.23** North | | Haryana |
+2.23 | Punjab | 3.95 | Uttrakhand | 0.94 | Uttar Pradesh | 0.80 | Chhattisgarh
+| 1.51 | Madhya Pradesh | 2.02 South | | Andhra Pradesh | 1.20 | Karnataka |
+1.63 | Kerala | 0.23 | Tamil Nadu | 0.83 West | | Gujarat | 2.20 | Rajasthan |
+3.38 | Maharashtra | 1.46 East | | Orissa | 1.15 | West Bengal | 0.79 | Bihar
+| 0.43 NE | | | Assam | 1.11 | Arunachal Pradesh | 3.33 ** Changes in farm
+land holding ** As expected, we see larger landholdings in Punjab &amp;
+Haryana, but Arunachal also has larger farm sizes, as do Gujarat and
+Rajasthan.  Nagaland was a surprise with the largest average land holding in
+the country and Kerala the smallest. Next, I looked for trends over time to
+see how farm sizes have changed over the years. That turned out to be even
+more difficult to find than expected. So I decided to put together my own
+tables by pulling data from multiple years. Previously on Stirring the Pyramid
+I had written about farm size trends at an all-India level (see here and here)
+covering decades from 1960s to recent times. Between 1996 and 2006, farm sizes
+shrunk by an average of 13% in India overall.  However, there are very
+interesting differences across states. Punjab and Haryana bucked the national
+trend and experienced a consolidation of farms, registering a 5% growth over
+the time period. The smaller states of Goa and Nagaland show a much stronger
+consolidation trend with ~40% increase in land holding sizes. Unfortunately, I
+couldn’t get comparable numbers for three of the states that I was most
+interested in learning more about: UP, MP and Bihar, since all of them have
+been split recently, and the GOI did not bother restating older data for the
+split states. **Region/ State** | **2006** | **1996** | **%change 1996 to
+2006** \---|---|---|--- **ALL INDIA** | **1.23** | **1.41** | **-13%** North |
+| | | Haryana | 2.23 | 2.13 | 5% | Punjab | 3.95 | 3.79 | 4% | Himachal
+Pradesh | 1.04 | 1.16 | -10% South | | | | Andhra Pradesh | 1.20 | 1.36 | -12%
+| Karnataka | 1.63 | 1.95 | -16% | Kerala | 0.23 | 0.27 | -15% | Tamil Nadu |
+0.83 | 0.91 | -9% West, NW | | | | Gujarat | 2.20 | 2.62 | -16% | Rajasthan |
+3.38 | 3.96 | -15% | Maharashtra | 1.46 | 1.87 | -22% | Goa | 1.15 | 0.84 |
+37% East | | | | Orissa | 1.15 | 1.30 | -12% | West Bengal | 0.79 | 0.85 | -7%
+NE | | | | | Assam | 1.11 | 1.17 | -5% | Arunachal Pradesh | 3.33 | 3.31 | 1%
+| Meghalaya | 1.18 | 1.33 | -11% | Nagaland | 6.93 | 4.83 | 43% Interesting to
+note that Gujarat, despite its recent agriculture GDP growth, followed the
+national average rate of farm size reduction. Maharashtra registered the
+greatest shrinkage at 22%. Could this rapid change in landholding be one of
+the causes of the agricultural woes of parts of the state? Note: I have
+removed some rows from data tables to make the post more readable. ### Rate
+this: ### Share this: * Facebook * Twitter * LinkedIn * Google * Email * More
+* * Reddit * Pinterest * * ### Like this: Like Loading... ### _Related_ This
+entry was posted in Agriculture and farming, Research studies and surveys and
+tagged farm size, trends in India. Bookmark the permalink. &lt;\- Regression
+and decision trees in agriculture Who overuses fertilizers? Who underuses
+them? -&gt; ### Leave a Reply Cancel reply Enter your comment here... Fill in
+your details below or click an icon to log in: * * * * *
+![Gravatar](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25)
+Email (required) (Address never made public) Name (required) Website
+![WordPress.com
+Logo](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25)
+**** You are commenting using your WordPress.com account. ( Log Out / Change )
+![Twitter
+picture](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25)
+**** You are commenting using your Twitter account. ( Log Out / Change )
+![Facebook
+photo](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25)
+**** You are commenting using your Facebook account. ( Log Out / Change )
+![Google+
+photo](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25)
+**** You are commenting using your Google+ account. ( Log Out / Change )
+Cancel Connecting to %s Notify me of new comments via email. Notify me of new
+posts via email. * Search for: * ### Email Subscription * ### Recent Posts *
+Solar energy versus water tables * Overuse of fertilizer and pesticides in
+India and its impact * Do small farmers have higher productivity than large
+farmers? * Pulses: Links * ### Popular Posts * How many farmers does India
+have? * Food Security Bill * Why don't farmers grow more fruits and
+vegetables? * Average farm sizes in India * ### Recent Comments
+![](https://secure.gravatar.com/blavatar/85ddcac476edf41e4c34bf1657994dbf?s=48)|
+Overuse of fertilize… on Who overuses fertilizers? Who… \---|---
+![](https://1.gravatar.com/avatar/a76a1be6ff42e92d0708b31c58d79b8a?s=48&amp;d;=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r;=G)|
+Richa on Subah ke char baje, kisi sabji…
+![](https://1.gravatar.com/avatar/d630a9853d90b44e37a18889c97f135d?s=48&amp;d;=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D48&amp;r;=G)|
+Ashutosh Verma on Subah ke char baje, kisi sabji… * ### Categories *
+Agriculture and farming (43) * Business management training (9) * Economics
+and public policy (14) * Financial lives of the poor (18) * Food and nutrition
+(8) * Micro-enterprises &amp; rural businesses (23) * Microfinance (7) *
+Philanthropy2 (1) * Research studies and surveys (24) * Science and technology
+(8) * Social Enterprise Profiles (11) * sustainability (2) * Women (5)
+Stirring the Pyramid Create a free website or blog at WordPress.com. Send to
+Email Address Your Name Your Email Address ![loading](https://s2.wp.com/wp-
+content/mu-plugins/post- flair/sharing/images/loading.gif) Cancel Post was not
+sent - check your email addresses! Email check failed, please try again Sorry,
+your blog cannot share posts by email. %d bloggers like this:
+![](https://sb.scorecardresearch.com/p?c1=2&amp;c2;=7518284&amp;c3;=&amp;c4;=&amp;c5;=&amp;c6;=&amp;c15;=&amp;cv;=2.0&amp;cj;=1)
+![](https://pixel.wp.com/b.gif?v=noscript)
+

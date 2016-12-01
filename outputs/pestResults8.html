@@ -1,0 +1,1015 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+
+    <head>
+
+        <meta charset="utf-8" />
+<script>window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<meta name="dcterms.format" content="text/html" />
+<meta property="og:type" content="article" />
+<meta name="dcterms.type" content="Text" />
+<meta property="og:site_name" content="Radcliffe&#039;s IPM World Textbook" />
+<link rel="shortcut icon" href="http://ipmworld.umn.edu/sites/all/themes/cfans-themes/cfans-bluegray/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:url" content="http://ipmworld.umn.edu/krishna-indian-ag" />
+<link rel="shortlink" href="http://ipmworld.umn.edu/node/411" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="dcterms.creator" content="mckay024" />
+<meta name="dcterms.title" content="Integrated Pest Management In Indian Agriculture: A Developing Economy Perspective" />
+<meta name="dcterms.date" content="2015-07-04T12:58-05:00" />
+<meta name="dcterms.identifier" content="http://ipmworld.umn.edu/krishna-indian-ag" />
+<meta property="og:title" content="Integrated Pest Management In Indian Agriculture: A Developing Economy Perspective" />
+<meta name="dcterms.language" content="und" />
+<link rel="canonical" href="http://ipmworld.umn.edu/krishna-indian-ag" />
+        <title>Integrated Pest Management In Indian Agriculture: A Developing Economy Perspective | Radcliffe&#039;s IPM World Textbook</title>
+
+                <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                <meta http-equiv="cleartype" content="on">
+
+        <style>
+@import url("http://ipmworld.umn.edu/modules/system/system.base.css?ogqoo1");
+</style>
+<style>
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_core/css/panopoly-jquery-ui-theme.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css?ogqoo1");
+</style>
+<style>
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/contrib/date/date_api/date.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/contrib/date/date_popup/themes/datepicker.1.7.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/modules/field/theme/field.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/modules/node/node.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_admin/panopoly-admin.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_admin/panopoly-admin-navbar.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_core/css/panopoly-dropbutton.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_magic/css/panopoly-magic.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_magic/css/panopoly-modal.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_theme/css/panopoly-featured.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_theme/css/panopoly-accordian.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_theme/css/panopoly-layouts.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_widgets/panopoly-widgets.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_widgets/panopoly-widgets-spotlight.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_wysiwyg/panopoly-wysiwyg.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/contrib/radix_layouts/radix_layouts.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/modules/search/search.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/modules/user/user.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/contrib/views/css/views.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/contrib/caption_filter/caption-filter.css?ogqoo1");
+</style>
+<style>
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/contrib/ctools/css/ctools.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/contrib/panels/css/panels.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/contrib/responsive_menus/styles/responsive_menus_simple/css/responsive_menus_simple.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/libraries/superfish/css/superfish.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/libraries/superfish/css/superfish-smallscreen.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/profiles/umncore/libraries/superfish/style/blue.css?ogqoo1");
+</style>
+<style>
+@import url("http://ipmworld.umn.edu/profiles/umncore/themes/umn/umn_base_theme/css/styles.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/sites/all/themes/cfans-themes/cfans-bluegray/css/subtheme_styles.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/sites/all/themes/cfans-themes/cfans-bluegray/css/colors.css?ogqoo1");
+</style>
+<style>
+@import url("http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_images/panopoly-images.css?ogqoo1");
+@import url("http://ipmworld.umn.edu/sites/ipmworld.umn.edu/files/fontyourface/font.css?ogqoo1");
+</style>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&amp;subset=latin-ext" media="all" />
+        <script src="http://ipmworld.umn.edu/profiles/umncore/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script src="http://ipmworld.umn.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="http://ipmworld.umn.edu/misc/drupal.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min.js?v=1.10.2"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js?v=1.10.2"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_images/panopoly-images.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_admin/panopoly-admin.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_magic/panopoly-magic.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_theme/js/panopoly-accordion.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/palantir_custom/umn_slider_text_helper/umn_slider_text_helper.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/contrib/caption_filter/js/caption-filter.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/libraries/jquery.imagesloaded/jquery.imagesloaded.min.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/contrib/responsive_menus/styles/responsive_menus_simple/js/responsive_menus_simple.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/contrib/google_analytics/googleanalytics.js?ogqoo1"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-35270901-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/libraries/superfish/jquery.hoverIntent.minified.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/libraries/superfish/sfsmallscreen.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/libraries/superfish/supposition.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/libraries/superfish/superfish.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/libraries/superfish/supersubs.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/contrib/superfish/superfish.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/themes/umn/umn_base_theme/js/umn_mobile_search.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/themes/umn/umn_base_theme/js/umn_accordin_custom.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/themes/umn/umn_base_theme/js/custom.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/themes/umn/umn_base_theme/js/aria-accordion.js?ogqoo1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cfansbluegray_subtheme","theme_token":"b3xtVrINpUszpMLjj_WndjU6lcWS3hNN-4pHCZwS81Q","js":{"profiles\/umncore\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"profiles\/umncore\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"0":1,"profiles\/umncore\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/umncore\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/umncore\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/umncore\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"profiles\/umncore\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"profiles\/umncore\/modules\/panopoly\/panopoly_images\/panopoly-images.js":1,"profiles\/umncore\/modules\/panopoly\/panopoly_admin\/panopoly-admin.js":1,"profiles\/umncore\/modules\/panopoly\/panopoly_magic\/panopoly-magic.js":1,"profiles\/umncore\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"profiles\/umncore\/modules\/palantir_custom\/umn_slider_text_helper\/umn_slider_text_helper.js":1,"profiles\/umncore\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"profiles\/umncore\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"profiles\/umncore\/modules\/contrib\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"profiles\/umncore\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"profiles\/umncore\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"profiles\/umncore\/libraries\/superfish\/sfsmallscreen.js":1,"profiles\/umncore\/libraries\/superfish\/supposition.js":1,"profiles\/umncore\/libraries\/superfish\/superfish.js":1,"profiles\/umncore\/libraries\/superfish\/supersubs.js":1,"profiles\/umncore\/modules\/contrib\/superfish\/superfish.js":1,"profiles\/umncore\/themes\/umn\/umn_base_theme\/js\/umn_mobile_search.js":1,"profiles\/umncore\/themes\/umn\/umn_base_theme\/js\/umn_accordin_custom.js":1,"profiles\/umncore\/themes\/umn\/umn_base_theme\/js\/custom.js":1,"profiles\/umncore\/themes\/umn\/umn_base_theme\/js\/aria-accordion.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"profiles\/umncore\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/umncore\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"profiles\/umncore\/modules\/panopoly\/panopoly_admin\/panopoly-admin.css":1,"profiles\/umncore\/modules\/panopoly\/panopoly_admin\/panopoly-admin-navbar.css":1,"profiles\/umncore\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"profiles\/umncore\/modules\/panopoly\/panopoly_magic\/css\/panopoly-magic.css":1,"profiles\/umncore\/modules\/panopoly\/panopoly_magic\/css\/panopoly-modal.css":1,"profiles\/umncore\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"profiles\/umncore\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"profiles\/umncore\/modules\/panopoly\/panopoly_theme\/css\/panopoly-layouts.css":1,"profiles\/umncore\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"profiles\/umncore\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"profiles\/umncore\/modules\/panopoly\/panopoly_wysiwyg\/panopoly-wysiwyg.css":1,"profiles\/umncore\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/umncore\/modules\/contrib\/views\/css\/views.css":1,"profiles\/umncore\/modules\/contrib\/caption_filter\/caption-filter.css":1,"profiles\/umncore\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/umncore\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/umncore\/modules\/contrib\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"profiles\/umncore\/libraries\/superfish\/css\/superfish.css":1,"profiles\/umncore\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"profiles\/umncore\/libraries\/superfish\/style\/blue.css":1,"sites\/all\/themes\/cfans-themes\/cfans-bluegray\/system.menus.css":1,"profiles\/umncore\/themes\/umn\/umn_base_theme\/css\/styles.css":1,"sites\/all\/themes\/cfans-themes\/cfans-bluegray\/system.messages.css":1,"sites\/all\/themes\/cfans-themes\/cfans-bluegray\/system.theme.css":1,"sites\/all\/themes\/cfans-themes\/cfans-bluegray\/css\/subtheme_styles.css":1,"sites\/all\/themes\/cfans-themes\/cfans-bluegray\/css\/colors.css":1,"profiles\/umncore\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1,"sites\/ipmworld.umn.edu\/files\/fontyourface\/font.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans+Condensed:300,700\u0026subset=latin-ext":1}},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"panopoly_magic":{"pane_add_preview_mode":"automatic"},"responsive_menus":[{"toggler_text":"\u2630 Menu","selectors":[".menu-block-umn_customizations-level-one"],"media_size":"520","disable_mouse_events":true,"remove_attributes":true,"responsive_menus_style":"responsive_menus_simple"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|docx|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast"},"plugins":{"smallscreen":{"mode":"window_width","breakpointUnit":"px","title":"Main menu"},"supposition":true,"supersubs":true}}},"urlIsAjaxTrusted":{"http:\/\/google.umn.edu\/search":true}});</script>
+                <!--[if lt IE 9]>
+        <script src="/profiles/umncore/themes/zen/js/html5-respond.js"></script>
+        <![endif]-->
+            </head>
+    <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-411 node-type-general-page region-content section-krishna-indian-ag page-panels" >
+
+        
+        <!-- Begin UMN Header -->
+        <div id="mandatory-header-wrapper" class="umnhf-campus-tc dtd umnhf-background-maroon dropdown nolinks">
+            <div class="umnhf" id="umnhf-h">
+                <div class="umnhf" id="umnhf-h-mast">
+                    <a class="umnhf" id="umnhf-h-wm" href="http://umn.edu"><span>Go to the U of M home page</span></a>
+                                                            <ul class="umnhf" id="umnhf-h-ql">
+                        <li class="umnhf" id="umnhf-h-onestop"><a href="http://onestop.umn.edu">One Stop</a></li>
+                        <li class="umnhf" id="umnhf-h-myu"><a href="http://www.myu.umn.edu">MyU<span></span>: For Students, Faculty, and Staff</a></li>
+                    </ul>
+                                        <!-- Button below is for dropdown toggle, only visible on mobile screens. If using a non-dropdown version you can delete this tag -->
+                    <button class="umnhf" id="umnhf-m-search" href="#">Search</button>
+                </div>
+                <form class="umnhf" id="umnhf-h-search" method="get" title="Search Websites and People" role="search" action="http://google.umn.edu/search" accept-charset="UTF-8"><div><label class="umnhf" for="umnhf-h-st">Search</label><div class="form-item form-type-textfield form-item-q">
+ <input class="umnhf form-text" id="umnhf-h-st" placeholder="Search Websites and People" type="text" name="q" value="" size="60" maxlength="128" />
+</div>
+<input type="hidden" name="client" value="searchumn" />
+<input type="hidden" name="proxystylesheet" value="searchumn" />
+<input type="hidden" name="site" value="systemwide" />
+<input type="hidden" name="output" value="xml_no_dtd" />
+<input type="hidden" name="form_build_id" value="form-xzVstwQMQ0ooRlaquGADCSDc2jGu3IfE1m_FzSoS_EE" />
+<input type="hidden" name="form_id" value="umn_search_gsa7_form" />
+<div class="form-actions form-wrapper" id="edit-actions"><input class="umnhf form-submit" id="umnhf-h-sb" type="submit" name="op" value="Search" /></div></div></form>            </div>
+        </div>
+        <!-- End UMN Header -->
+
+                
+
+  <div id="sub-header-site-name">
+    <div class="panel-pane pane-token pane-variable-site-name" >
+  
+  <div>Radcliffe&#039;s IPM World Textbook</div>
+
+  
+  </div>
+  </div>
+  <div id="header-wrapper-full-width" class="clearfix">
+    <div id="header-wrapper-internal">
+      <div id="sub-header" class="clearfix">
+        <nav id="main-menu" role="navigation" tabindex="-1"><div class="panel-pane pane-block pane-superfish-1"  >
+  
+      
+  
+  <ul  id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-blue sf-total-items-7 sf-parent-items-2 sf-single-items-5"><li id="menu-6121-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/welcome" class="sf-depth-1">Welcome</a></li><li id="menu-11011-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/ipm" class="sf-depth-1">IPM Defined</a></li><li id="menu-11041-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/chapters" class="sf-depth-1 menuparent">Contributed Chapters</a><ul><li id="menu-11016-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/chapters/instructions" class="sf-depth-2">Instructions to Authors</a></li><li id="menu-11036-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/chapters/archives" class="sf-depth-2">Archived Files</a></li></ul></li><li id="menu-11031-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/updates-awards" class="sf-depth-1">Updates &amp; Awards</a></li><li id="menu-11026-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/favorites" class="sf-depth-1">Our Favorite Sites</a></li><li id="menu-11021-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/programs" class="sf-depth-1">Academic Programs in Entomology</a></li><li id="menu-11046-1" class="last odd sf-item-7 sf-depth-1 sf-total-children-6 sf-parent-children-6 sf-single-children-0 menuparent"><a href="/aphid-alert" class="sf-depth-1 menuparent">Aphid Alert Archive</a><ul><li id="menu-11511-1" class="first odd sf-item-1 sf-depth-2"><a href="/aphid-alert/2003" class="sf-depth-2">2003</a></li><li id="menu-11516-1" class="middle even sf-item-2 sf-depth-2"><a href="/aphid-alert/2002" class="sf-depth-2">2002</a></li><li id="menu-11521-1" class="middle odd sf-item-3 sf-depth-2"><a href="/aphid-alert/2001" class="sf-depth-2">2001</a></li><li id="menu-11526-1" class="middle even sf-item-4 sf-depth-2"><a href="/aphid-alert/2000" class="sf-depth-2">2000</a></li><li id="menu-11531-1" class="middle odd sf-item-5 sf-depth-2"><a href="/aphid-alert/1999" class="sf-depth-2">1999</a></li><li id="menu-11536-1" class="last even sf-item-6 sf-depth-2"><a href="/aphid-alert/1998" class="sf-depth-2">1998</a></li></ul></li></ul>
+  
+  </div>
+</nav>      </div>
+          </div>
+  </div>
+  <div id="full-page-wrapper">
+    <div id="page">
+            <div id="content" class="column" role="main">
+        <div class="panel-pane pane-pane-messages"  >
+  
+      
+  
+  
+
+
+  
+  </div>
+<div class="panel-pane pane-page-content"  >
+  
+      
+  
+  
+<div class="panel-display brenham-flipped clearfix radix-brenham-flipped" >
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12 radix-layouts-header panel-panel">
+        <div class="panel-panel-inner">
+          <div class="panel-pane pane-node-title"  >
+  
+      
+  
+  <h1>Integrated Pest Management In Indian Agriculture: A Developing Economy Perspective</h1>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-body"  >
+  
+      
+  
+  <div class="field field-name-field-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Vijesh V. Krishna<br> Department of Agricultural Economics<br> University of Agricultural Sciences, Bangalore, India</p>
+<p>N.G. Byju <br> Department of Agricultural Entomology<br> University of Agricultural Sciences, Bangalore, India</p>
+<p>S. Tamizheniyan<br> Department of Agricultural Economics<br> University of Idaho, Moscow, Idaho</p>
+<p>Regardless of political ideology, environmental issues are becoming paramount in all economic systems from the very poor to the very rich. India, one of the world’s largest agricultural economies, poses no exception. Demand for chemical pest control and resulting negative externalities have expanded greatly during the last four decades (Chand and Birthal 1997). </p>
+<p>Three decades back, intensive and extensive cultivation of high yielding varieties of crops were introduced in India to increase food grain production. The new crop varieties and cropping sequences, especially monocropping, along with injudicious and indiscriminate use of pesticides created many problems.  Several hitherto unimportant pest species began to cause economic losses. Others, especially polyphagous insects, have precipitated national problems (Srinivasa 1993). One glaring example is the old world bollworm, Helicoverpa armigera (Noctuidae: Lepidoptera), which caused a 66 per cent reduction in the yield of seed cotton in Andhra Pradesh State during the 1987-88 crop season.  Previously, this pest only seriously affected rabi crops such as chickpea and was commonly known as the gram pod borer. Similar outbreaks have been reported for other insects: Whitefly in 1984-85 and 1985-86 in South Indian states, and tobacco caterpillar in 1977-78 and 1979-80 in the states of Tamil Nadu and Gujarat (Arunakumara 1995) and more recently, coconut mite, Aceria guererronis (Eriophyidae: Acarinae). </p>
+<p>The agrochemical industry in India now produces 47,020 metric tons of pesticide (Directorate of Plant Protection and Quarantine 2002). Growth in pesticide consumption by Indian Agriculture is shown in Figure 1. Although pesticide consumption in India is low (around 500 g per ha) compared to other countries like Japan (12 kg per ha) and Germany (3 kg per ha), problems in India resulting from unregulated use are quite alarming.  The predominant classes of pesticides used in India (during 2000-01) were insecticides, accounting for 61 per cent of total consumption, followed by fungicides (19 %) and herbicides (17 %) (Fig 2). In India, most pesticide use is on cotton (45%), followed by rice (22%) (Fig. 3).</p>
+<p><img alt="graph showing pesticide consumption in India from 1955 to 2001" class="media-element file-default panopoly-image-original" src="//ipmworld.umn.edu/sites/ipmworld.umn.edu/files/styles/panopoly_image_original/public/krishna_figure_1.gif?itok=bIOipC2i" /></p>
+<p><img alt="pie chart showing the composition of pesticide use in India" class="media-element file-default panopoly-image-original" src="//ipmworld.umn.edu/sites/ipmworld.umn.edu/files/styles/panopoly_image_original/public/krishna_figure_2.gif?itok=jNL_6Q4-" /></p>
+<p><img alt="pie chart showing pesticide consumption rates by crop in India" class="media-element file-default panopoly-image-original" src="//ipmworld.umn.edu/sites/ipmworld.umn.edu/files/styles/panopoly_image_original/public/krishna_figure_3.gif?itok=AvisqSgr" /></p>
+<p>In recent years, low external inputs and traditional techniques, including non-chemical alternatives, have been increasingly urged for India. These are viewed as technology options that could help create sustainable systems and decrease or avoid the needs for expensive and undesirable chemical inputs. Alternative agriculture has argued for an economically viable production to be viewed in the context of a healthier, environmentally friendly and sustainable chemical agriculture and the need for investment in low external input and non-chemical alternatives that include farmer empowerment. Numerous models exist and have been advocated and based on their respective inputs / nutrient management principles. They may be broadly classified into: (a) Integrated Pest Management (IPM), (b) Low External Input Sustainable Agriculture (LEISA), and (c) Organic Agriculture. Many sustainable agriculture initiatives and approaches based on these principles have now proved successful, with use of pesticides varying from more to only a limited amount. Of these, IPM is the one commonly advocated and widely adopted.</p>
+<h2>Status of IPM in India</h2>
+<p>India has an agrarian economy, where the 1012.4 million population is dependent on agricultural commodities from 124.07 million hectares cropped area cultivated by 110.7 million producers (Prasad 2001). For rapid dissemination of IPM information, IPM related activities are being implemented through 26 Central Integrated Pest Management Centers (CIPMCs) located in 23 States and Union Territories.</p>
+<p>Major activities under the IPM approach include undertaking sample roving surveys for monitoring pest/disease situations on major crops, production and release of bio-control agents and conducting Farmers’ Field Schools (FFSs).  Pest/disease situations are monitored regularly in the states covering 644,000 hectares (ha) of the targeted area of 469,000 ha.  Pest situation reports received from field stations and states were compiled and comprehensive weekly and monthly reports circulated to the concerned officers and scientists of State Departments of Agriculture/State Agricultural Universities and ICAR Institutes to help them take appropriate remedial measures.</p>
+<p>A total of 16,260 thousand bio-control agents have been mass produced in the laboratories and released (up to December, 2002) against insect pests in rice, cotton, sugarcane, pulses, vegetables and oilseeds (against the targeted release of 11,570 thousands during the year 2002-03. (40.54 % increase than expected)  An area of 523 thousands ha has been covered against the targeted area of 367 thousands ha. in different states against various insect pests through augmentation and conservation  (a 42.51 % increase over expected) (<a href="http://agricoop.nic.in/plantprotec02.htm">http://agricoop.nic.in/plantprotec02.htm</a>).    </p>
+<p>During the eight-year period from 1994-95 to 2001-02, the government of India spent nearly Rs. 14,926 million for biocontrol of pests on different crops, covering a land area of 4.3 million hectares.  In addition to this, Rs. 59 million was spent for pest monitoring. The largest states of India, Madhya Pradesh, Maharashtra, Uttar Pradesh, Andhra Pradesh, and Karnataka, rank highest in accomplishing IPM.  A smaller state, Punjab has also done well in IPM (Table 1). The disparity between different components of IPM accomplishment should be noted.</p>
+<table>
+<tr>
+<td colspan="8">
+<p><strong> Table 1. </strong>Accomplishments of IPM in India (During 1994-95 to 2001-02)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><strong> Major States and All India</strong></p>
+</td>
+<td>
+<p><strong> Pest Monitoring (Million Rupees)</strong></p>
+</td>
+<td colspan="2">
+<p><strong> Biocontrol</strong></p>
+</td>
+<td colspan="3">
+<p><strong> IPM Training &amp; Demonstration</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong> Release (Million Rupees)</strong></p>
+</td>
+<td>
+<p><strong> Area Coverage (Lakh ha)<br>  </strong></p>
+</td>
+<td>
+<p><strong> Number of FFSs</strong></p>
+</td>
+<td>
+<p><strong> AEOs Trained</strong></p>
+</td>
+<td>
+<p><strong> Farmers Trained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>States</p>
+</td>
+<td>
+<p>Punjab</p>
+</td>
+<td>
+<p>3.00</p>
+</td>
+<td>
+<p>596.40</p>
+</td>
+<td>
+<p>3.03</p>
+</td>
+<td>
+<p>382</p>
+</td>
+<td>
+<p>2 140</p>
+</td>
+<td>
+<p>12 970</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Madhya Pradesh</p>
+</td>
+<td>
+<p>3.62</p>
+</td>
+<td>
+<p>1033.25</p>
+</td>
+<td>
+<p>2.81</p>
+</td>
+<td>
+<p>439</p>
+</td>
+<td>
+<p>1 945</p>
+</td>
+<td>
+<p>13 611</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Karnataka</p>
+</td>
+<td>
+<p>2.69</p>
+</td>
+<td>
+<p>1471.15</p>
+</td>
+<td>
+<p>3.00</p>
+</td>
+<td>
+<p>428</p>
+</td>
+<td>
+<p>2 037</p>
+</td>
+<td>
+<p>14 210</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Andhra Pradesh</p>
+</td>
+<td>
+<p>5.40</p>
+</td>
+<td>
+<p>1461.85</p>
+</td>
+<td>
+<p>3.84</p>
+</td>
+<td>
+<p>704</p>
+</td>
+<td>
+<p>2 334</p>
+</td>
+<td>
+<p>21 104</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Uttar Pradesh</p>
+</td>
+<td>
+<p>7.49</p>
+</td>
+<td>
+<p>1494.43</p>
+</td>
+<td>
+<p>4.38</p>
+</td>
+<td>
+<p>852</p>
+</td>
+<td>
+<p>2 886</p>
+</td>
+<td>
+<p>22 305</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Maharashtra</p>
+</td>
+<td>
+<p>2.62</p>
+</td>
+<td>
+<p>938.80</p>
+</td>
+<td>
+<p>2.80</p>
+</td>
+<td>
+<p>792</p>
+</td>
+<td>
+<p>3 912</p>
+</td>
+<td>
+<p>24 960</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>All India - Achievement</p>
+</td>
+<td>
+<p>58.89</p>
+</td>
+<td>
+<p>14925.70</p>
+</td>
+<td>
+<p>42.63</p>
+</td>
+<td>
+<p>7 257</p>
+</td>
+<td>
+<p>30 381</p>
+</td>
+<td>
+<p>219 141</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>All India - Targets</p>
+</td>
+<td>
+<p>54.00</p>
+</td>
+<td>
+<p>14000.00</p>
+</td>
+<td>
+<p>38.50</p>
+</td>
+<td>
+<p>7 620</p>
+</td>
+<td>
+<p>37 560</p>
+</td>
+<td>
+<p>224 960</p>
+</td>
+</tr>
+<tr>
+<td colspan="8">
+<p>Abbr: FFSs: Farmer's Field Schools.  AEOs: Agriculture Extension Officers.<br> Source: National Conference of Agriculture for Rabi Campaign 2002-03, Ministry of Agriculture, Govt. of India.</p>
+</td>
+</tr>
+</table>
+<p><img alt="graph showing pesticide consumption and IPM investment in different states in India" class="media-element file-default panopoly-image-original" src="//ipmworld.umn.edu/sites/ipmworld.umn.edu/files/styles/panopoly_image_original/public/krishna_figure_4.gif?itok=HmWHxhYt" /></p>
+<p>It can be also seen that the states that are progressing with IPM, are also ahead in using synthetic agrochemicals. Figure 4 indicates such a positive and significant relationship between consumption of pesticides and investment in IPM. This may indicate an increase in gross cropped area accounts for the increased expenditure on IPM rather than the policy changes of selected districts.  </p>
+<p>Table 2 shows the major bio pesticides consumed in India - <em> Bacillus thuringiensis</em> (Bt) and neem-based insecticides.  India needs an improved and newer group of bio pesticides. The exponential rate of increase in bio pesticide consumption (together with reduced synthetic pesticide consumption) is a positive sign that India’s agricultural community is becoming more concerned about the negative consequences of agrochemical usage.</p>
+<table>
+<tr>
+<td colspan="6">
+<p><strong>Table 2. </strong>Bio Pesticide Consumption in India [MT(Tech. Grade)]</p>
+</td>
+<!--[if !supportMisalignedRows]--><td></td>
+<!--[endif]--></tr>
+<tr>
+<!--[if !supportMisalignedRows]--><td></td>
+<!--[endif]--></tr>
+<tr>
+<td>
+<p><strong>Bio pesticide</strong></p>
+</td>
+<td>
+<p><strong> 1996-97</strong></p>
+</td>
+<td>
+<p><strong> 1997-98</strong></p>
+</td>
+<td>
+<p><strong> 1998-99</strong></p>
+</td>
+<td>
+<p><strong> 1999-2000</strong></p>
+</td>
+<td>
+<p><strong> 2000-01</strong></p>
+</td>
+<!--[if !supportMisalignedRows]--><td> </td>
+<!--[endif]--></tr>
+<tr>
+<td>
+<p><em> Bacillus thuringiensis</em> (Bt)</p>
+</td>
+<td>
+<p>33</p>
+</td>
+<td>
+<p>41</p>
+</td>
+<td>
+<p>71</p>
+</td>
+<td>
+<p>135</p>
+</td>
+<td>
+<p>132</p>
+</td>
+<!--[if !supportMisalignedRows]--><td></td>
+<!--[endif]--></tr>
+<tr>
+<td>
+<p>Neem based insecticides</p>
+</td>
+<td>
+<p>186</p>
+</td>
+<td>
+<p>354</p>
+</td>
+<td>
+<p>411</p>
+</td>
+<td>
+<p>739</p>
+</td>
+<td>
+<p>551</p>
+</td>
+<!--[if !supportMisalignedRows]--><td></td>
+<!--[endif]--></tr>
+<tr>
+<td>
+<p>Total</p>
+</td>
+<td>
+<p>219</p>
+</td>
+<td>
+<p>395</p>
+</td>
+<td>
+<p>482</p>
+</td>
+<td>
+<p>874</p>
+</td>
+<td>
+<p>683</p>
+</td>
+<!--[if !supportMisalignedRows]--><td></td>
+<!--[endif]--></tr>
+</table>
+<p class="publications">Source: Directorate of Plant Protection and Quarantine, Faridabad</p>
+<h2>Economics of IPM</h2>
+<p>To date, successful IPM programs have produced many benefits. These include (i) lower production costs (at farm level), (ii) enormous savings for governments from reduced pesticide imports and subsidies for pesticide use, (iii) reduced environmental pollution, particularly improved soil and water quality, (iv) reduced farmer and consumer risks from pesticide poisoning and related hazards, and (v) ecological sustainability by conserving natural enemy species, biodiversity, and genetic diversity.</p>
+<p>As mentioned earlier, the acceptability of a farming practice is primarily determined by short-term profitability. IPM attempts to integrate available pest control methods to achieve a farmer’s most effective, economical, and sustainable combination for a particular local situation. Studies have been carried out to examine the resource use pattern and profitability of IPM vis-à-vis non-IPM farming practices. The results of a recent study are presented in Table 3.</p>
+<p>A study of the costs and returns of IPM and non-IPM farms in rice cultivation in the Thanjavur Delta of Tamil Nadu by Tamizheniyan during 2001 showed that IPM farms were resource efficient and more productive and profitable than non-IPM farms.</p>
+<table>
+<tr>
+<td colspan="4"><strong>Table 3. </strong>Costs and Returns of IPM and Non-IPM farms in rice cultivation – Thanjavur Delta, Tamil Nadu State (Rs./Acre)</td>
+</tr>
+<tr>
+<td>
+<p><strong>Particulars</strong></p>
+</td>
+<td>
+<p><strong> IPM (Rs.)</strong></p>
+</td>
+<td>
+<p><strong> Non-IPM (Rs.)</strong></p>
+</td>
+<td>
+<p><strong> Pooled (Rs.)</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Seed</p>
+</td>
+<td>
+<p>          407.25</p>
+<p>(4.06)</p>
+</td>
+<td>
+<p>434.70</p>
+<p>(4.16)</p>
+</td>
+<td>
+<p>420.98</p>
+<p>(4.11)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Organic Manure</p>
+</td>
+<td>
+<p>999.50</p>
+<p>(9.96)</p>
+</td>
+<td>
+<p>791.94</p>
+<p>(7.58)</p>
+</td>
+<td>
+<p>895.72</p>
+<p>(8.75)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chemical Fertilizer</p>
+</td>
+<td>
+<p>1230.33</p>
+<p>(12.26)</p>
+</td>
+<td>
+<p>1791.03</p>
+<p>(17.14)</p>
+</td>
+<td>
+<p>1510.68</p>
+<p>(14.75)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Plant Protection Chemicals</p>
+</td>
+<td>
+<p>230.75</p>
+<p>(2.30)</p>
+</td>
+<td>
+<p>727.38</p>
+<p>(6.96)</p>
+</td>
+<td>
+<p>479.07</p>
+<p>(4.68)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Human Labour</p>
+</td>
+<td>
+<p>5633.17</p>
+<p>(56.15)</p>
+</td>
+<td>
+<p>5386.73</p>
+<p>(51.53)</p>
+</td>
+<td>
+<p>5509.94</p>
+<p>(53.79)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Animal / Tractor Charge</p>
+<p> </p>
+</td>
+<td>
+<p>1266.87</p>
+<p>(12.63)</p>
+</td>
+<td>
+<p>1114.38</p>
+<p>(10.66)</p>
+</td>
+<td>
+<p>1190.63</p>
+<p>(11.62)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Other Costs</p>
+</td>
+<td>
+<p>264.37</p>
+<p>(2.64)</p>
+</td>
+<td>
+<p>205.60</p>
+<p>(1.97)</p>
+</td>
+<td>
+<p>234.98</p>
+<p>(2.29)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total Cost</p>
+</td>
+<td>
+<p>10032.24</p>
+<p>(100.00)</p>
+</td>
+<td>
+<p>10451.76</p>
+<p>(100.00)</p>
+</td>
+<td>
+<p>10242.00</p>
+<p>(100.00)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gross Return</p>
+</td>
+<td>
+<p>16,213.17</p>
+</td>
+<td>
+<p>14,900.93</p>
+</td>
+<td>
+<p>15,557.05</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Net Return</p>
+</td>
+<td>
+<p>6180.93</p>
+</td>
+<td>
+<p>4449.17</p>
+</td>
+<td>
+<p>5315.05</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>BC ratio</p>
+</td>
+<td>
+<p>1.62</p>
+</td>
+<td>
+<p>1.43</p>
+</td>
+<td>
+<p>1.53</p>
+</td>
+</tr>
+</table>
+<p>Note: Figures in parentheses show percentages to total cost.<br> Source: Tamizheniyan, 2001.</p>
+<p><strong>The total cost per acre on IPM farms was Rs. 10,452 compared to Rs. 10,032 on non IPM farms. The gross return was Rs. 16,213 compared to Rs. 14,900.  The Benefit Cost Ratio was 1.62 for IPM, compared to 1.43 for Non-IPM farms.</strong></p>
+<p>Similar results were obtained in another study conducted on the economics of the IPM approach in Basmati rice (Garg 1999). The main aim of that study was to develop an IPM system in Basmati rice that would make farmers aware of the ill effects of indiscriminate use of pesticides and the benefits of IPM. Yield data showed that all IPM farmers secured higher rice yields than those using conventional chemical control tactics. It was also evident that farmer’s practice of not applying pesticide or very little pesticide was better than the indiscriminate use of pesticide which might have suppressed the natural enemy population.</p>
+<h2>Farmers’ perception about hazardous effects of Pesticides</h2>
+<p>Although IPM has been accepted in principle as the most attractive option for protection of agricultural crops from the ravages of insect and non-insect pests, implementation at farm level in India had been rather limited (Puri 1998). Production uncertainty is commonly believed to be an impediment to adoption of less pesticide-intensive methods in agriculture such as IPM (Hurd 1994). To understand the Indian farmer’s perception about hazardous effects of pesticides, a survey was conducted among rice farmers following IPM and non-IPM practices in the Thanjavur delta, a major rice production belt of peninsular India (Tamizheniyan, 2001). The results are presented in Table 4.</p>
+<table>
+<tr>
+<td colspan="4"><strong>Table 4: </strong>Farmers’ perception about hazardous effects of pesticides</td>
+</tr>
+<tr>
+<td>
+<p><strong>Categories </strong></p>
+</td>
+<td>
+<p><strong> Farmers’ Perception</strong></p>
+</td>
+<td>
+<p><strong>IPM farmers</strong></p>
+</td>
+<td>
+<p><strong> Non IPM farmers</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em> Pesticides are not highly hazardous to human health</em></p>
+</td>
+<td>
+<p>No effect</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Very little effect</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Little effect</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em> Pesticides are hazardous to human health</em></p>
+</td>
+<td>
+<p>Much effect</p>
+</td>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Very much effect</p>
+</td>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>High effect</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Total</p>
+</td>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>40</p>
+</td>
+</tr>
+</table>
+<p>Source: Tamizheniyan 2001.</p>
+<p>It can be observed that the IPM farmers were more likely to see pesticides as causing hazardous effects to human health than were non-IPM farmers. One-sample c2 Test was employed (Appendix I) on these data and showed this observation to be statistically significant at a 5 per cent level of significance. This difference in attitude towards negative externality created by pesticide use might be acting as an impediment towards adoption of pesticide saving farming practices like IPM.</p>
+<h2>Conclusion</h2>
+<p>The increasing cost of plant protection and accelerating  pest incidents make agriculture a risky and less profitable enterprise. At the same time the toxic materials generated from chemical farming pollute the environment and harm consumers’ and farmers’ health. A more environmentally friendly and economical alternative for India would be adoption of Integrated Pest Management. Additionally, from the viewpoint of sustainability, attaining growth while maintaining the natural capital intact, IPM is superior compared to conventional farming (Chopra 1993). It should, therefore be appreciated and encouraged to a greater extent both by governments and NGOs'.</p>
+<h2>References</h2>
+<ul>
+<li>Arunakumara, V.K. 1995. <em> Externalities in the use of pesticides: An economic analysis in a Cole crop.</em> MSc Thesis (Unpblished), UAS, Bangalore.</li>
+<li>Chand, Ramesh and Birthal, P.S. 1997. Pesticide use in Indian agriculture in relation to growth in area and production and technological change. <em>Indian Journal of Agricultural Economics, </em><strong>52</strong>(3): 488-498.</li>
+<li>Chopra, K. 1993.Sustainability of agriculture. <em>Indian Journal of Agricultural Economics</em>, <strong>48</strong>(3): 527-537</li>
+<li>Garg, D.K.1999. Development of an IPM approach in Basmati rice. <em>Annual Report,</em> NCIPM, p: 13-19.</li>
+<li>Hurd, B.H. 1994. Yield response and production risk: An analysis of integrated pest management in cotton. <em> Journal of Agricultural and Resource Economics</em>, <strong>19</strong> (2): 313-326.</li>
+<li>Karanth, N.G.K. 2002. <em> Challenges of Limiting Pesticide Residues in Fresh Vegetables: The Indian Experience</em>. In E. Hanak, E. Boutrif, P. Fabre, and M. Pineiro, (Scientific Editors), Food Safety Management in Developing Countries. Proceedings of the International Workshop, CIRAD-FAO, pp.11-13, December 2000, Montpellier, France.</li>
+<li>Prasad, S.S.  2001. <em> Country Report – India</em>. Report prepared for the meeting of the Programme Advisory Committee (PAC), Ayutthaya, Thailand, November 2001.</li>
+<li>Puri, S.N.  1998. Present status of Integrated Pest Management in India. Paper presented at Seminar on IPM, Asian Productivity Organization at Thailand Productivity Institute, Bangkok.</li>
+<li>Srinivasa, D.K..1993. Environment and human health. <em>Environmental problems and prospects in India</em>, Oxford and IBH Publications, New Delhi.</li>
+<li>Tamizheniyan, S. 2001. <em> Integrated </em><em>Pest Management in rice farming in Thiruvarur District of Tamil Nadu: A Resource Economic analysis</em>. MSc Thesis (Unpublished), UAS, Bangalore.</li>
+</ul>
+<table>
+<tr>
+<td colspan="2"><strong>Appendix I: </strong>atistical Significance of Farmer’s Perception towards Hazardous effect of pesticides in rice farming</td>
+</tr>
+<tr>
+<td>
+<p><strong>   IPM Farmers</strong></p>
+</td>
+<td>
+<p><strong>    Non-IPM Farmers</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Null hypothesis, <strong>H0</strong>: Perception of farmers is not different across all categories.</p>
+<p>Alternative Hypothesis, <strong>H1</strong>: Farmers think pesticides as hazardous for human health. <br>  </p>
+</td>
+<td>
+<p>Null hypothesis, <strong>H0</strong>: Perception of farmers is not different across all categories.</p>
+<p>Alternative Hypothesis, <strong>H1</strong>: Farmers think pesticides as not hazardous for human health.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Level of Significance, a = 0.05<br>  </p>
+</td>
+<td>
+<p>Level of Significance, a = 0.05</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Degrees of Freedom, df = 5<br>  </p>
+</td>
+<td>
+<p>Degrees of Freedom = 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>c2 calculated = 14.9<br>  </p>
+</td>
+<td>
+<p>c2 calculated = 18.5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>c2 table(a = 0.05, df = 5) = 11.07<br>  </p>
+</td>
+<td>
+<p>c2 table(a = 0.05, df = 5) = 11.07</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Decision: Reject H0<br>  </p>
+</td>
+<td>
+<p>Decision: Reject H0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Conclusion: Farmers general perception is that pesticides are hazardous to human health</p>
+</td>
+<td>
+<p>Conclusion: Farmers general perception is that pesticides are not hazardous to human health</p>
+</td>
+</tr>
+</table>
+<p>Source: Computed from Table 4.</p>
+</div></div></div>
+  
+  </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-8 radix-layouts-content panel-panel">
+        <div class="panel-panel-inner">
+          <div class="content-generic" id="contentmain"></div>        </div>
+      </div>
+      <div class="col-md-4 radix-layouts-sidebar panel-panel">
+        <div class="panel-panel-inner">
+                  </div>
+      </div>
+    </div>
+  </div>
+    
+</div><!-- /.brenham-flipped -->
+  
+  </div>
+      </div>
+    </div>
+    <div id="footer-wrapper">
+      <div id='sub-footer'><div id="sub_footer" class="clearfix equal-sized-pane-region equal-sized-pane-region-2"><div class='equal-sized-pane equal-sized-pane-1'><div class="panel-pane pane-fieldable-panels-pane pane-fpid-11 pane-bundle-text"  >
+  
+      
+  
+  <div class="fieldable-panels-pane">
+    <div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="http://www.cfans.umn.edu/"><img alt="College of Food, Agricultural and Natural Resource Sciences." class="media-element file-default panopoly-image-original" src="//ipmworld.umn.edu/sites/ipmworld.umn.edu/files/styles/panopoly_image_original/public/CFANS-white.png?itok=JF6HoK1M" /></a></p>
+</div></div></div></div>
+
+  
+  </div>
+</div><div class='equal-sized-pane equal-sized-pane-2'><div class="panel-pane pane-fieldable-panels-pane pane-fpid-1 pane-bundle-text"  >
+  
+      
+  
+  <div class="fieldable-panels-pane">
+    <div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p style="text-align:right">Department of Entomology | 219 <a href="http://www1.umn.edu/twincities/maps/HodsonH/">Hodson Hall</a> | 1980 Folwell Ave. | St. Paul, MN 55108<br>612-624-3636 | <a href="mailto:entodept@umn.edu">entodept@umn.edu</a></p>
+</div></div></div></div>
+
+  
+  </div>
+</div></div></div>    </div>
+  </div>
+        <script src="http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_widgets/panopoly-widgets.js?ogqoo1"></script>
+<script src="http://ipmworld.umn.edu/profiles/umncore/modules/panopoly/panopoly_widgets/panopoly-widgets-spotlight.js?ogqoo1"></script>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f70dde473a","applicationID":"29234191,22515995","transactionName":"Y1cAYUAAV0dZBRZaDVodI1ZGCFZaFxYDVAdrXwNbUwZcRmcIDVcHa0QLUEU+SVVfAw==","queueTime":0,"applicationTime":200,"atts":"TxADFwgaREk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+                <!-- Begin Footer Region -->
+        <div id="bottom-page-wrapper">
+            <!-- Begin Unit Footer -->
+                        <!-- End Unit Footer -->
+
+            <!-- Begin UMN Footer -->
+            <footer id="umnhf-f" class="umnhf" role="contentinfo">
+                <nav id="umnhf-f-myu">
+                    <h3 class="umnhf-f-title visually-hidden">For Students, Faculty, and Staff</h3>
+                    <ul>
+                        <li><a href="http://onestop.umn.edu/">One Stop</a></li>
+                        <li><a href="https://www.myu.umn.edu/">MyU <span></span></a></li>
+                    </ul>
+                </nav>
+                <small>© <span id="cdate">2016</span> Regents of the University of Minnesota. All rights reserved. The University of Minnesota is an equal opportunity educator and employer. <a href="http://privacy.umn.edu">Privacy Statement</a></small>
+                <small><a href="http://oit-drupal-prd-web.oit.umn.edu/index.php?ref_url=http://ipmworld.umn.edu/krishna-indian-ag">Report Accessibility Issue</a></small>
+                <!-- Optional last updated link-->
+                 <!-- add time tag w datetime attr -->
+            </footer>
+            <!-- End UMN Footer -->
+        </div>
+        
+    </body>
+</html>

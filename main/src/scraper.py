@@ -23,84 +23,86 @@ os.chdir('../../outputs/')
 #exit()
 #various typical requests
 #todo: add into a string array and call ?
-res = requests.get('https://www.google.com/search?q=pests+diseases+tamil+nadu+agriculture')
-stubFilename='pestResults'
+#res = requests.get('https://www.google.com/search?q=pests+diseases+tamil+nadu+agriculture')
+stubFilename='farmSize'
 #res = requests.get('https://www.google.com/search?q=soil+degradation+tamil+nadu+agriculture')
-#res = requests.get('https://www.google.com/search?q=farm+sizes+tamil+nadu+agriculture')
+res = requests.get('https://www.google.com/search?q=farm+sizes+tamil+nadu+agriculture')
 
 numberOfGoogleResults=20
 res.raise_for_status()
 soup = bs4.BeautifulSoup(res.text,"lxml")
 linkElems = soup.select('.r a')
 numOpen = min(numberOfGoogleResults, len(linkElems))
+print 'value of  numOpen is ' + `numOpen`
 
 for i in range(numOpen):
-    #find if href has .pdf in it
-    res = requests.get('http://google.com' + linkElems[i].get('href'))
     try:
-        res.raise_for_status()
+        #find if href has .pdf in it
+        res = requests.get('http://google.com' + linkElems[i].get('href'))
+        try:
+            res.raise_for_status()
+        except:
+            print "exception occured"
+        else:
+            #create a unique file name to store each of the results
+            combinedFileName=stubFilename +`i`
+            waterResultFile = open(combinedFileName, 'wb+')
+            for chunk in res.iter_content(100000):
+                waterResultFile.write(chunk)
+            waterResultFile.close()
+            hrefValue=linkElems[i].get('href')
+
+            if(hrefValue.find('.pdf')>0):
+                print 'file number ' + `i`+  ' is a pdf file'
+                os.rename(combinedFileName,combinedFileName+'.pdf')
+                pdfFileObj = open(combinedFileName+'.pdf', 'rb')
+                pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
+                pageObj = pdfReader.getPage(0)
+                extractedText=pageObj.extractText()
+
+                for i in xrange(pdfReader.getNumPages()):
+                    pageObj = pdfReader.getPage(i)
+                    extractedText=extractedText+pageObj.extractText()
+
+                #remove the file if it already exists
+                try:
+                    os.remove(combinedFileName+'InTxtFormat.txt')
+                except OSError:
+                    pass
+
+                #write the extracted text from pdf document to a txt file
+                target = open(combinedFileName+'InTxtFormat.txt', 'w')
+                target.write(extractedText)
+                target.close()
+            else:
+                #if file is html or txt
+                print'file number ' + `i`+  ' is not a pdf file'
+
+                #get the unicode converted file and rename it as html
+                os.rename(combinedFileName,combinedFileName+'.html')
+
+                #read into an html handle
+                #myhtml = open(outputDirectory+combinedFileName+".html").read()
+                myhtml = open(combinedFileName+".html").read()
+
+                #remove the file if it already exists
+                try:
+                    #os.remove(outputDirectory+combinedFileName+'InTxtFormat.txt')
+                    os.remove(combinedFileName+'InTxtFormat.txt')
+                except OSError:
+                    pass
+
+            	#ignore links
+                h = html2text.HTML2Text()
+                h.ignore_links = True
+
+                convertedText=h.handle(myhtml.encode('utf-8').strip())
+
+                # #write the converted text to a txt file
+                #target = open(outputDirectory+combinedFileName+'InTxtFormat.txt', 'w')
+                target = open(combinedFileName+'InTxtFormat.txt', 'w')
+                target.write(html2text.html2text(convertedText).encode('utf-8'))
+                target.close()
     except:
-        print("exception occured")
-        break;
-
-    #create a unique file name to store each of the results
-
-    combinedFileName=stubFilename +`i`
-    waterResultFile = open(combinedFileName, 'wb+')
-    for chunk in res.iter_content(100000):
-        waterResultFile.write(chunk)
-    waterResultFile.close()
-    hrefValue=linkElems[i].get('href')
-
-    if(hrefValue.find('.pdf')>0):
-        print 'file number ' + `i`+  ' is a pdf file'
-        os.rename(combinedFileName,combinedFileName+'.pdf')
-        pdfFileObj = open(combinedFileName+'.pdf', 'rb')
-        pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
-        pageObj = pdfReader.getPage(0)
-        extractedText=pageObj.extractText()
-
-        for i in xrange(pdfReader.getNumPages()):
-            pageObj = pdfReader.getPage(i)
-            extractedText=extractedText+pageObj.extractText()
-
-        #remove the file if it already exists
-        try:
-            os.remove(combinedFileName+'InTxtFormat.txt')
-        except OSError:
-            pass
-
-        #write the extracted text from pdf document to a txt file
-        target = open(combinedFileName+'InTxtFormat.txt', 'w')
-        target.write(extractedText)
-        target.close()
-    else:
-        #if file is html or txt
-        print'file number ' + `i`+  ' is not a pdf file'
-
-        #get the unicode converted file and rename it as html
-        os.rename(combinedFileName,combinedFileName+'.html')
-
-        #read into an html handle
-        #myhtml = open(outputDirectory+combinedFileName+".html").read()
-        myhtml = open(combinedFileName+".html").read()
-
-        #remove the file if it already exists
-        try:
-            #os.remove(outputDirectory+combinedFileName+'InTxtFormat.txt')
-            os.remove(combinedFileName+'InTxtFormat.txt')
-        except OSError:
-            pass
-
-    	#ignore links
-        h = html2text.HTML2Text()
-    	# Ignore converting links from HTML
-    	h.ignore_links = True
-    	#convert html to text
-    	convertedText=h.handle(myhtml)
-
-        # #write the converted text to a txt file
-        #target = open(outputDirectory+combinedFileName+'InTxtFormat.txt', 'w')
-        target = open(combinedFileName+'InTxtFormat.txt', 'w')
-        target.write(html2text.html2text(convertedText).encode('utf-8'))
-        target.close()
+        print "Exception occured in the entire function"
+        continue
