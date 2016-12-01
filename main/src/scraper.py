@@ -24,10 +24,11 @@ os.chdir('../../outputs/')
 #various typical requests
 #todo: add into a string array and call ?
 res = requests.get('https://www.google.com/search?q=pests+diseases+tamil+nadu+agriculture')
+stubFilename='pestResults'
 #res = requests.get('https://www.google.com/search?q=soil+degradation+tamil+nadu+agriculture')
 #res = requests.get('https://www.google.com/search?q=farm+sizes+tamil+nadu+agriculture')
 
-numberOfGoogleResults=100
+numberOfGoogleResults=20
 res.raise_for_status()
 soup = bs4.BeautifulSoup(res.text,"lxml")
 linkElems = soup.select('.r a')
@@ -36,10 +37,14 @@ numOpen = min(numberOfGoogleResults, len(linkElems))
 for i in range(numOpen):
     #find if href has .pdf in it
     res = requests.get('http://google.com' + linkElems[i].get('href'))
-    res.raise_for_status()
+    try:
+        res.raise_for_status()
+    except:
+        print("exception occured")
+        break;
 
     #create a unique file name to store each of the results
-    stubFilename='waterResults'
+
     combinedFileName=stubFilename +`i`
     waterResultFile = open(combinedFileName, 'wb+')
     for chunk in res.iter_content(100000):
