@@ -123,7 +123,7 @@ def parseGResults(myQS,startValue):
 
 
 #see if you can raise more than 10 google results
-for gCounter in my_range (1,40,10):
+for gCounter in my_range (73,numberOfGoogleResults,10):
     start =gCounter
     print start
     queryString='https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start='+`start`+'&num=10'
