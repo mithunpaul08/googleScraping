@@ -30,7 +30,7 @@ stubFilename='farmSize'
 res = requests.get('https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start=1&num=10')
 #https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start=1&num=10
 
-numberOfGoogleResults=40
+numberOfGoogleResults=1000
 
 def my_range(start, end, step):
     while start <= end:
@@ -66,7 +66,7 @@ def parseGResults(myQS,startValue):
                 hrefValue=linkElems[i].get('href')
 
                 if(hrefValue.find('.pdf')>0):
-                    print 'file number ' + `i`+  ' is a pdf file'
+                    print 'file number ' + `filenameCounter`+  ' is a pdf file'
                     os.rename(combinedFileName,combinedFileName+'.pdf')
                     pdfFileObj = open(combinedFileName+'.pdf', 'rb')
                     pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
@@ -89,7 +89,7 @@ def parseGResults(myQS,startValue):
                     target.close()
                 else:
                     #if file is html or txt
-                    print'file number ' + `i`+  ' is not a pdf file'
+                    print'file number ' + `filenameCounter`+  ' is not a pdf file'
 
                     #get the unicode converted file and rename it as html
                     os.rename(combinedFileName,combinedFileName+'.html')
