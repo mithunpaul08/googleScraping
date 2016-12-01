@@ -1,3 +1,12 @@
+#changes included in this version
+#1.1 download and save html files from the first one results---done
+#1.2 download and save html files from the first ten results----done
+#1.3 download html files from the first ten results---done
+#2. convert first 10 html results to text and save them---done
+#3. download pdf files from the first ten results--done
+#4. convert the pdf files into txt and save them---done
+#5. create a folder structure
+
 import requests, bs4, sys, webbrowser, html2text, os , PyPDF2
 
 # encoding=utf8
@@ -14,14 +23,15 @@ os.chdir('../../outputs/')
 #exit()
 #various typical requests
 #todo: add into a string array and call ?
-#res = requests.get('https://www.google.com/search?q=pests+diseases+tamil+nadu+agriculture')
+res = requests.get('https://www.google.com/search?q=pests+diseases+tamil+nadu+agriculture')
 #res = requests.get('https://www.google.com/search?q=soil+degradation+tamil+nadu+agriculture')
-res = requests.get('https://www.google.com/search?q=farm+sizes+tamil+nadu+agriculture')
+#res = requests.get('https://www.google.com/search?q=farm+sizes+tamil+nadu+agriculture')
 
+numberOfGoogleResults=100
 res.raise_for_status()
 soup = bs4.BeautifulSoup(res.text,"lxml")
 linkElems = soup.select('.r a')
-numOpen = min(5, len(linkElems))
+numOpen = min(numberOfGoogleResults, len(linkElems))
 
 for i in range(numOpen):
     #find if href has .pdf in it
@@ -89,17 +99,3 @@ for i in range(numOpen):
         target = open(combinedFileName+'InTxtFormat.txt', 'w')
         target.write(html2text.html2text(convertedText).encode('utf-8'))
         target.close()
-
-
-
-
-
-
-#todo
-#1.1 download and save html files from the first one results---done
-#1.2 download and save html files from the first ten results----done
-#1.3 download html files from the first ten results---done
-#2. convert first 10 html results to text and save them---done
-#3. download pdf files from the first ten results--done
-#4. convert the pdf files into txt and save them---done
-#5. create a folder structure

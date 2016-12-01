@@ -1,2759 +1,2936 @@
-1  Is 
-the 
-current land use pattern 
-in crop agriculture 
-is 
-sustainable in 
-the 
-Bhavani Basin 
-of So
-uthern India?
-: Application of 
-a Bi
-o-economic model
-   K. R. Karunakaran
- Associate Professor (Agricultural Economics)
- Tamil Nadu Rice Research Institute (TRRI)
- Aduth
-urai, Tamil Nadu, India
- (Corresponding author:  krkaruna@gmail.com
-)  S. Nedumaran
- Research Program 
-Œ Markets, Institutions and Policies
- International Crop Research Insitute for the Semi
--Arid Tropics (ICRISAT)
- Patancheru, Hyderabad, India
- (s.nedumaran@cgiar
-.org)
-   M. Chandrasekaran
- Professor 
-(Agricultural Economics)
- Center for Agricultural and Rural Development Studies (CARDS)
- Tamil Nadu Agricultural University
- Coimbatore, India
- (mcsekaran@gmail.com)
- 1  Is 
-the 
-current land use pattern 
-in crop agriculture 
-is 
-sustainable in 
-the 
-Bhavani Basin 
-of So
-uthern India?
-: Application of 
-a Bi
-o-economic model
-   K. R. Karunakaran
- Associate Professor (Agricultural Economics)
- Tamil Nadu Rice Research Institute (TRRI)
- Aduth
-urai, Tamil Nadu, India
- (Corresponding author:  krkaruna@gmail.com
-)  S. Nedumaran
- Research Program 
-Œ Markets, Institutions and Policies
- International Crop Research Insitute for the Semi
--Arid Tropics (ICRISAT)
- Patancheru, Hyderabad, India
- (s.nedumaran@cgiar
-.org)
-   M. Chandrasekaran
- Professor 
-(Agricultural Economics)
- Center for Agricultural and Rural Development Studies (CARDS)
- Tamil Nadu Agricultural University
- Coimbatore, India
- (mcsekaran@gmail.com)
- 2  Is 
-the 
-current land use
- pattern 
-in crop agriculture 
-is 
-sustainable in 
-the 
-Bhavani 
-Sub
--Basin of So
-uthern India?
-: Application of 
-a Bi
-o-economic model
-  Abstract
- Efficient and sustainable utilization of resources
-, particularly land and water resource
-s for agriculture 
-have
- occupied the centre stage in the economic ag
-enda of a nation. The regional resource availability
- and the 
- biotic, abiotic and socio
--economic constraints 
-are 
-largely 
-varied in the any crop production system of 
-that
- region. The integration of sustainable resource use with the production 
-programs 
-and i
-ncome as objective
-s of farming 
-thus
-, 
-leads to a multiple objective
--planning framework. 
-Attaining sustainable 
-increase in 
-agriculture production by considering the biophysical variability of the region without affecting the natural 
-resources base is 
-therefo
-re 
-very important to 
-achieve
- food security for 
-the growing population
- in a 
-developing country situation
-. The current study is to develop appropriate 
-land use pattern in crop agriculture
- for sustainable land and water use to the agricultural 
-development in the 
-Bavani Basin
- of 
-western zone of 
-Tamil Nadu
- state 
-in southern India
-, 
-using 
-a multiple goal 
-linear programming approach.
- Bhavani basin in the 
-western zone of Tamil Nadu
- - one of the most diversified in bio physical feature
-s, was evaluated 
-in this study.
- The 
-land use model 
- employed in the study following 
- the bio
--economic model by Shiferaw and Holden, 
-(2003) 
-who 
-incorporated 
-the 
-important variations in the biophysical system (land and soils) and 
-market characteristics. 
-This study 
-traced th
-e alternative cropping pattern which 
-would 
-maximize
-s the farm 
-net income 
-at a relatively lower water requirement, 
-lower land requirement (
-hectare days to ensure 
-relatively more fallow period 
-to lower land exhaustion rate) 
-and that would lower the environme
-nt damage 
-in-terms of lower Environmental Impact Quotient (EIQ) 
-with the given land and ground water availability of 
-each identified ten homogen
-eous land units
- beside the len
-gth of growing period determined on the basis of 
-quantum
- and distribution of rainf
-all and temperature
-.  The major biophysical factor
-s considered 
-beside
- the 
-land availability, ground and surface water availability
- were;
- crop suitability for the particular soil type, crop 
-sequence and climatic variations and these factors were specified a
-s constrain
-ts in the land use model. The 
-input data for the model 
-were collected from 
-the 
-sample respondents in the 
-delineated homogen
-eous land 
-units. The actual water availability for each standard week (t) was estimated after adjusting the effective 
+Pest and Disease Management: Organic Ecosystem 
+ Pest and Disease Management: Organic Ecosystem 
+ Pest and Disease Management: Organic Ecosystem 
+ Pest and Disease Management in Organic Ecosystem 
+General  Immense commercialisation of agriculture has had a very negative 
+effect on the environment. The use of pesticides has led to enormous levels 
 
-rainfall received during the period of crop stand from the total water requirement of each crop activity.  
- The land use model 
-estimats 
-reveal
-ed the
- possibility of increasing the crop income fr
-om 
-the 
-current level of 
-INR
- 6.14 billion to 
-INR 
-8.25 b
-illion annually
-. This alternative crop plan also helped to reduce the area under 
-high water consuming crop
-s in water deficit area
-s.  3   INTRODUCTION
- Economic development and human welfare largely depend on optimum utilization of natural resources. 
-There exist
-s a wide spatial diversity in quantity and quality of land and water resources 
-available 
-and 
-their 
-efficiency in use for agricultural and non
--agricultural purposes. Efficiency and sustainability paradigms have 
-therefore occupied the centre stage in the econ
-omic agenda of a nation. A large proportion of India™s land 
-shows clear evidence of advanced and continuous degradation, threatening to undermine the capacity to 
+of chemical buildup in our environment,
+ in soil, water, air, in animals and 
+even in our own bodies. Fertilisers have a short-term effect on productivity 
 
-increase food production and alleviate rural poverty (Abrol, 1994). Despite the critical situa
-tion, the increase 
+but a longer-term negative effect on 
+the environment where they remain for 
+years after leaching and running off, contaminating ground water and water 
+bodies. The use of hybrid seeds and the practice of monoculture has led to a 
+severe threat to local and indigenous varieties, whose germplasm can be lost 
 
-in population led to decline the per capita availability of net sown area from 1.76 ha in 1950
--51 to 0.
-11 ha
- in 
-Tamil Nadu in India
- in 
-2007
--200
-8. On the other hand, the water availability for agriculture from both surface 
-and ground wate
-r sources 
-was 
-not able to meet the increasing demand by the changing cropping pattern and 
-climatic variability. Annual internal renewable water resources in India fell by 652 cubic meter (cum)  per 
+for ever. All this for "productivity".  
+ In the name of growing more to feed the earth, it has taken the 
+wrong road of unsustainability. The effe
+cts show - farmers committing suicide 
+in growing numbers with every passing year; the horrendous effects of 
 
-capita  in about 12 years i.e., from 1896 cum in 1988 to 1
-244 cum in 2000 (HDR, 2000). The ground water 
-estimation committee (1994) estimated the annual replenishable ground water potential to be 431 bcm and 
+pesticide sprays,  pesticide contaminated bottled water and aerated 
 
-the ultimate irrigation potential in terms of area was estimated to be 80.38 mha. During the period from 
-1984
--85 to 1998
--99, the number of dark
-1 blocks (administrative unit consists of few villages) had increased 
-from 253 to 428 at the national level. If this trend continues, the number of overexploited blocks would be 
-doubled over a period of every twelve and
- half years (Swaminathan, 2002). In the State of Tamil Nadu the 
-groundwater was over exploited in 54 bocks
- out of a total of 
-385
--blocks
- which spread over in 16 districts 
-(CWC, 2000). 
+beverages are only some instances. The bigger picture that rarely makes 
+
+news however is that millions of people
+ are still underfed, and where they do 
+get enough to eat, the food
+ they eat has the capability to eventually kill them. 
+ Another negative effect of this trend has been on the fortunes of the 
+farming communities worldwide. Despite 
+this so-called increased productivity, 
+farmers in practically every country ar
+ound the world have seen a downturn 
+in their fortunes. This is where organic farming comes in. Organic farming has 
+
+the capability to take care of each 
+of these problems. Besides the obvious 
+immediate and positive effects organic or natural farming has on the 
+
+environment and quality of food, it also 
+greatly helps a farmer to become self-
+sufficient in his requirements for ag
+ro-inputs and reduce his costs.  
+ Modern farming affects our world, by the way of land exhaustion, 
+nitrate run off, soil erosion, soil comp
+action, loss of cultivated biodiversity, 
+habitat destruction, contaminated food and destruction of traditional 
+
+knowledge systems and traditions. Thus to
+ overcome the ill effects of modern 
+agriculture, can be delineated by adopting organic farming. 
  
-The integration of sustainable resource use with the production programs
- and income as objectives of 
-farming thus, leads to a multiple objective
--planning framework. Attaining sustainable increase in agriculture 
-production by considering the biophysical variability of the region without affecting the natural resources 
+     
+   Pest and Disease Management: Organic Ecosystem 
+ Concepts of Organic Farming 
+    
+     
+   
+     
+    Organic Agriculture
+ Ecological
+Social Economic Social justice and 
+participation
+ Viability, local 
+resources
+ Balances social, economic and ecological 
+issues Biologically feasible, ecologically stable, 
+economicall
+y viable & sociall
+y acce
+ptable 
+ Pest and Disease Management: Organic Ecosystem 
+ Principles of Organic Farming 
+    
+     Principles of 
+Organic Farming
+Health
+Ecology
+Care
+FairnessPest and Disease Management: Organic Ecosystem 
+ Modules in Organic Pest and Disease Management 
+  Organic farming methods
+ combine scientific knowledge of 
+ecology and modern technology with tr
+aditional farming practices based on 
+naturally occurring biological processes. Organic farming methods are studied 
 
-base is t
-herefore very important to 
-achieve
- food security for the growing population in a developing country 
-situation. 
-In 
-such a 
-situation
-, there is an urgent need to identify concrete policy measures that would permit 
-a simultaneous improvement of agricultural pr
-oduction and conservation of natural resource base especially 
+in the field of agroecology. While co
+nventional agriculture uses synthetic 
+pesticides and water-soluble syntheticall
+y purified fertilizers, organic farmers 
+are restricted by regulations to using 
+natural pesticides and fertilizers. The 
+principal methods of organic farming 
+include crop rotation, green manures 
+and compost, biological pest control,
+ and mechanical cultivation. These 
+measures use the natural environment to
+ enhance agricultural productivity: 
+legumes are planted to fix nitrogen into
+ the soil, natural insect predators are 
+encouraged, crops are rotated to confuse pests and renew soil, and natural 
 
-land and water resources. 
- Tamil Nadu 
-state in 
-southern 
-India 
-is divided into seven agro climatic zones based on rainfall distribution, 
-irrigation pattern, soil characteristics, cropping pattern
-, ecological and social characteristics. Among these 
-seven zones, the Western zone consisting of Coimbatore and Erode districts 
-covering Bhavani basin
- occupies 
-12.03 per cent of the state
-™s
- geographical area and 11.45 per cent of the state
-™s
- net sown area.
- This zone 
-accounts for 
-close to 15 per cent of degraded land in the State. The western zone receives the lowest annual 
+materials such as potassium bicarbon
+ate and mulches are used to control 
+disease and weeds. Organic farmers are careful in their selection of plant 
 
-rainfall of 700 mm compared to the 959 mm for the State. Beside
-s, well irrigation is 
-the pre
-domina
-nt source 
-of irrigation in this zone a
-ccounting 
-for 
-about 53 per
- cent of total irrigated area. The depth of the water 
-in 
-this zone however, 
-has fallen between 6 meters and 49.3 m
-eters
- in the 
-rainfall deficit years
- when the
- annual 
-                                                 1 Dark block are were the groundwater extraction is more than recharge
- 4  rainfall 
-was 
-around 450 mm. Due to poor maintenance and reductio
-n 
-in 
-storage capacity of tanks, ponds and 
-other small reservoirs 
-also 
-affect the groundwater recharge in th
-is zone. The over extraction of groundwater 
-and inefficient use of irrigation
- water
- for crops 
-also 
-leads to faster reduction in groundwater table. 
-The current study therefore
- aims 
-to answer the 
-following 
-question confronting the stakeholders in the region 
-namely:
- 1. What would be the optimal land allocation to different crop activities 
-that will maximize the net 
-farm income
- with the available 
-land, 
-water 
-and environmental resources 
-in 
-the region?
-  The overall objective of the study is to develop appropriate 
-land use pattern in crop agriculture
- for 
-sustainable land and water use to the agricultural development in the 
-Bhavani basin of the 
-west
-ern zone of 
-Tamil Nadu. 
- 2. METHODOLOGY
- In India, private property right for land will leads to over exploitation of land, water other resources which 
-causing spatial and temporal damages.  This study is indent to identify the land allocation pattern to th
-e different crops and how the different resources or inputs like labour, water and credit are judiciously used to 
+breeds, and organic researchers produce hardier plants through plant 
 
-reach the maximum net return with the available production activities in the context of sustainability. In 
-order to achieve the sustainability
- in land and water resources use, the spatial variability on bio
--physical 
-characters must be considered. This would be achieved by 
-identifying
- the homogeneous land which having 
-same bio
--physical features of surface water availability, ground water status a
-nd climatic feature like 
-temperature, rainfall and Length of Growing period (LGP). 
- Land Use Model
- Land use studies dealing with the future prospects are generally of two types
- - predictive and explorative. 
-The 
-explorative land use studies focus more on de
-fining the range of developmental possibilities at different 
-scale (Van Ittersum 
-et al
-., 1998). These studies emphasized the biophysical possibilities, assuming that 
-socioeconomic constraints could be managed in the long run (Van Keulen et al., 2000). Bio
--economic 
-modeling (BEM) approach was used to analyze the combined effect of land degradation, population growth, 
-market imperfections and increased risk of drought on household production, welfare and food security 
-(Holden and Shiferaw, 2002). They used dy
-namic non
--separable household model which maximized the 
-household welfare. 
- The 
-land use model
- employed in this study following 
-the bio
--economic model by Shiferaw and Holden, 
-(2003) 
-which 
-incorporated 
-the 
-important variations in the biophysical system (lan
-d and soils) and market 
-characteristics. 
-Loborte et. al.(2009) dev
-eloped and evaluated the methodology for exploring the lan
-ds use 
-option at s
-ub national level to improve the scientific basis for lands use planning which 
-provide
-d the 
-facilities 
-for land ev
-aluation for resource availability, scenario construction and land use optimization. 
-Following the 
-methodology t
-his study
- would 
-trace the alternative cropping pattern which maximizes the farm net income 
-5  with the given land and ground water availability of
- each identified ten homogen
-eous land units
- (HLUs)
-.  The 
-land and water availability of the each 
-HLU
-s were taken as constrain
-ts. The actual crop water availability for 
-each standard week (t) was estimated after adjusting the effective 
-rainfall received during the period of crop 
-stand from the total crop water requirement of each crop activity. 
- Input
--output coefficients
- The input
--output coefficients for the land use model were estimated from
- a sample
- of 
-330 farm households  
-spread in 22
- villages covering all identified 10 land units. 
-The distribution of the sample households among 
-the 10 
-HLU
-s is presented in Table 1. 
- Table 1 Distribution of Sample village in different land units
- Land Unit Classification
- Land units
- Geo area
- Selected villages
- ID Number
- area (ha)
- % share
- CBE
- Erode
- WZ Non ayacut critical average LGP
- 0CA
- 1 128370
- 10.92
- 1  1 Non ayacut over
--exploited average LGP
- 0OA
- 2 303836
- 25.84
- 2 3 5 Non ayacut 
-Œsemi
--critical
-- average LGP
- 0RA
- 3 182576
- 15.53
-  3 3 Non ayacut semi
--critical good LGP
- 0RG
- 4 32893
- 2.80
-  1 1 Non ayacut safe average LGP
- 0SA
- 5 46785
- 3.98
-  1 1 Ayacut critical average LGP
- 1CA
- 6 39362
- 3.35
- 1  1 Ayacut critical good LGP
- 1CG
- 7 36016
- 3.06
- 1  1 Ayacut over exploited average LGP
- 1OA
- 8 78946
- 6.72
- 2  2 Ayacut semi
--critical average LGP
- 1RA
- 9 280800
- 23.88
- 2 3 5 Ayacut safe average LGP
- 1SA
- 10 46061
- 3.92
-  2 2 Total  map area
- 1175645
- (75.40)
- 100
- 9 13 22 Reserved Forest (RF)
- 387625
- (24.60)
-     Total Geographical area
- 1563270
- (100)
-      The land uni
-t 0OA
-- Non ayacut 
-over exploited with average LGP less than 70 days of LGP without surface 
-water facility is spread over 3.
-03 lakh ha which constituted 
-25.84 per cent of the total geographical area of 
-the western zone (11,75, 645 ha which excluded 
-the reserved forest area). This is followed by the land unit 
-1RA
-- Ayacut 
-semi
--critical with average LGP with surface water facility which occupied about 2.80 lakh ha 
-(23.88 per cent of total area).
- The field survey was conducted during 2006 and the farm da
-ta were collected on recall basis for the normal 
-year 
-(2004
--05).  Primary data covering land use, cropping pattern, cultivation practices, irrigation, depth of 
-water table in the tube and open wells, well output, human
- labour
-, animal and machine 
-power 
-used
-, 
-chemical and other inputs used, crop outputs, input and output prices 
-paid and 
-received by farmers 
-respectively 
-and other household and farm details were collected from the selected sample farms through 
-a well
--structured pre tested questionnaire. The inp
-ut use and outputs 
-obtained 
-for different crop activities 
-were varying for each 
-of the 
-HLUs
- and 
-over seasons
-. The inputs required for cropping activities such as 
-fertilizer (N, P and K
- nutrients
-), water, pesticides and other expenses 
-on labour, bullock and 
- 6   Figure 
-1: Homogenous land units of Bhavani basin in Western zone of Tamil Nadu, southern India
- Note: The land 
-units are designated with three character codes.  The first character 1 or 0 indicates ayacut (irrigated) 
-and non
--ayacut (un
--irrigated); the second character O, C, R & S  refer to grounds water categories namely; over
--exploited, critical, semi
--critical and
- safe, respectively; the third character A or G represents Length of growing period
- with < 70 and >70 Days, respectively.
-   7  machine power were considered.   From this 
-data set, 
-cost (operational cost) and returns were estimated for 
-the crops
- raised in the 
-identified 
-HLUs
-.  2.2 Static Land Use model
- The indices used in the land use model are given in Table 
-2. Table 
-2 Indices and Abbreviations used in defining Land Use Model
- Index
- types 
- Characters considered
- z Homogenous land units
- (HL
-U)
- (10
- HLUs
-) LGP, ground water, surface water 
-availability and length of growing 
-period 
-used to delineate  HLU
-s  t Time (52 standard weeks)
- Land and ground water availability for each HLU were estimated for 
-each standard week. 
- c crops (26)
- 19 irrigated 
-crops (i)
- 7 rainfed crops (r)
- Crop
-s in the different 
-HLUs
-: The composition of different crops in 
-vary spaciously
- depend
-ing
- on the agro
--climatic suitability, 
-marketing feasibility and technology availability for the region. 
-However, 26 crop
-s covering cereal
-s (5), pulses (
-1), oilseeds (3), 
-fiber
-(1)
-, tuber (1), sugar crop (1), spices (2)
-, fruits (1),
- vegetables 
-(3) and narcotics were considered in the model.
- Cereals: Kuruvai and samba rice,  maize (
-I & r)   finger millet  and 
-grain 
-sorghum (
-i & r)
-, 
-fodder 
-sorg
-hum ( r)
- Pulses: Pulses (
- i & r) 
- Oilseeds: groundnut (
-I & r), gingelly (i& r) and sunflower
- Fiber: Cotton (
-I & r)
- Fruits: banana;                       Tuber: tapioca
- Sugar: sugarcane;                   Spices: turmeric and chilly
- Vegetables: onion, Brinj
-al, tomato
- Narcotics: tobacco
- (Note: 
-Trees :coconut and other tree cropped area excluded from 
-the land availability
-) Note: 
-I - irrigated; r
-- rainfed
- 2.2.1 Objective Functions: Maximizing Net Income
- In this 
-study a
- regional level explorative land allocatio
-n model
- was
- developed 
-which 
-would 
-maximize  net 
-income from crop enterprise
-s in the region. Income from each 
-crop 
-activity was the major factor that would 
-determine the selection of crops. Thus, the objective function was maximization of net income from cr
-op 
-enterprise in the model. 
-  Max  
-,,x zczc
-zccincNIvArc
-    ,,,
-zczczc
-NIGIopC
+breeding rather than genetic engineering. 
+ In intensive farming systems, organic agriculture decreases yield; 
+the range depends on the intensity of ex
+ternal input used before conversion. 
+In the green revolution areas (irri
+gated lands and well endowed water 
+regions), conversion to organic agriculture usually leads to almost identical 
+Pheromone traps
+Predators
+Light trap
+Botanicals
+Resistant varieties
+Altered date of 
+sowing
+Pest and Disease Management: Organic Ecosystem 
+ yields. In traditional rain fed agricult
+ure (with low external inputs), organic 
+agriculture has shown the potentials to
+ increase yields. A number of studies 
+have shown that under drought conditions, crops in organic agriculture 
+systems produce significantly and sustai
+nably higher yields than comparable 
+conventional agricultural crops, often out-yielding conventional crops by 7 - 
 
- Where 
-  cinc
-      
-: Crop enterprise net income
-  ,zcvArc
-: The level of crop activity ‚c™  in HLU ‚z™
-  GI
-z,c
-         : Gross 
-revenue from crop activity ‚c™ in HLU ‚z™
-  ,zcopC :  Operational cost for crop activity ‚c™ in HLU ‚z™ and
- 8  ,zcNI : Net crop income per hectare from crop activity (difference between the gross revenue and 
-operational
- expenditure of crop production). The operational cost per ha did not include the fixed costs and 
-land rent.
- 2.2.2 Constraints
- The net arable land availability (excluding area under coconut and other tree crops) and the availability of 
-ground water were co
-nsidered as constraints besides the fodder production in the model. The surface water 
-feature was incorporated in the HLU classification through GIS technique.
- Agricultural Land Area:         
-  , x ztzcz
-ctacvArca
- Where
- ztac: The land area requirement for each crop ‚c™ in HLU ‚z™ at time period ‚t™. The land requirement was 
-derived considering the crop suitability and sowing season conditional matrices derived from the 
+90 per cent. Others have shown that organic systems have less long-term 
 
-discussion from the experts and secondary sources.
- ,zcvArc
-: The level of crop activity ‚c™ in each HLU ‚z™ and
- za total land availability in each HLU ‚z™ after adjusting the area for perennial 
-trees 
-like coconut and 
-other tree
-s not included as crop activities.
- Water availa
-bility constraint:
- ,,x ziczic
-zt
-ctwnnvArctw
- Where
- ,zcArc
-: The level of crop activity
- ‚c™ 
-in each HLU ‚z™
-  ,zic
-wnn
-: The total actual water need for irrigated crop activity ‚ic™ in each HLU ‚z™. The water need was 
-cal
-culated considering the availability of weekly effective rainfall and ground water availability and 
+yield variability.    Codex Alimentarius Commission, a 
+joint body of FAO/WHO defines
+ ﬁorganic agriculture as holistic food production management systems, which 
+promotes and enhances agro-ecosystem health, including biodiversity, 
+biological cycles and soil biological 
+activity.  It emphasizes the use of 
+management practices in preference to th
+e use of off-farm inputs, taking into 
+account that regional conditions requir
+e locally adapted systems.  This is 
+accomplished by using, where possible, 
+agronomic, biological and mechanical 
+methods, as opposed to using syntheti
+c materials, to fulfil any specific 
+function within the systemﬂ.    
+Global View 
+ The popularity of organic farmin
+g is gradually increasing and now 
+organic agriculture is practiced in almo
+st all countries of the world, and its 
+share of agricultural land and farms is
+ growing. As per a recent report of 
+International Federation of Organic Ag
+riculture Movements (IFOAM) the total 
+organically managed area is more th
+an 24 million hectares world-wide. 
+Organic farming is practiced in approx
+imately 130 countries of the world and 
+the area under organic management is continually growing. Although 
 
-recommended water requirement of each crop activity.
- tWzt          
-:  zone wise water availability for standard week t
-, considering both surface and groundw
-ater 
-availability for each HLUs for each standard weeks.
- Actual Crop Water Requirement
- The actual water needs for each crop was calculated considering the moisture availability through the 
-effective rainfall during the stand of the particular crop. The equ
-ation is given as
- ,zcc
-zcwnnWreffRf
+production of organic crops is increasing across the globe, sales are 
 
- where
- ,zcwnn
-: Actual water required for each crop ‚c™ in HLU ‚z™
- cWr : recommended water requirement for crop ‚c™ and
- 9  zceffRf
- : Total soil moisture a
-vailable through effective rainfall for zone‚z™ for crop ‚c™.
- Effective Rainfall
- The moisture availability through effective rainfall (
-zteffRft
-) for each HLU ‚z™ in time period ‚t™ was 
-calculated by adding the daily rainfall in each HLU ‚
-z™ (more than 2.5 mm and less than 50 mm per day). It 
-was assumed that only 60 per cent of total rainfall reaches soil profile and the remaining 40 per cent drained 
-out through runoff and seepage. Then, the crop wise moisture availability through effective
- rainfall was 
-estimated by adding these for respective weeks of crop stand in that location. The equation is as follows:
- ,,,zc
-zttceffRfeffRf
- Bio-physical Constraints: Soil Series and Crop Suitability
- Soil quality based crop suitability was incorpora
-ted in each HLU, based on the soil characters as constraint. 
-The crop suitability constraint is specified as follows:
- ,,,
- x  zczczc
-ArcBpSuit
- where
- Arc
-zc
-   :decision variable; area to be allocated for crop ‚c™ in zone ‚z™
- BP
-zc
-  :Crop ‚c™ can be cultiva
-ted in zone ‚z™ as 1 and 0 other wise; included as land suitability matrix
- Suit
-zc
- :  total area suitable for crop ‚c™ in HLU ‚z™
- 2.3 Land and Water Resources Efficiency Analysis
- Cropping Intensity (CI)
- was calculated as the perc
-entage of gross cropped area (GCA) to the total cultivable 
-land area available for cultivation (LA).
-  *100GCA
-CILA  Based on Subbian et al. (1999) Cumulative Land Utilization Index (CLUI) 
-was calculated by summing the 
-products of land area pl
-anted to each crop and the actual duration of that crop in weeks and dividing this by 
-the total cultivable land area times weeks. 
- 1*52
-nii
-iadCULI
-LA*100
- where 
- CLUI
- - Cumulative land utilization index in per cent
-  ai - area occupied by the i
-th cro
-p di -  weeks that i
-th crop occupied
- n - total number of crops
- LA - total 
-cultivatble 
-land area available in a year 
- 10  The CLUI 
-would 
-reach 
-the 
-maximum of 100 per cent when all 
-the 
-available land area was occupied by 
-different
- crops throughout the year. 
-Lesser CLUI with low level of water use that could generate maximum 
-net income is preferred for 
-land and water resources sustainability.
-  Water Use Efficiency (WUE)
- is the ratio between the total net return realized from the irr
-igated crop to total 
-water used by the crop plan. 
-  WUE
-NIWU Where
-  WUE
- - Water use efficiency rupees per thousand liter of water
- NI
- - Total net income realized from the irrigated crops in the optimal plan in 
-INR
- WU
- - Total water used 
-by the crop plan in thousand liters
- Considering the complexity of the present static land use model for 10 different 
-HLU
-s, the General Algebraic 
-Modeling System (GAMS 22.9, 2009) was used for developing the land use model. The model con
-sist
-ed of 
-260 (10x26) crop activities with 520 (10x 26 x 2) equations each for land and water resources, 260 (10x24) 
-equations for crop suitability constraints. Thus, totally 260 activities and 1040 constraints besides the non
--zero equations were used in f
-ormulating the land use model and solved 
-using
- GAMS. 
- 3. Results and Discussion
- The results and discussions 
-included
-; the 
-descri
-ption
- the land area availability, delineation of the 
-homogenous land units
-, followed by the model results
-.   The 
-Bhavani 
-basin of 
-western zone of Tamil Nadu was divided into 10 agro
--ecological 
-HLU
-s by overlaying the 
-three spatial attributes 
-namely;
- (i)
-availability of surface irrigation, (command area map)
-; (ii)
- ground water 
-categorization based on the ext
-raction 
-levels of ground water; 
+concentrated in the industrialized parts of the world. 
+ In addition, the area of certified 
+wild harvested plants is at least a 
+further 10.7 million hectares, according 
+to various certification bodies. The 
+market for organic products is growing,
+ not only in Europe and North America 
+but also in many other countries. The global market for organic food has 
+
+touched US$ 29 to 31 billions by 2005.  The demand for organic food is 
+
+steadily increasing both in developed 
+and developing countries, with annual 
+average growth rate of 20-25%.  
+Indian Status  Only 35% of India™s to
+tal cultivable area is covered with fertilizers 
+where irrigation facilities are availabl
+e and in the remaining 65% of arable 
+land, which is mainly rain-f
+ed, negligible amount of fertilizers are being used.  
+Farmers in these areas often use organic manure as a source of nutrients that 
+
+are readily available either in their own 
+farm or in their locality.  The north-
+eastern region of India provides co
+nsiderable scope and opportunity for 
+organic farming due to least utilization of 
+chemical inputs.  It is estimated that 
+18 million hectare of such land is avai
+lable in the North-East, which can be 
+exploited for organic production.  Wit
+h the sizable acreage under naturally 
+organic/default organic cultivation, In
+dia has tremendous potential to grow 
+Pest and Disease Management: Organic Ecosystem 
+ crops organically and emerge as a major supplier of organic products in the 
+world organic market.    
+ The report of the Task Force on
+ Organic Farming appointed by the 
+Government of India also observed that
+ in vast areas of the country, where 
+limited amount of chemicals are used; productivity, could be exploited as 
+
+potential areas for organic agriculture. 
+ Arresting the decline of soil organic 
+matter is the most potent weapon 
+in fighting against unabated soil 
+degradation and imperilled sustainability 
+of agriculture in tropical regions of 
+India, particularly those under the infl
+uence of arid, semiarid and sub-humid 
+climate.  Application of organic manure is the only option to improve the soil 
+
+organic carbon for sustenance of so
+il quality and future agricultural 
+productivity.  Future of sustainable deve
+lopment of agriculture, next to water, 
+depends on arresting fall in organic matter in soils. 
+Benefits of Organic Farming  Organic farming is beneficial fo
+r both the humans and the nature. 
+Some of the known benefits of organic farming are:  
+ In organic farming, no fertilizers 
+and pesticides are used, hence, no 
+harmful synthetic chemicals rele
+ased into the environment.   Organic farming improves productivi
+ty of land by healing it with 
+natural fertilizers.   Organic farms provide support to the diverse ecosystem by 
+producing safe and healthy environment for humans, plants, insects 
+and animals as well. 
+  Organic farming is highly benefici
+al for soil health. Due to the 
+practices such as crop rotati
+ons, inter-cropping, symbiotic 
+associations, cover crops and minimum tillage, the soil erosion is 
+decreased, which minimizes nut
+rient losses and boosts soil 
+productivity. The beneficial living 
+organisms used in organic farming 
+also help to improve the soil health. 
+  It helps to promote sustainability by establishing an ecological 
+balance. If organic farming techniques are used for long time, the 
+
+farms tend to conserve energy and protect the environment by 
+
+maintaining ecological harmony. 
+  When calculated either per unit ar
+ea or per unit of yield, organic 
+farms use less energy and produce less waste.  
+  Organic farming reduces groundwater pollution as no synthetic 
+fertilizers and pesticides are used in this method.    Organic farming also helps to reduce the greenhouse effect and 
+global warming because it has the 
+ability to impound carbon in the 
+soil.  Pest and Disease Management: Organic Ecosystem 
+  In organic farming method, same
+ crop is not located in the
+ farm, which encourages the build-up of diseases and pests that plague 
+that particular crop.
+  The central activity of organic farming relies on 
+fertilization, pest 
+and disease control. 
+Organic farming relies heavily on the natural 
+breakdown of organic matter, using techniques like green manure and 
+
+composting, to replace nutrients taken fr
+om the soil by previous crops. This 
+biological process, driven by microorga
+nisms such as mycorrhiza, allows the 
+natural production of nutrients in the 
+soil throughout the growing season, and 
+has been referred to as 
+feeding the soil to feed the plant.   Organic farming tends to tolerate 
+some pest populations while taking 
+a longer-term approach. Organic pest and disease control involves the 
+
+cumulative effect of many techniques, including: 
+ allowing for an acceptable level of pest and disease damage;  
+ encouraging predatory beneficial
+ insects to control pests;  
+ encouraging beneficial microorganis
+ms and insects; this by serving 
+them nursery plants and/or an alte
+rnative habitat, usually in a form 
+of a shelterbelt, hedgerow, or beetle bank  
+ careful crop selection, choosing
+ disease-resistant varieties  
+ planting companion crops that discourage or divert pests;   using row covers to protect crops during pest migration periods;  
+ using pest regulating plants and biologic pesticides, fungicides and 
+herbicides   using no-till farming, and no-till farming techniques as false 
+seedbeds  
+ rotating crops to different locations from year to year to interrupt 
+pest/disease reproduction cycles  Using insect traps to monitor and 
+control insect populations that 
+cause damage as well as transmit diseases.  
+ Each of these techniques also provides other benefits viz., Soil 
+protection and improvement, fertilizati
+on, pollination, water conservation, 
+season extension, etc.and these benefits are both complementary and 
+cumulative in overall effect on farm he
+alth. Effective organic pest and disease 
+control requires a thorough understanding 
+of pest life cycles and interactions. 
+ Crop protection in organic agriculture is not a simple matter. It 
+depends on a thorough knowledge of th
+e crops grown and their likely pests, pathogens and weeds. Successful organic cr
+op protection strategies also rely 
+on an understanding of the effects which local climate, topography, soils and 
+
+all aspects of the production system ar
+e likely to have on crop performance 
+and the possible host/pest complexes. Organic agriculture is rapidly 
+Pest and Disease Management: Organic Ecosystem 
+ expanding and includes novel, edible, fibre and processing crops, diversified 
+rotations and large scale stockless farming companies alongside traditional mixed organic farms. Many of the established strategies that have been 
+developed to prevent and control weeds,
+ pests and diseases in traditional 
+organic systems have limited application 
+in the more novel systems. Research 
+is therefore urgently required to opti
+mize these strategies for use in novel 
+organic systems and necessary to develo
+p new crop protection technologies, 
+where pest, disease or weed problems are limiting expansion of the industry. 
+ Pests/diseases are generally not a significant problem in organic 
+systems, since healthy plants living in 
+good soil with balanced nutrition are 
+better able to resist pest/disease attack. However, major pest/disease 
+
+damage is sometimes seen in organic 
+crops, which are very susceptible to 
+damage. Pest/disease problems can be pa
+rticularly severe in large holdings, 
+where several hectares of a single crop species may be grown. Pest/disease 
+control strategies in organic farming sy
+stems are mainly preventative rather 
+than curative. The balance and management of cropped and uncropped 
+
+areas, crop species and variety choice 
+and the temporal and spatial pattern of 
+the crop rotations used all aim to mainta
+in a diverse population of beneficial 
+organisms including competitors, parasites and predators of pests. Damaging 
+
+populations of pests and pathogens are le
+ss likely to establish in soils that 
+sustain high levels of beneficial organisms. Break crop choice and rotation 
+
+design can have a major impact on the incidence and severity of certain types 
+
+of pest problems. The less mobile pests or those which have a specific or 
+
+narrow host range are particularly suscep
+tible to crop rotation. Highly mobile, 
+often non-specific pests such as aphi
+ds are less affected, or unaffected by 
+rotation design. Reactive treatments 
+for pest outbreaks, including natural 
+pesticides, are permitted under regulations for specific situations in organic 
+
+systems, but cultural pest prevention 
+techniques including the use of break 
+crops within balanced rotations will re
+main the most important means for pest 
+control in organic systems. 
+Managing Pests and Diseases 
+ Managing the ecosystem on an organic farm is very challenging.  It 
+is made even more complex when factor
+ing in insect and disease pests. Since 
+the use of synthetic pesticides are prohibited, the organic cropping system 
+should be focused on the 
+prevention
+ of pest outbreaks rather than coping 
+with them after they occur. No single 
+method is likely to be adequate for all 
+pests. Successful pest management depends on the incorporation of a 
+number of control strategies. Some strate
+gies will target insect and disease 
+separately and others wi
+ll target them together. 
+ Pests in a crop do not automatically 
+result in damage or yield loss. In 
+some instances, low levels of pest feed
+ing have been shown to increase crop 
+yields. Once infestation levels reach a certain point, however, they can 
+produce economic losses. Thresholds vary with the crop and the pest in 
+question and must be closely monitored by the producer. 
+Pest and Disease Management: Organic Ecosystem 
+  Planning for effective insect and disease management must involve 
+the entire farm operation and use all in
+formation available. Any strategy in 
+organic farming should include methods for: 
+ insect and disease avoidance  
+ managing the growth environment  
+ direct treatment i. Avoidance Techniques 
+ To manage pests and diseases effectively, producers need to 
+understand the biology and growth habits of both pest and crop. The type 
+and concentration of pests are often resp
+onses to previous crop history, pest 
+life cycles, soil conditions and local weather patterns. 
+Crop Rotations  Crop rotation is central to all sustainable farming systems. It is an 
+extremely effective way to minimize most pest problems while maintaining 
+and enhancing soil structure and fertility. 
+Diversity is the key to a successful cr
+op rotation program.  It involves: 
+ rotating early-seeded, late-seeded and fall-seeded crops  
+ rotating between various crop types, such as annual, winter annual, 
+perennial, grass and broadleaf crops; each of these plant groups has 
+specific rooting habits, competitive abilities, nutrient and moisture 
+requirements. (True diversity does not include different species 
+within the same family - for exampl
+e, wheat, oats and barley are all 
+species of annual cereals.)  
+ incorporating green manure crops, 
+into the soil to suppress pests, 
+disrupt their life cycles and to provid
+e the additional benefits of fixing 
+nitrogen and improving soil properties  
+ managing the frequency with which a crop is grown within a rotation  
+ maintaining the rotation's divers
+ified habitat, which provides 
+parasites and predators of pests with alternative sources of food, 
+shelter and breeding sites  
+ planting similar crop species as far 
+apart as possible. Insects such as 
+wheat midge and Colorado potato b
+eetle, for example, are drawn to 
+particular host crops and may over
+winter in or near the previous 
+host crops. With large distances 
+to move to get to the successive 
+crop, the insects' arrival may be delayed. The number that find the 
+crop may be reduced as well.  
+ Diverse rotations are particularly e
+ffective in regulating flea beetles, 
+cabbage butterfly, wheat midge, wheat st
+em maggot and wheat stem sawfly.  
+Pest and Disease Management: Organic Ecosystem 
+  Rotations are also effective in 
+controlling soil- and stubble-borne 
+diseases. The success of rotations in 
+preventing disease depends on many 
+factors, including the ability of a pathog
+en to survive withou
+t its host and the 
+pathogen's host range. Those with a wi
+de range of hosts will be controlled 
+less successfully. For example, scleroti
+nia stem-rot is a common disease in 
+conventionally grown canola on the Prairi
+es, but it can also infect at least a 
+halfdozen other field crops. Rotations wi
+ll not have much effect on pathogens 
+that live indefinitely in the soil, but wi
+ll shorten the life span
+ of pathogens that 
+can survive only brief periods apart from
+ their hosts. Other situations that 
+limit the benefit of crop rotations incl
+ude: the transmission of pathogens via 
+seed, the presence of susceptible weeds and volunteer crops that harbour 
+pathogens, and the invasion of pathogens by wind and other means.  
+ Rotations should be used with othe
+r cultural practices to achieve the 
+greatest benefit. 
+Field Sanitation/Crop Residue Management
+  Reducing or removing crop residu
+es and alternate host sites can be 
+used to control some insects and many
+ diseases. Incorporating the residue 
+into the soil hastens the destruction of
+ disease pathogens by beneficial fungi 
+and bacteria. Burying diseased plant mate
+rial in this manner also reduces the 
+movement of spores by wind.  Insects most affected by tillage wi
+ll be those that overwinter in crop 
+residue (for example, European corn 
+borer and wheat stem sawfly) and those 
+that lay their eggs in the residue. Co
+nversely, fields where residue has not 
+been disturbed may have higher levels of
+ some beneficial predaceous insects, 
+which may reduce levels of insect pe
+sts such as root maggots in canola. 
+Reduced or zero-tillage may also reduce
+ the damage by certain pests, as the 
+crop residue creates a micro-climate less preferred by some insects (for 
+example, flea beetles).  
+ It is important to maintain a ba
+lance between crop sanitation and 
+soil conservation. Lighter soils and th
+ose prone to wind and water erosion 
+may require postponing tillage until ju
+st before seeding to ensure stubble 
+cover for as long as possible.  Alternate host sites, such as fi
+eld margins, fence lines, pastures, 
+shelterbelts and riparian areas, wi
+ll usually contain weeds and natural 
+vegetation that may serve as reservoirs for disease, vectors of disease and 
+insect pests. Left uncontrolled, these insect and disease pests can be 
+transmitted to healthy crop plants. Insects may use these plants as alternate 
+habitat until an appropriate crop occurs
+ in a nearby field. However, these 
+areas may also host many beneficial insects and predators, therefore the 
+grower must carefully assess the potent
+ial threat from pest insects in these 
+areas before mowing or removing any plants. The ecological importance of 
+areas such as sloughs, wooded bluffs, ro
+ad allowances, railroad rights-of-way, 
+abandoned farmyards and schoolyards must also be included in long-range 
+planning. 
+Pest and Disease Management: Organic Ecosystem 
+ Seed Quality  The use of high-quality seed is especially important in preventing 
+disease. The seed supply should be free of smut, ergot bodies or other 
+
+sclerotia, and free of kernels showing 
+symptoms of Fusarium head blight 
+infection.  
+ Seed analysis by a reputable seed testing laboratory will help 
+determine specific diseases in the seed supply. 
+ Relatively few diseases are exclusively seed-borne, and it is more 
+common for pathogens to be transmitted from soil, stubble, or wind, as well 
+
+as with the seed. 
+ Planting physically sound seed is 
+also important.  In crops such as 
+flax, rye and pulses, a crack in the seed coat may serve as an entry point for 
+soil-borne micro-organisms that rot the seed once it is planted.  
+Weed Management  Although weeds need to be controll
+ed to reduce their impact on crop 
+yield and quality, a field completely fr
+ee of weeds is not necessarily the best 
+objective. In many cases, weeds prov
+ide food and shelter for beneficial 
+insects. Parasitic wasps, for example,
+ are attracted to certain weeds with 
+small flowers. Field experience has shown that the number of predators 
+attacking insects increases and the 
+number of aphids and leafhoppers 
+decreases on certain crops as the diversity of weeds (that act as host plants) 
+increases. Research has shown that outbreaks of certain crop insect pests are 
+more likely in weed-free fields.  Insects that are generalist feeders,
+ such as beet webworm, thistle 
+caterpillars and grasshoppers, may prefer
+ to feed on weeds rather than some 
+crops, only damaging the crop after the weeds are eaten. 
+ Each field situation should be considered separately, as weed 
+competition must always be taken into
+ account. Sometimes mowing weeds at 
+the edge of the field results in beneficial organisms moving into the crop 
+where they are needed. 
+Forecasting  Producers should pay attention to 
+the forecasts for various pest and 
+disease infestations for each crop year. Maps of these forecasts are usually 
+available for many of the major destruct
+ive insects such as grasshoppers and 
+wheat midge, as well as some diseases
+. Agro meteorological warning and 
+forecast can help in this way. Record-Keeping
+  Keeping diligent field records can provide very useful information. A 
+complete history of each field shou
+ld include any insect or disease 
+infestations, which management methods worked and which did not, and a 
+list of management techniques to try in the future. 
+Pest and Disease Management: Organic Ecosystem 
+ ii. Managing the Growth Environmen
+t - Giving the Crop a Head Start  Any crop management technique 
+that contributes to a vigorous, 
+competitive crop is a tool of insect and disease management. Producers must 
+also be mindful that many practices th
+at work well in conventional systems 
+may not benefit organic systems. Certai
+n crop species, crop varieties and 
+equipment may work well in one system but not in the other. 
+Healthy Soil  Maintaining favorable soil condit
+ions is the first line of defense 
+against pests. A biologically active soil
+ with good drainage supports vigorous 
+crop growth, allowing a higher level of crop competition with weeds.  
+ Adequate, balanced soil nutrition is
+ essential for crop quality, yield 
+and moisture-use efficiency. The applicat
+ion of nutrients should be based on a 
+sound soil testing program, accompan
+ied by plant tissue analysis when 
+diagnosing problems. High levels of nitrogen can occur after a high-nitrogen 
+plowdown, such as sweet clover. This re
+sults in lush leaf tissue and a dense 
+plant canopy that provides an idea
+l environment for plant pathogens. However, a lush crop may also help disperse the damage by a given number 
+of insects, so astute observations by the producer are necessary at all times. 
+ In contrast, inadequate soil phos
+phorous can pre-dispose to certain 
+root diseases. Low levels of nitrogen can reduce the incidence of insect 
+outbreaks. A shortage of micronutrients 
+such as zinc or copper can result in 
+disease-like symptoms on crops, while too much of any one micronutrient 
+may be toxic.  The addition of composted livestock manure improves soil quality, 
+including increasing the population of 
+soil micro-organisms that compete with 
+soil-borne plant pathogens. 
+ Field experience has also shown th
+at plants fertilized by the slow 
+release of nutrients from compost are more resistant to insects and diseases 
+than crops fertilized by highly solu
+ble nutrients. Soil testing becomes 
+important when applying compost regula
+rly. An imbalance of nutrients can 
+easily occur if the soil's nutrient profile is not continuously monitored. 
+Crop and Variety Selection
+  Producer awareness of insects and diseases in the proximity of the 
+farm is very important and should infl
+uence the crop and the variety of crop 
+to be grown. These choices must also fi
+t in with the crop rotation plan that 
+has been developed. Some insect pests ar
+e specific to certain crops, such as 
+wheat stem sawfly, while ot
+hers, such as grasshoppers, will attack numerous 
+crops. The situation is similar with diseases. 
+  The selection of insect- and disease-resistant cultivars can be a 
+useful tool, but under no circumstances 
+can genetically modified varieties be 
+used in organic systems.  Wheat variet
+ies with solid stems are more resistant 
+to wheat stem sawfly than hollow-ste
+mmed varieties. Wheat varieties with 
+Pest and Disease Management: Organic Ecosystem 
+ resistance to wheat midge have been developed and should soon be 
+available. These insect-resistant 
+varieties were developed through 
+conventional plant breeding programs. Certain species may avoid diseases 
+such as Fusarium head blight, but often agronomic factors, such as time of 
+seeding or choosing winter versus spring wheat, have more of an influence on 
+the incidence of disease.  Plants also vary in their degree of attractiveness to insects, diseases 
+and vectors transmitting disease. Factor
+s such as leaf and stem toughness, 
+pubescence, nutrient content, plant arch
+itecture, growth habit and differences 
+in maturity between crops and vari
+eties can influence pest growth, 
+reproduction and host preference. Fo
+r example, earlier-maturing crop 
+varieties may be less attractive to migr
+ating populations of grasshoppers late 
+in the season compared to later-maturing varieties. 
+Intercropping
+  The practice of intercropping (where two crops are grown at the 
+same time) can reduce pest problems by making it more difficult for the pests 
+to find a host crop. This technique 
+also provides habitat for beneficial 
+organisms. Strip-cropping row crops wi
+th perennial legumes often leads to 
+better pest control. In particular, alfa
+lfa attracts many beneficial organisms 
+that can destroy insect pests in neighbouring crops. 
+Seeding Date  Planting should be scheduled so that the most susceptible time of 
+plant growth does not correspond to th
+e peak in pest cycles. Early seeding 
+reduces crop damage caused by grasshoppers, aphids in cereal crops, wheat 
+midge in spring wheat, barley yellow
+ dwarf virus in barley and wheat, 
+powdery mildew in peas and pasmo in flax. 
+ Delayed seeding can be effective in avoiding wireworms and 
+cutworms in cereal crops, Hessian fly in winter wheat, barley thrips, 
+Ascochyta in lentils and wheat streak mo
+saic virus in winter wheat. However, 
+experience on the Prairies has generally
+ shown that delaying seeding too long 
+can reduce a crop's potential yield. 
+Seeding Rate  Using a higher seeding rate to affect insect or disease infestations 
+may have different results. More plants 
+in a field may reduce the impact of a 
+given aphid population on individual plants, but they may create a more 
+favourable habitat for insects that prefer a dense canopy, such as true 
+armyworm. A dense leaf canopy can also create a moist soil surface and 
+elevated humidity within the crop, conditions favourable to certain leaf 
+disease pathogens. 
+ Reducing the seeding rate may decr
+ease the severity of take-all in 
+spring wheat, but the reduced canopy 
+may also allow weeds to invade. In 
+other crops, reduced seeding may also produce more insect damage, as in 
+Pest and Disease Management: Organic Ecosystem 
+ the case of aphids, flea beetles and leafhoppers, which are attracted to the 
+contrast between a green host
+ and a dark soil background. 
+Depth and Timing of Seeding
+  Optimum seeding depth is also impo
+rtant. Deep seeding in cold soils 
+may result in seedling blights and dampin
+g-off, especially in pulses and small-
+seeded crops. Seeding depth should gene
+rally be no deeper than required for 
+quick germination and even emergence. Variables include seed size, soil type 
+and moisture conditions. If the soil 
+is loose before seeding, a packing 
+operation will firm up the soil and br
+ing moisture closer to the surface. 
+ For most crops, seeding should ideally be done when the soil is 
+warm enough for rapid germination. S
+eeds that remain ungerminated in cool 
+soil are more susceptible to damage
+ by insects such as wireworms. 
+Trap Strips  Seeding trap strips around the edge of a cropped field or along a 
+fence row helps lure insect pests to a specific area where they can be 
+managed more easily. For example, planting bromegrass near a wheat field 
+attracts wheat stem sawflies and their 
+native parasites away from the wheat 
+crop. Similarly, a trap strip of potato
+es planted much earlier than the main 
+crop would attract Colorado potato b
+eetles to the area. The strip could be 
+worked under along with the adult beetles, eggs and larvae before the second 
+generation of beetles spreads to the main crop. 
+ Generally, the insect pests in the trap strips are controlled by 
+mowing or cultivating the strip, or by 
+applying an acceptable organic product, 
+such as 
+Bacillus thuringiensis
+. Trap strips can also act as a barrier to protect 
+the crop field. Producers have found that planting yellow sweet clover or 
+Sirius field peas repels grasshoppers and prevents them from damaging 
+crops. A thorough knowledge of the crop and insect pests of the area is 
+necessary to prevent this technique from backfiring. 
+Tillage  Tillage can be properly timed before seeding, after harvesting and 
+during summerfallow to reduce population
+s of insect pests such as cutworms 
+and grasshoppers that spend part of thei
+r life cycles in the soil or stubble. 
+Tillage can help starve insects in the sp
+ring or during fallow, prevent adults 
+from laying eggs in the soil and expose overwintering insects to predators and 
+inclement weather. Roguing  Roguing refers to the labour-intensi
+ve practice of walking the fields 
+to remove diseased or insect-infested 
+plants. Roguing may not be practical for 
+large fields, but could be suitable for seed plots or crops having highly 
+infectious and destructive diseases (f
+or example, bacterial blackleg in 
+potatoes and certain viruses in other crops).  
+Pest and Disease Management: Organic Ecosystem 
+ iii. Direct Treatment 
+ At times, the organic producer will find that, despite all the best 
+efforts, an insect or disease pest will grow to levels that cause substantial 
+crop damage. At this point, direct treatment may be necessary. 
+Monitoring  Insect monitoring traps are useful in determining which insect pests 
+are present in a field and whether they 
+are at economically important levels. 
+It is imperative that the producer has a 
+positive identification of the insect or 
+disease causing damage before choosing a method of treatment.  
+ Certain types of insect hormones called pheromones may be used as 
+attractants to monitor population levels
+ of insects such as bertha armyworm, 
+diamondback moth, cabbage looper and Eu
+ropean corn borer, or to simply 
+attract insects into a trap. Biological Control
+  In a healthy, balanced ecosystem, biological control by natural 
+predators is constantly occurring. The more diverse a cropping system 
+becomes, the greater the spectrum of
+ insect species and micro-organisms 
+within it. This leads to the developmen
+t of more natural predators within the 
+ecosystem.   Ladybugs, ambush bugs, hoverfly 
+larvae, lacewings, spiders, birds, 
+frogs, toads and a host of other insects are predators of aphids, bertha 
+armyworm larvae, sunflower beetles, 
+beet webworms, and both grasshopper 
+eggs and adults. The destructive wheat mi
+dge may also be partially controlled 
+by a parasitic wasp, but crop
+ damage may still occur. 
+ Various types of fungi are insect 
+parasites and can either kill their 
+insect hosts or reduce their ability to reproduce. Very few biological controls 
+are available to reduce the effects of
+ plant diseases, as most commercial 
+products do not perform well if the disease is already established in the crop. 
+Mycoparasitism is a form of bio-contro
+l where one fungus parasitizes another. 
+Although this process occurs with many
+ fungi under laboratory conditions, it 
+hasn't been successful under field conditions. 
+Natural Insecticides
+  Organic certification standards prohibit the use of synthetic 
+pesticides. Permitted disease-manageme
+nt products include copper (fixed 
+copper and copper sulphate), lime-sulphur mixes, elemental sulphur, vinegar, 
+soap and silica. Bordeaux mixture is co
+nsidered a restricted substance, and 
+farmers should contact their certifying 
+body before using it. Although these 
+products are allowed, it may not be cost
+-effective or feasible to apply them to 
+field crops. Scientific evidence on pr
+oduct efficacy should be researched 
+before using them.  Pest and Disease Management: Organic Ecosystem 
+  The high risk of phytotoxicity should also be considered when using 
+these products on certain plants; ofte
+n the margin of error between benefit 
+and damage to the plant is very small.
+ In addition, there are environmental 
+and ecological concerns surrounding some of these products. Additional soil 
+
+tests may be required to monitor coppe
+r and sulphur levels in the soil. As 
+well, organic certification may be denied to farms that overuse or depend on 
+
+such products.   Insecticides permitted in organic agriculture include some microbial 
+insecticides containing the bacteria 
+Bacillus thuringiensis
+. Three main strains 
+of these bacteria are used in insect co
+ntrol. One strain, marketed as Dipel or 
+Thuricide, kills only th
+e larvae of moths or bu
+tterflies. Another strain, 
+marketed as Novodor, is for beetle larvae only and can be used to control 
+
+Colorado potato beetles. The third strain
+ is specifically for mosquito and fly 
+larvae.   Botanical insecticides, such as rotenone, are also permitted in 
+organic agriculture, but they are often too expensive to use on large 
+acreages.  Other Control Methods  For pest control, beneficial orga
+nisms, dormant oil, diatomaceous 
+earth, plant-derived pesticides, soap, na
+tural and synthetic insect pheromones 
+which disrupt the insect's developmen
+t, and commercial insect vacuums can 
+be used.  
+Grain Storage  When stored grain is dry and its temperature is low, problems 
+seldom arise. But if the grain is warm and moist, insects and fungi can 
+multiply rapidly. A grain temperature of
+ 5°C to 10°C is adequate for long-term 
+storage. Bin aeration helps dry and cool
+ the grain. If bins are not equipped 
+with aeration systems, grain can be mo
+ved to cool it. Cold temperatures can 
+be used to control insects that exist in stored grain.  
+ Before storing new grain, the bin 
+should be thoroughly cleaned with 
+a grain vacuum. The empty bin can be treated with diatomaceous earth to 
+control stored-grain insects. Many organic producers have found it to be 
+effective when applied as a light coatin
+g on the floor of the bin, and around 
+the walls and the bin door. It can also be added to the grain as it is being 
+brought into storage.   Natural products for Pest Control 
+ Using various naturally occurring substances and products 
+Eg. Neem, pongamia, NPV, Trichograma, Trichoderma etc 
+  Pest and Disease Management: Organic Ecosystem 
+ Community Management 
+ Pest incidence depends not only on the crop a farmer grows and 
+practices he/she follows but also on the neighboring cropping 
+pattern and the practices adopted. 
+List of inputs permitted for crop protection 
+S. No. Input
+ Permitted / Restricted
+ 1. Mechanical traps, Neem oil and other preparations, 
+Propalis, Pheromones in traps, plant based repellants, 
+
+Silicates, Soft soap 
+Permitted 2. Copper salts, Chloride of lime/soda, light mineral oils, 
+permanganate of potash, Sulphur, Viral, fungal and 
+
+bacterial preparations, release of parasite and 
+
+predators of insect pests Restricted 
+All-round Herbal Pesticide 
+ Herbal extracts should be used only as a final remedy only after 
+utilizing & practicing all the above said
+ methods. One should try to use only 
+the locally available weeds or those that
+ are grown as life fence for making 
+herbal extracts. If enough materials 
+are not available in and around the 
+garden, then materials can be collected fr
+om other areas. To be self sufficient 
+it is better to develop the herbal plant resources by raising them as hedges 
+
+along the fence, in the waste areas like
+ slopes, gullies, & rocky patches and 
+along the path. 
+Basic important procedures to be followed while preparing the herbal extracts 
+are:   Macerate and grind the plant material 
+to a pulp state. This is mainly 
+to expose the cells and facilitate the 
+extraction of the active principle 
+with the help of water.  Soak the pulped material in at least 70-80% of the final volume of 
+spray solution.  Since the water has a limited disso
+lving capacity, with low volume 
+the extraction will not be full.  Soak the pulped material only for 3-
+5 days. If it is allowed to ferment 
+for more number of days the active principles from the herbs that 
+are needed to kill the insects will disintegrate into simpler harmless 
+
+component. 
+ After 3 - 5 days of fermentation
+, the whole solution should be 
+filtered and the final spray volume
+ should be made by adding the 
+balance water.  Pest and Disease Management: Organic Ecosystem 
+  The filtered final solution has to 
+be sprayed in such a way that the 
+whole plant is fully drenched at le
+ast one or two times in a year.  
+ To avoid soaking for 3-4 days, soak
+ it at least overnight and then 
+heat it to bearable warmth (60-70°C) for an hour by stirring. After 
+
+this dilute it to the required fina
+l volume of spray solution, filter, 
+allow cooling and spraying.  
+ Use at least 2-3 different materials 
+at a time to prepare the herbal 
+extract.  Change the combination of the materials every time.  
+ Use 2-3% of herbal extract (combination of 2-3 different materials) 
+while the pest attack is at early st
+age. Increase the dosage to 5-6% 
+if the attack is very severe.  
+ The first two sprays in a season should by a blanket spray, on 
+observing the attack. 
+Commonly available plants that can be us
+ed for making herbal extracts are as 
+follows 
+S. No. 
+Common Name Botanical Name
+ Useful Plant Parts
+ 1. Neem  
+Azadirachta indica 
+Neem Cake 
+2. Pungam  
+ Pongamia glabra 
+Pongamia pinnata 
+Leaf & flower 
+
+ 3. Notchi  
+Vitex nugunda 
+Leaf & flower 
+4. Nithia Kalyani  
+Catharanus rosea 
+Whole plant 5. Unni  
+Lantana camera 
+Leaf & flower 
+6. Devils Trumpet  
+Datura metal 
+Leaf, fruit, flower 
+7. Yellow Nelliam  
+Nerium thevetifolia 
+Flower, fruit, root 
+8. Aruku  
+Calatropis gigantea 
+Leaf, tender stem, 
+
+flower 9. Siria Nangai  
+Andrographis paniculata 
+Whole plant 10. Parthenium  
+Parthenium sp 
+Plant before flowering 11. Adathoda  
+Adathoda vasica 
+Leaf 
+12. Tobacco  
+Nicotiana tobaccum Dried leaf, plant 
+
+waste, stem waste 13. Chevanthi  
+Crysanthemum 
+cinerrifolia 
+Flower 
+14. Thumbai  
+Lucus aspera 
+Flower, leaf, tender 
+
+stem 15. Tobacco Plant 
+(weed)  Lobilia sp Whole plant 16. Ginger  
+Zingiber officinale 
+Rhizome Pest and Disease Management: Organic Ecosystem 
+ 17. Etti  
+Strychnos nuvomica 
+Seeds 
+18. Turmeric  
+Curcuma longa 
+Rhizome 19. Artemesia 
+Artemesia vulgaris 
+ Tender shoots & 
+
+leaves Companion planting to repel fungal disease  Amorphophallus plants between rows of arecanut trees have anti-
+fungal qualities.  
+General purpose insecticide 
+ Crush the nuts of the casaraka tree (Nuxvomica) and add to coconut 
+milk.   The combination becomes lethal an
+d appropriate concentrations can 
+be sprayed on different insect pests.  
+To treat paddy leaf curl 
+ Steep one kilo of agave leaves in 10 litres of boiling water in a 
+copper container and allow to stand for 24 hours.  
+ Spray the extract on the crop.  
+To tackle Rhinoceros beetle in coconut plantation:  
+ Arrange two to three tubelights in 
+various spots in the plantation so 
+that the beetles are drawn to the light instead of to the coconut 
+trees during the night!  
+ However, in the long run this could be harmful since many predators 
+are also attracted to the light!   Neem oil is mixed with honey in equal proportions and sprayed on 
+the apical part of the tree.  
+Liquid extracts for disease management 
+  Disease Type of compost 
+Late blight of potato ,tomato
+ Horse compost extract
+ Gray mold on beans strawberries Cattle compost extract 
+Downy and powdery mildew of 
+grapes 
+Animal manure-straw compost 
+extract 
+Powdery mildew on cucumbers Animal manure-straw compost 
+extract 
+Gray mold on tomato, pepper Cattle  and chicken manure compost 
+extract 
+Apple scab Spent mushroom compost extract 
+Pest and Disease Management: Organic Ecosystem 
+ Biological agents to control pests of different crops 
+S. No. 
+Biological Agents
+ Pest Crop 
+1. Trichogramma brassiliensis
+ - 
+1.0 
+cc/ac. once in 10 days, 
+
+(Egg parasitoid) 
+Lepidopteran, Heliothis sp 
+
+ Cotton, Tomato 
+ 2. Trichogramma chilonis - 2 cc/ac once in 15 days 
+Borers Sugarcane, 
+paddy, 
+pulses, 
+Vegetables 
+3. Nuclear Polyhedrosis Virus 
+(NPV) 
+
+100-200 LE/ac Spodoptera sp & 
+Heliothis sp 
+
+ Vegetables 
+4. Chrysoperla Sp 
+5000 - 10000 eggs /ha, 3 - 4 
+
+times 
+in 15 days, (Green lace wing) Prudenia, 
+Caterpillars, 
+White 
+flies, thrips, 
+
+aphids 
+Vegetables 
+ 5. Beauveria bassiana
+ - 1.0% Affects the young stage, 
+ Helicoperva, 
+spodoptera, 
+borers, 
+hairy caterpillars, 
+mites, scales, etc 
+Vegetables, cereals, 
+
+fruits 
+ 6. Metarhizium anisopliae 
+- 0.5 - 1.0 % 
+affects all stages 
+ White grubs, Beetle grubs, 
+caterpillars, 
+Semiloopers, 
+mealy bugs, BPH 
+Sugarcane, 
+groundnut, rice, 
+
+potato, cotton, 
+cereals  7. Verticillium lecanii
+ - 0.5 - 1.0 
+%, 
+
+affects all stages 
+All sucking soft bodies insects Sugarcane, 
+groundnut, rice, 
+
+potato, cotton, 
+
+cereals 8. Phascilomycetes  Nematodes All crops 
+9. Bacillus thuringiensis
+ var 
+kustaki 0.3 - 0.4 % 
+ Helicoperva, 
+spodoptera, 
+borers, 
+hairy caterpillars, 
+mites, scales, etc 
+Vegetables, cereals, 
+
+fruits 
+ 10. NPV - Nuclear Polyhedrosis 
+Virus 
+
+of Spodotera litura 250 - 500 
+
+ml/ ha 2 - 3 time at 10 days 
+
+interval Spodotera litura 
+Cotton, 
+groundnut, 
+
+pulses, cabbage, 
+
+chillies 
+11. NPV - Nuclear Polyhedrosis 
+Helicoverpa 
+Cotton, Pest and Disease Management: Organic Ecosystem 
+ Virus 
+of Helicoverpa armigera 250 
+
+500 
+ml/ ha, 2 - 3 
+time at 10 days interval 
+armigera  groundnut, 
+pulses, cabbage, 
+
+chillies 
+Biopesticides and IPM products for various crops 
+Crop Pest/Diseases Biopesticides 
+Cotton Bollworms Traps, lures, BT, NPV, 
+Trichogramma Whitefly, jassids, thrips  Neem 1500 ppm 
+Mites Chrysoperla, verticillium, 
+Baeuveria 
+Wilts and leaf spots Trichoderma, Pseudomonas 
+Rice Yellow stem borer, leaf folder Traps, lures, BT, Trichogramma 
+Hoppers Neem 1500 ppm, Baeuveria 
+Sheath blight and leaf spots  
+Pulses Bollworms or cutworms
+ Traps, lures, BT, NPV, 
+Trichogramma Wilts Trichoderma, Pseudomonas 
+Tomato, 
+capsicum Heliothis Traps, lures, BT, NPV, 
+Trichogramma Mites Trichoderma, Pseudomonas 
+Brinjal, okra Fruit borer Traps, lures, BT, NPV, 
+Trichogramma Mites Neem 1500 ppm, verticillium 
+Pest/Disease Management Packages for Different Crops 
+Integrated Pest Management package for Organic Rice Ecosystem 
+ Rice is essentially a crop of warm, humid environments conducive to 
+the survival and Proliferation of insect
+s. More than 70 species were recorded 
+as pests of rice and about 20 have ma
+jor significance. Together, they infest 
+all parts of the plant at all growth stag
+es. The insects act as vectors of virus 
+diseases, and are a major factor responsibl
+e for low rice yields particularly in 
+Tropical Asia, the world™s rice bowl. The 
+insect problem is accentuated in multi 
+cropping or dormancy but occurs th
+roughout the year in over lapping 
+generations. The yield losses vary from
+ 20 to 50 per cent due to the damage 
+caused by various insect Pests. 
+ Mechanical control methods  Collection and destruction of rice st
+ubbles from field after harvest as 
+they harbour egg, larvae, pupae of 
+stem borer, gall midge, white tip 
+nematode and root knot nematodes.  
+ Clipping the tips of the seedlings up
+ to 2 inches prior to transplanting 
+to remove the egg masses of stem borer if any. 
+Pest and Disease Management: Organic Ecosystem 
+  Collection of egg masses of stem borer and silver shoots from the 
+nursery seedlings.  Flooding the nursery to make the hiding
+ larvae in the soil to come to 
+the surface and thus they are picked by the birds (army worm) 
+ A rope may be passed over the young
+ crop for dislodging the larval 
+cases from the tillers and then the water should be drained for 
+eliminating them (case worm). 
+ Providing bird perches of 2-3 ft height in vegetative stage @ 15-20 / 
+acre. They should be removed after seed setting to avoid the bird 
+damage to seeds. Drinking pots 
+with water should be provided 
+around the perches. 
+ Collection and destruction of egg masses of stem borer and ear head 
+bugs in main field. 
+ A thorny hedge may be passed over the crop when it is affected by 
+leaf folder to unfold the leaf folds 
+and to expose the larvae within to 
+natural enemies and botanical sprays. 
+Cultural control methods  Avoid close planting especially in 
+BPH and leaf folder prone areas or 
+seasons.   For every 5-6 m leave a spacing of 75 cm (hoppers). 
+ Grow horse gram, green gram, soy bean on bunds to attract natural 
+enemies.   Controlled irrigation by in
+termittent draining (BPH). 
+ Remove the weeds on bunds that ha
+rbour BPH, gall midge, GLH, leaf 
+folder, ear head bug. Biological control methods 
+ The crop should be observed from 20 DAT and when stem borer 
+eggs are observed on leaf tips and leaf folder eggs on veins, release 
+Trichogramma chilonis
+ (for leaf folder) and 
+T. japonicum
+ (for stem 
+borer) thrice @ 1,00,000/ha each and spray 
+Bacillus thuringiensis
+ @ 
+1.0 kg/ha when the stem borer / leaf folder crosses ETL. 
+ Release Platygaster oryzae parasitized galls @ 1 per 10 m
+2 on 10 
+days after transplanting (DAT) (gall midge). 
+Botanical control methods 
+ Spray neem seed kernel extract, neem oil, pungam oil (5%) on need 
+base at 15 days interval. Teepol or soap solution should be mixed at 
+2 ml / litre (general). 
+ Apply  Acorus calamus killikulam dust @ 10 kg / ac (ear head bug). 
+Pest and Disease Management: Organic Ecosystem 
+  Behavioural control methods 
+ Install pheromone traps @ 8 / acre (stem borer and leaf folder)  
+ Installation of light traps with inca
+ndescent light at 1-2 m height @ 4 
+/ acre to monitor the population (s
+tem borer, leaf folder, BPH, gall 
+midge and ear head bugs). At the base of light trap put a tub filled 
+
+with water to which kerosene was added to kill the trapped insects. 
+Rat management    Collection and destruction of weeds and maintenance of field 
+sanitation.  Reduce the width of bunds and close the rat burrows. 
+ Use different types of rat traps alternatively to trap the rats. 
+ Insects of different stages in rice 
+Vegetative Phase 
+Crop stage Possible pests 
+Seedling Rice whorl maggot; Thrip; Defoliator; Stem 
+borer; Green leaf hopper; Plant hopper 
+Tillering Thirp; Defoliator, Stemborer; Green leaf 
+hopper; plant hopper 
+Minor pests (vegetative 
+phase)  
+Aphids, caseworm, black bugs, grasshoppers, 
+mealy bugs 
+Reproductive stage Crop stage Possible pests 
+Stem elongation Defoliator; Stem borer; Greenleaf 
+hopper; Plant hopper
+ Panicle initiation to booting Stem
+ borer; Green leaf hopper; Plant 
+hopper Heading Plant hopper 
+Flowering Plant hopper; Thrips 
+Minor pests (reproductive phase)  Greenhorned caterpillars, skippers 
+Mature grain stage 
+Plant hopper; Rice bug 
+Dough grain stage 
+Mature grain 
+Minor pests (reproductive phase) Panicle mite 
+ Pest and Disease Management: Organic Ecosystem 
+ Diseases in rice  Disease Important 
+Stages 
+Symptoms 
+Important 
+Season Factors favoring infection 
+Blast All growth 
+stages Leaf lesions- 
+Grey Centers 
+
+ large in the 
+
+middle tapering 
+to ends Also 
+
+attacks nodes 
+ on stem 
+
+Panicle attack 
+(neck rot) can 
+
+be confused 
+
+ with stem 
+
+border damage 
+Mostly wet 
+cloudy skies 
+
+Frequent 
+rain and 
+
+drizzle High N 
+levels, High 
+relative 
+humidity Sheath Blight Tillering Leaf sheath - 
+Grayish green 
+
+lesions 
+between the 
+
+water  and the 
+
+leaf blade 
+Periodic High 
+temperature 
+and humidity 
+High levels of 
+
+N Bacterial 
+Leaf Blight 
+Tillering to 
+heading 
+Leaf lesions run 
+along the 
+ length of the 
+
+leaf Wet High temperature 
+and humidity Sheath Rot Boot leaf Small water 
+soaked lesions 
+
+ on leaves 
+Periodic High 
+temperature 
+and humidity Brown Spot Flowering 
+to maturity Brown round to 
+oval spots  on 
+
+leaves Periodic 25-30 
+degrees  
+centigrade 
+temp  & High 
+humidity False smut Flowering 
 and 
-(iii) 
-the climatic feature (by developing 
-the length of growing period 
-- LGP) using GIS overlay technique and the same is presented in the map (Figure 
-1). 
- 3.1 
-General 
-Characteristics
- of the sample farms
- identified 
-in th
-e HLUs 
- The farm and famer™s 
-general 
-characters such as
-; farm size, family size, main and secondary occupation, 
-family labour availability for farm operation were analyzed fr
-om the sample data collected for each 
-of the 
-HLUs.
- The average farm size was 0.72, 1.64 and 4.95 ha for marginal, small and medium to large size farm 
-categories, respectively. The marginal and small farmers constituted about 59 per cent of the total number
- of 
-sample operational holdings in the 
-Bhvani basin of 
-western zone 
-in Tamil Nadu 
-and they operated only 15 
-per cent of the cultivable area. The average family size in different farm size groups ranged from 4.00 
+maturity Ovaries transformed to 
 
-(marginal farms) to 4.68 members per family 
-(in large farms) in which children constituted 15.19 per cent of 
+large green 
+masses 
+Periodic Rainfall 
+accompanied 
+by  cloudy 
 
-the family size. Male members engaged in agricultural operations constituted 73 per cent, whereas, two 
-thirds of the females were engaged in the agricultural operations. 
- 11  3.2 Operational Expe
-nditure for Major Crops 
-under Homogenous Land Units 
- The operational expenditure for cultivating major crops in the western zone was estimated from the sample 
-farms 
-(Table 3) 
-to derive the net income per hectare realized from each crop in each 
-of the HLUs
-. The 
-operational expenditure includes all the paid out cost on inputs except the fixed cost
-. The results indicated 
-that the operational cost was the highest for sugarcane (
-INR
- 59484 per ha.) followed by 
-INR
- 58385, 
-INR
- 51864, 
-INR
- 43893 and 
-INR
- 28528 per ha for banana, turmeric, tapioca and groundnut, respectively. The 
-cultivation expenses of kharif paddy was 
-INR
- 19027 while for rabi paddy it was 
-INR
-17840 per ha. Among 
-different homogenous land units, farmers incurred marginally higher operatio
-nal expenses in ayacut land 
-units
- (irrigated) 
-such as; 1CA, 1OA, 1RA, 1SA and ICG for most of the crops; this may be due to higher use of 
-inputs to achieve the targeted yield with the limited resources
-. Table 
-3 Operational Expenditure for cultivating diffe
-rent crops under different land units
-            (INR
-/ha)
- Crop
- Non
- Ayacut Land units
- Ayacut Land units
- ALL
- CV %
-  0CA
- 0OA
- 0RA
- 0RG
- 0SA
- All
- 1CA
- 1CG
- 1OA
- 1RA
- 1SA
- All
-   PADk
- 17900
- 18683
- 18579
- 19597
- 17600
- 18472
- 18300
- 2280
-0 19560
- 18248
- 19002
- 19582
- 19027
- 7.76
- PADr
- 19248
- 18579
- 16579
- 16579
- 16579
- 17513
- 19001
- 1600
-2 1900
-2 18579
- 18248
- 18166
- 17840
- 7.01
- RAG 6570
- 6800
- 5740
-       6370
- 6300
-       5800
-    6050
- 6242
- 7.47
- MAZ
- 10400
- 8400
- 9490
- 9620
- 10300
- 9642
- 10900
- 11100
- 10960
- 10650
- 10200
- 10762
- 10202
- 8.14
- PUL
- 7420
- 8940
- 7680
- 8400
-    8110
- 9400
- 8670
- 9420
- 8720
- 8470
- 8936
- 8569
- 7.97
- GNT
- 27694
- 28577
- 27274
- 29274
- 27274
- 28019
- 27373
- 28311
- 27229
- 32694
- 29577
- 29037
- 28527
- 5.95
- GIN
- 11200
- 8400
- 9490
- 12590
- 11300
- 10596
- 12000
-    10900
- 11100
- 11400
- 11350
- 10931
- 11.59
- COT
- 24894
- 28894
- 28894
- 25416
- 25416
- 26703
- 25416
-    31838
- 31838
- 31838
- 30233
- 28272
- 10.82
- SCN
- 62721
- 61752
- 62760
- 63617
- 63617
- 62893
- 62550
- 57749
- 51759
- 56874
- 51443
- 56075
- 59484
- 8.01
- TUR
- 57010
- 54142
- 62017
- 51877
- 48900
- 54789
- 49190
-    53928
- 41148
- 48560
- 48207
- 51864
- 11.42
- TOB
- 18330
- 13356
- 19500
-    17867
- 17263
- 18900
-    19720
- 18718
- 19503
- 19210
- 18237
- 11.36
- TAP
- 40014
- 40241
- 44100
- 43821
- 37560
- 41147
- 44604
-   48096
- 48092
- 48506
- 47325
- 43893
- 9.03
- ONI
- 25776
- 24426
- 22446
- 25668
- 23850
- 24433
- 20466
-   22284
- 20502
- 21006
- 21065
- 22936
- 9.12
- BAN
- 53997
- 49778
- 58993
- 60668
- 60668
- 56821
- 58993
- 59707
- 60668
- 59707
- 60668
- 59949
- 58385
- 6.21
- SFL
- 13200
-    12400
- 13600
-    13067
- 14200
-       11400
- 12300
- 12633
- 12850
- 7.87
- BRJ
- 24370
- 24370
- 23900
- 22590
- 24500
- 23946
- 21500
- 23600
- 21700
- 2320
-0 21500
- 22300
- 23123
- 5.28
- TOM
- 17600
- 16800
- 16200
- 15690
- 17400
- 16738
- 16500
- 15690
- 14620
- 13000
- 16500
- 15262
- 16000
- 8.54
- CHI
- 23800
- 24900
- 22420
- 21300
- 22700
- 23024
- 24000
- 23000
- 22100
- 25420
- 21300
- 23164
- 23094
- 6.13
- r_GN
- 6590
- 5175
- 5687
- 5144
- 5125
- 5544
- 5233
- 5061
- 5175
- 5687
- 5144
- 5260
- 5402
- 8.79
- r_GI
- 4908
- 4740
- 4460
- 4600
-    4677
- 4678
- 4897
- 4960
- 3670
- 3987
- 4438
- 4544
- 9.75
- r_CO
- 7830
- 6530
- 6520
-    5900
- 6695
-       6590
- 5860
- 4984
- 5811
- 6316
- 13.88
- r_MZ
- 6700
- 5800
- 5060
- 5902
-    5866
- 5830
- 5740
- 5120
- 6200
- 6300
- 5838
- 5850
- 9.01
- r_fC
-    3900
- 2800 3400
-    3367
-       3800
- 2750
-    3275
- 3330
- 16.23
- r_CH
- 4200
- 3800
- 4280
- 4300
-    4145
- 4140
- 4300
- 4300
- 4800
-    4385
- 4265
- 6.43
- r_PL
- 5621
- 5556
- 4956
- 6090
- 5402
- 5525
- 4981
- 5291
- 5417
- 5290
- 5920
- 5380
- 5452
- 6.66
- Source: Estimated from farm sample
-   12  3.3 Productivity of
- major Crops u
-nder Homogenous Land Units 
- The productivity of major crops was estimated and the results would reveal that the average productivity of 
-kharif paddy, rabi paddy, ragi and maize was 
-52, 40, 30 and 29 qt
-l/ha,
- respectively. The district average
- yield 
-of these crops were 
-33.11,
- 29.06, 23.8 and 11.25 qtl per 
-ha 
-in Coimbatore district and 39.6, 41.65, 23.8 and 
-22.8 qtl per ha f
-or Erode district, respectively. The average yield of sugarcane (as main crop) was 108
-0 qtl
-/ha. 
-While, the district average
- productivity of sugarcane was 87
-0 and 102
-0 qtl
-/ha in Coimbatore and Erode 
-districts
-, respectively
-. The variation in crop productivity among the land units was however less as revealed 
-from the coefficient of variation with exception of 37 per cent of CV f
-or rainfed maize
-. 3.4 Net Income of Major Crops in Different Homogenous Land Unit Categories 
- The net income over the operational cost was estimated for the major crops in each 
-of the HLUs 
-and the 
+days 
+Tungro virus Flowering 
+and maturity Stunting of the 
+plant &  yellow 
+to orange laves Periodic Usage of 
+more N  and 
+more vector 
 
-result showed that turmeric recorded the maximum net income
- of 
-INR 
-71848 per ha over operational cost, 
-followed by banana (
-INR
-. 70827) and sugarcane (
-INR
-. 46767). The low water consuming crops 
-yielded net 
-returns 
-as follows
-; cotton (
-INR
-. 13265), groundnut (
-INR
-. 44181), maize (
-INR
-. 10021) and onion (
-INR
-. 55762). 
-In the ayacut land units (1CA, 1OA, 1RA, 1SA and ICG), the net return realized were comparatively higher at 
-INR
- 16679 vs 11296 for kharif paddy, 
-INR
- 8842 vs 
-INR
-. 6899 for rabi paddy, 
-INR
- 48433 vs 39928 for 
-groundnut, 79050  vs 66086 for turmeric and 
-INR
-. 581
-23 vs 35411 for sugarcane. The net income realized in 
-each crop activity 
-was considered in the land use model.
- 3.5 Current Cropping Pattern in Different 
-HLUs
-  The alternative crop sets were optimize using the static land use model by using linear programmi
-ng 
-(LP) approach for each homogeneous land units with given land and water resource availability. In the land 
+ activity   Pest and Disease Management: Organic Ecosystem 
+ Economic Threshold Levels (ETLs) of Major Pests of Rice 
+Insect Pest Economic Threshold Level 
+Stem borer 10% dead hearts or 2 egg masses / m
+2 2% white ears Gall midge 10% silver shoots 
+Green leafhopper 60/25 net sweeps or 5/hill at vegetative stage or 
+10/hill at flowering or 2/hill in tungro endemic area 
+Brown plant hopper 
+ 2 / tiller when 1 spider / hill is present 
+1 / tiller when spiders are not present 
+Whorl maggot 25% damaged leaves 
+Case worm 10% damaged leaves 
+Leaf folder 
 
-availability constraints 1.92 
-lakh
- ha was excluded which covers area under Tamarind, Guava, Mango, 
-Coconut, Tea and Coffee. Similarly, the net gro
-und water availability was estimated with the average pump 
-output, well output in liter per second in each homogeneous land units for 52 standard weeks. 
-The current 
+ 10 % leaf damage in vegetative phase 
+5% at flowering 
+Ear head bug 
+ 5 bugs/100 ear heads at flowering and 16 bugs/100 
+ear heads from milky stage to grain maturity 
+Thrips  60 numbers in 12 passes or rolling of the first and 
+second leaves in 10% of seedlings.  Biocontrol module for pest and disease management  
+Pest Biocontrol Rate of application 
+Yellow stem 
+borer Trichogramma japonicum 
+BT 
+2.00 lakh eggs/ha 
+0.75 kg/ha 
+Leaf folder 
+Trichogramma japonicum 
+2.00 lakh eggs/ha 
+Hoppers Neem 1500 ppm 
+Sheath blight Trichoderma Seed treatment @ 4-5 g/kg 
+seed Leaf spot Pseudomonas Seed treatment @ 4-5 g/kg 
+seed Brown spot 
+Trichogramma japonicum 
+2.00 lakh eggs/ha 
+Neck blast Nimbecidene + 
+Trichogramma japonicum
+ 500 g /acre + 2.00 lakh 
+eggs/ha 
+Integrated Pest/Disease Management Package for Pulses (Green gram and Black gram)  Pulses are a part of the average diet. Yet, pulse production has 
+remained in the range of 14 million tonne
+s. Pulses are a crop of the marginal 
+lands, requiring less water and replenishing soil nutrients. Pulses are less 
 
-cropping pattern revealed,
- after excluding area under perennial crops
-/trees
-, 17 major crops
- were cultivated 
-in different 
-HLUs
- of about 4.45 lakh ha in 2004
--05. In order to understand the current status of the present 
-cropping pattern, various efficiency indicators such as cropping intensity, cumulative land utilization index, 
-share of the high a
-nd low water consuming crops, commercial crops, rainfed crops and area under vegetable
- crops
- were 
-aggregated 
-for each 
-HLU
- and the results are presented in Table 
-4. The analysis presented in 
-Table 
-4 would show that
- paddy was cultivated 
-in 
-little
- over 
-58,000
- ha followed by 
-maize and sugarcane 
-with
- 30281
- ha
- and 25831 ha, respectively under irrigated condition. Groundnut, 
-sorghum, pulses and fodder sorghum were the major rainfed crops 
-that 
-constituted 43
--57 per cent of 
-cropped area. Groundnut cover
-ed 47530 ha, 
-next to sorghum
- with 91500 ha
-. The fodder sorghum occupied 
-52300 
-ha. The cropping intensity was relatively high in 1OA, 1CA followed by 1CG under ayacut land units 
-(133, 120 and 119 per cent
-, respectively) 
-whereas;
- it was 123, 128 and 105 under Non
--Ayacut (0RG, 0CA, 
-0RA) land units. However cumulative land utilization index was relatively less in irrigated land units 
-at 
-38 per 
-13  cent compared to 46 per cent in Non
--ayacut units. It 
-would also be surprising
- to note that the area under 
-high water consumi
-ng crop
-s (paddy, banana, turmeric
-, tobacco 
-and sugarcane) constituted almost 65 per 
-cent of the area in non
--ayacut land units but it was around 31 per cent in ayacut land units. This need
-ed 
- to 
-be 
-watched 
-in terms
- of changes 
-in the alternative crop set
- as we aim at a sustainable cropping pattern in this 
-analysis
-. Rainfed crops normally dominated in non ayacut land units. 
- Table 
-4 Distribution of crops under current cropping pattern in ha*
- Crops
- Non Ayacut area
- land unit
- Ayacut area
- land units
- WZ 0CA
- 0OA
- 0RA
- 0RG
- 0SA
- All 
- 1CA
- 1CG
- 1OA
- 1RA
- 1SA
- All
- PADk
- 2076
- 3977
- 1504
- 181
- 553
- 8291
- 183
-  185
- 4004
- 424
- 4796
- 13087
- PADr
- 12738
- 9142
- 8080
- 665
- 1242
- 31867
- 2655
- 468
- 1024
- 8685
- 290
- 13122
- 44989
- RAG
- 15 18 84   117
- 5   70  75 191
- MAZ
- 1757
- 2130
- 5589
- 44 146
- 9666
- 6553
- 434
-8 1005
- 7668
- 1042
- 20616
- 30281
- PUL
- 236
- 785
- 351
- 37  1409
- 58  168
- 336
- 139
- 701
- 2110
- GNT
- 899
- 2357
- 3679
- 189
- 348
- 7472
- 369
- 685
- 1345
- 5207
- 1198
- 8804
- 16276
- GIN
- 2552
- 5107
- 1605
- 98 793
- 10155
-   183
- 2653
- 1288
- 4124
- 14280
- COT
- 143
- 1454
- 1142
- 56 297
- 3092
- 4  249
- 1937
- 1329
- 3519 6610
- SCN
- 4128
- 4763
- 7636
- 260
- 789
- 17576
- 715
- 1238
- 194
- 5733
- 375
- 8255
- 25831
- TUR
- 2369
- 3664
- 1692
- 71 264
- 8060
- 114
-  128
- 1449
- 96 1787
- 9847
- TOB
- 1564
- 206
- 794
-  454
- 3018
-   9 459
- 112
- 580
- 3599
- TAP
- 280
- 1379
- 600
-  273
- 2532
-   44 825
- 287
- 1156
- 3687
- ONI
- 306
- 1043
- 625
- 6 23 2003
- 433
-  119
- 621
- 38 1211
- 3212
- BAN
- 3787
- 4413
- 1208
- 31 1212
- 10651
- 231
- 30 119
- 1054
- 151
- 1585
- 12236
- SFL 170
-  580
- 37  787
- 45   1043
- 34 1122
- 1909
- BRJ
- 75 389
- 132
- 7 1 604
- 16 55 22 127
- 54 274
- 878
- TOM
- 237
- 1328
- 220
- 8 2 1795
- 85 119
- 607
- 352
- 114
- 1277
- 3072
- CHI
- 254
- 447 331
- 18 73 1123
- 120
- 31 174
- 364
- 5 694
- 1817
- r_GN
- 8408
- 8703
- 10861
- 800
- 3766
- 32538
- 6  3261
- 11607
- 118
- 14992
- 47530
- r_GI
- 38 1826
- 705
-   2569
- 19 155
- 276
- 973
-  1423
- 3991
- r_CO
- 618
- 7019
- 44   7681
- 213
-  1790
- 555
-  2558
- 10239
- r_MZ
- 692
- 1267
- 3277
- 13  5249
- 160
- 398
- 1269
- 3088
-  4915
- 10164
- r_FC
- 10484
- 13627
- 14068
-   38179
-   701
- 13422
-  14123
- 52302
- r_CH
- 12043
- 40524
- 8289
- 206
-  61062
- 1955
- 2536
- 10831
- 15132
-  30454
- 91515
- r_PL
- 4074
- 10724
- 1635
- 115
- 48 16596
- 4171
- 4589
- 6020
- 3937
- 85 18802
- 35398
- GCA 69940 126292 74731 2841 10284 284088
- 18110 14651 29723 91302 7179 160965
- 445051 NSA
- 54710 120288 71366 2311 24774 273449
- 15036 12280 22310 94147 14953 158726
- 432175 CI
- 127.84
- 104.99
- 104.72
- 122.92
- 41.51
- 103.89
- 120.44
- 119.31
- 133.22
- 96.98
- 48.01
- 101.41
- 102.98
- CLUI
- 59.08
- 44.44
- 47.81
- 55.98
- 21.79
- 45.82
- 44.02
- 42.20
- 45.85
- 40.99
- 21.27
- 38.87
- 44.06
- LWC
- 25.27
- 39.06
- 43.88
- 29.31
- 37.26
- 34.956
- 66.35
- 75.10
- 70.42
- 50.87
- 80.84
- 68.72
- 45.34
- HWC
- 74.73
- 60.94
- 56.12
- 70.69
- 62.74
- 65.044
- 33.65
- 24.90
- 29.58
- 49.13
- 19.16
- 31.28
- 54.66
- COM
- 55.42
- 48.40
- 73.31
- 57.63
- 82.08
- 63.368
- 50.15
- 48.18
- 38.67
- 64.77
- 86.93
- 57.74
- 57.92
- ir_Sh
- 48.02
- 33.73
- 47.97
- 60.10
- 62.91
- 50.546
- 63.98
- 47.60
- 18.76
- 46.65
- 97.18
- 54.83
- 43.57
- r_Sh
- 51.98
- 66.27
- 52.03
- 39.90
- 37.09
- 49.454
- 36.02
- 52.40
- 81.24
- 53.35
- 2.82
- 45.17
- 56.43
- veg_Sh
- 1.25
- 2.54
- 1.75
- 1.36
- 0.95
- 1.57
- 3.61
- 1.40
- 3.10
- 1.60
- 2.95
- 2.532
- 2.02
- Irrigated crops:  
-PADk: Kharif paddy; PADr:Rabi Paddy; RAG:Rafi; MAZ:Maize; PUL:Pulses; GNT:Groundnut; GIN:Gingelly; 
-COT:Cotton; SCN:Sugarcane; TUR:Turmeric; TOB:Tobaco; TAP:Tabioca; ONI:Onion; BAN:banana;SFL:Sunflower; 
-BRJ:
-brinjal; TOM:Tomato;  CHI:Chillies; 
- Rainfed crops
-: r_GN:groundnut; r_GI:gingelly; r_CO:Cotton; r_MZ:Maize;  r_FC:fodder cholam; r_CH:cholam; r_PL:pulses
- 14  Efficiency indicators
-: CI: Cropping intensity; CLUI: Cumulative land utilization index; LWC: Low water
- consuming crops; 
-HWC: High water consuming crop
- (Paddy, 
-Sugarcane, Turmeric, Tobaco and Banana)
-s; COM: Commercial crops; Ir_Sh: 
-share of irrigated crops; r_Sh: Share of rainfed crops; veg_Sh: share of vegetables.
- (indicate what are HWC and LWC crops, 
-also
- add 2 columns 
-- total for non
--ayacut and total for ayacut
--also give %)
- The 
-analysis of
- HLU
- wise cropping pattern clearly 
-revealed the fact 
-that the current cropping pattern is 
-ground water exploit
-ative in
- nature
-, particularly 
-in ground water deficit 
-HLUs 
-(0CA, 0OA, 1CA,1CG, 1OA)
-, 
-more specifically in the non
--ayacut areas where the high water consuming crops dominated and alternately 
-in the ayacut areas
- with higher cropping intensity ranging f
-rom 110 to 133 per cent
-. This warrant
-s optimizing 
-the current cro
-pping plan for simultaneous increase in net income 
-while reducing
- the pressure on ground 
-water use.
- 3.6. 
-Optimal (
-Alternative
-) Cropping Pattern
- The alternative crops set 
-was identified using the static land use model and the same presented in Table 
-5. The
- percentage change in area and income over the current plan for each crop activity w
-as estimated and 
-presented in Table 
-6.  Table 
-5. Optimal (
-Alternative
-) cropping pattern in Western zone in ha
-       Crops
- Non ayacut land units
- Ayacut land units
- WZ 0CA
- 0OA
- 0RA
- 0RG
- 0SA
- All
- 1CA
- 1CG
- 1OA
- 1RA
- 1SA
- All
- PADk
- 3039
- 6683
- 3965
- 128 1376
- 15191
- 835 682 1239
- 5230
- 831 8817
- 24010
- PADr
- 2188
- 4812
- 2855
- 92 991 10938
- 601 491 892 3766
- 598 6348
- 17287
- RAG
- 3647
- 8019
- 4758   16424
- 1002
-   6276
-  7278
- 23703
- MAZ
- 3218
- 7076
- 4198
- 231 1304
- 16027
- 884 1228
- 2231
- 5538
- 1495
- 11376
- 27404
- PUL
- 5471
- 12029
- 7137
- 122  24759
- 1504
- 646 1174
- 9415
- 787 13526
- 38284
- GNT
- 2879
- 6331
- 3756
- 122 1077
- 14165
- 791 251 1174
- 4955
- 787 7958
- 22124
- GIN
- 2879
- 6331
- 3756
- 100 506 13572
-   970 4955
- 650 6575
- 20148
- COT
- 2379
- 5230
- 3103
- 47 563 11322
- 654  455 4093
- 305 5507
- 16829
- SCN
- 1117
- 2455
- 1456
- 53 1304
- 6385
- 307 614 507 1921
- 340 3689
- 10073
- TUR
- 1243
- 2734
- 1622
- 51 551 6201
- 342  1174
- 2140
- 787 4443
- 10644
- TOB
- 2879
- 6331
- 3756
-  991 13957
-   496 4955
- 332 5783
- 19741
- TA
-P 1216
- 2673
- 1586
-  476 5951
-   892 2092
- 598 3582
- 9534
- ONI 2188
- 4812
- 2855
- 122 1304
- 11281
- 601  429 3766
- 288 5084
- 16364
- BAN
- 1052
- 2313
- 1372
- 122 1239
- 6098
- 289  1174
- 1811
- 787 4061
- 10159
- SFL 2879
-  3756
- 116  6751
- 791   4955
- 787 6533
- 13285
- BRJ 2879
- 6014
- 3756
- 116 1304
- 14069
- 791  1116
- 4955
- 748 7610
- 21679
- TOM
- 2735
- 6014
- 3568
- 122  12439
- 752  1174
- 4707
- 748 7381
- 19821
- CHI
- 2735
- 6331
- 3568
- 128  12762
- 752  1239
- 4707
- 787 7485
- 20249
- r_GN
- 2879
- 6683
- 3756
-   13318
- 791   4955
- 831 6577
- 19895
- r_GI
- 3039
-  3965
-   7004
- 835   5230
-  6065
- 13070
- r_CO
- 2735
- 6014
- 3568
-  1239
- 13556
-   1116
- 4707
- 748 6571
- 20127
- r_MZ
- 2879
- 6331
- 3756
- 122  13088
- 791 646 1174
- 4955
- 787 8353
- 21442
- r_FC
-  6331
- 3756
-   10087
-   1174
- 4955
-  6129
- 16216
- r_CH
- 5471
- 6331
- 3756
- 231  15789
-   1174
- 4955
-  6129
- 21918
- r_PL
-  12029
- 7137
-   19166
-   2231
- 9415
-  11646
- 30811
- GCA
- 63633
- 139905
- 90517
- 2024
- 14224
- 310303
- 13316
- 4559
- 23208
- 119412
- 14020
- 174515
- 484817
- NSA
- 54710
- 120288
- 71366
- 2311
- 24774
- 273449
- 15036
- 12280
- 22310
- 94147
- 14953
- 158726
- 432175
- CI 116.31
- 116.31
- 126.84
- 87.57
- 57.41
- 113.5
- 88.56
- 37.12
- 104.02
- 126.84
- 93.76
- 109.9
- 115 CLUI
- 46.44
- 44.85
- 48.56
- 38.28
- 30.25
- 41.7 35.10
- 15.51
- 45.74
- 48.56
- 43.68
- 37.7
- 43.95
- 15  LWC
- 81.47
- 80.25
- 81.47
- 73.29
- 57.95
- 74.9
- 78.21
- 54.31
- 69.47
- 81.47
- 71.32
- 71.0
- 79.39
- HWC
- 18.53
- 19.75
- 18.53
- 26.71
- 42.05
- 25.1
- 21.79
- 45.69
- 30.53
- 18.53
- 28.68
- 29.0
- 20.61
- COM
- 68.86
- 64.33
- 67.29
- 71.66
- 83.36
- 71.1
- 70.39
- 60.08
- 71.08
- 67.29
- 84.20
- 70.6
- 65.95
- ir_Sh
- 73.28
- 68.75
- 67.20
- 82.57
- 91.29
- 76.6
- 81.84
- 85.82
- 70.40
- 67.20
- 83.13
- 77.7
- 66.21
- r_Sh
- 26.72
- 31.25
- 32.80
- 17.43
- 8.71
- 23.4
- 18.16
- 14.18
- 29.60
- 32.80
- 16.87
- 22.3
- 33.79
- veg_Sh
- 16.56
- 16.56
- 15.19
- 24.07
- 18.33
- 18.1
- 21.75
- 0.00
- 17.06
- 15.19
- 18.33
- 14.5
- 13.30
- CI: Cr
-opping intensity; CLUI: Cumulative land utilization index; LWC: Low water consuming crops; HWC: High 
-water consuming crops; COM: Commercial crops; Ir_Sh: share of irrigated crops; r_Sh: Share of rainfed crops; 
-veg_Sh: share of vegetables.
-  Results presente
-d in table 
-5 table 
-6 would show 
-that the gross cropped area  increased 
-by 
-nine per cent over 
-current plan and generated the net income of 
-INR
- 8.25 billion 
-in the alternate plan 
-compared to 
-INR
- 6.14 
-billion under current plan
-.  Area under l
-ow water co
-nsuming crops such as ragi, brinjal, irrigated pulses  and 
-chillies increased more than 10 times while area under 
-high water consuming crops like; 
-rabi season paddy, 
-sugarcane and banana ha
-d reduced 
-by 
-more than 50 per cent over current plan
-. The increase 
-in net income
-  over current crop plan 
-was by 34 per cent.
-  Table 
-6. Changes in alternative plan over current cropping pattern and in Western Zone
- Crops
- Current cropping plan
- Alternative crop plan
- % increase over 
-current plan
- Area
- income
- Area
- income
- Area
-  income
- ha % L INR
- %  ha % L INR
- %  PADk
- 13087
- 2.94
- 164
- 2.67
- 24010
- 4.95
- 304
- 3.68
- 83.46
- 85.57
- PADr
- 44989
- 10.11
- 506
- 8.25
- 17287
- 3.57
- 205
- 2.49
- -61.58
- -59.44
- RAG
- 191
- 0.04
- 2 0.04
- 23703
- 4.89
- 274
- 3.32
- 12324
- 11050
- MAZ
- 30281
- 6.80
- 378
- 6.15
- 27404
- 5.65
- 345
- 4.18
- -9.50
- -8.70
- PUL
- 2110
- 0.47
- 42 0.68
- 38284
- 7.90
- 800
- 9.69
- 1714.32
- 1819.21
- GNT
- 16276
- 3.66
- 699
- 11.39
- 22124
- 4.56
- 955
- 11.57
- 35.93
- 36.61
- GIN
- 14280
- 3.21
- 305
- 4.97
- 20148
- 4.16
- 476
- 5.77
- 41.09
- 56.17
- COT
- 6610
- 1.49
- 118
- 1.92
- 16829
- 3.47
- 291
- 3.53
- 154.60
- 146.97
- SCN
- 25831
- 5.80
- 1158
- 18.86
- 10073
- 2.08
- 407
- 4.93
- -61.00
- -64.86
- TUR
- 9847
- 2.21
- 482
- 7.85
- 10644
- 2.20
- 493
- 5.97
- 8.09
- 2.33
- TOB
- 3599
- 0.81
- 23 0.38
- 19741
- 4.07
- 181
- 2.19
- 448.55
- 671.02
- TAP
- 3687
- 0.83
- 37 0.61
- 9534
- 1.97
- 81 0.98
- 158.57
- 117.51
- ONI
- 3212
- 0.72
- 79 1.29
- 16364
- 3.38
- 417 5.06
- 409.40
- 428.92
- BAN
- 12236
- 2.75
- 604
- 9.84
- 10159
- 2.10
- 396
- 4.80
- -16.97
- -34.45
- SFL 1909
- 0.43
- 37 0.60
- 13285
- 2.74
- 234
- 2.84
- 595.94
- 538.08
- BRJ
- 878
- 0.20
- 25 0.41
- 21679
- 4.47
- 652
- 7.90
- 2369.14
- 2468.18
- TOM
- 3072
- 0.69
- 70 1.15
- 19821
- 4.09
- 474
- 5.75
- 545.21
- 574.86
- CH
-I 1817
- 0.41
- 0 0.00
- 20249
- 4.18
- 7 0.09
- 1014.40
- 3203.59
- r_GN
- 47530
- 10.68
- 634
- 10.33
- 19895
- 4.10
- 297
- 3.60
- -58.14
- -53.10
- r_GI
- 3991
- 0.90
- 37 0.61
- 13070
- 2.70
- 191
- 2.31
- 227.50
- 411.84
- r_CO
- 10239
- 2.30
- 93 1.52
- 20127
- 4.15
- 225
- 2.73
- 96.57
- 141.37
- r_MZ
- 10164
- 2.28
- 45 0.73
- 21442
- 4.42
- 100
- 1.22
- 110.96
- 122.94
- r_FC
- 52302
- 11.75
- 58 0.94
- 16216
- 3.34
- 20 0.24
- -68.99
- -65.14
- r_CH
- 91515
- 20.56
- 225
- 3.67
- 21918
- 4.52
- 47 0.57
- -76.05
- -79.27
- r_PL
- 35398
- 7.95
- 317
- 5.16
- 30811
- 6.36
- 378
- 4.58
- -12.96
- 19.37
- GCA
- 445051
- 100
- 6139
- 100
- 484817
- 100
- 8251
- 100
-.00
- 8.93
- 34.41
- NSA
- 432175
-    432175
-       16  It could
- also
- be 
-seen that
- the 
-area under 
-rabi season paddy 
-decreased by about 62 per cent 
-while 
-a 83 per 
-cent increase 
-was noticed 
-in kharif season paddy over current plan but
- overall
-, the 
-total 
-paddy area has 
-reduced from 0.58 
-lakh
- ha to 0.42  
-lakh 
-ha. 
-The paddy area rather evened out between the kharif and rabi 
-seasons. The decline was more pronounced in the non
--ayacut HLUs, particularly in the greater ground water 
-deficit ones. 
-Among the other HWC crops, area
- under sugarcane and banana declined by 6
-1.00 and 
-16.97
- per 
-cent respectively, while that of turmeric increased marginally by 
-8.09
- per cent
+concentrated crops. To increase the 
+productivity proper plant protection 
+measures to control insect pests is essential. Mechanical control methods  Remove and destroy stem fly damaged seedlings 
+Pest and Disease Management: Organic Ecosystem 
+  Pull out plants manifesting symp
+toms of sterility mosaic, yellow 
+mosaic, leaf curl and leaf crinkle vi
+rus disease since they will serve as 
+a source of inoculum spread by sucking pests 
+ Collect eggs, larvae, pupae and adul
+ts of the insects to the extent 
+possible to reduce their population 
+(leaf feeding caterpillars, beetles, 
+weevils, grasshoppers etc.)  Burn the crop residues after harvest. Cultural control methods  Sow good and healthy seeds 
+ In stem fly endemic areas use a higher seed rate to the extent of 25 
+- 30% to compensate the loss of seedlings 
+ Maintain the fields and bunds free from weeds 
+ Avoid crops susceptible to some pests either as mixed crops or in 
+crop rotation 
+ Provide T shaped bird perches 
+ Grow castor along the borders to trap 
+S.litura, marigold to trap 
+H.armigera and cowpea to trap stem fly. 
+ The plant density should not exceed 30 - 35 / sq.m. If it exceeds it 
+creates favourable microclimate suit
+able for the multiplication of 
+pests and diseases.  
+Botanical control methods  Spray NSKE (5%) or neem oil (3%) alternatively (aphid, mite, 
+whitefly) 
+Biological control methods 
+ Spray specific NPV suspensions of 
+H. armigera 
+and 
+S. litura 
+in the 
+evening hours 
+Behavioural control methods 
+ Set up sex pheromone traps to attract and kill male moths of 
+Helicoverpa armigera 
+and Spodoptera litura. 
+Set up five traps per 
+acre from floral bud formation and change the septa once in 3 weeks 
+ Use of light trap to monitor and kill the attracted adult moths of 
+tobacco cut worm.  
+Economic Threshold Levels of Major Pests of Pulses 
+Pest ETL 
+Aphid 20/2.5 cm shoot length 
+Pod borer 10% of affected pod 
+Spotted pod borer 3/plant 
+Pest and Disease Management: Organic Ecosystem 
+ Stem fly 10% of affected plants 
+Tobacco cut worm 8 egg masses/100 m 
+ Some of the diseases of pulses are Sterility mosaic disease, 
+Alternaria leaf spot, Sterility mosaic 
+disease, Macrophomina blight, Yellow 
+mosaic virus, Bacterial blight, Cerc
+ospora leaf spot, Fusarium wilt, 
+Phytophthora stem blight, Ascochyta blight, Powdery mildew. These can be 
+
+controlled by using disease free seeds 
+and following proper agro techniques.
+ Integrated Pest/Disease Management Package for Organic Cotton 
+Ecosystem 
+ Cotton, the most important fibre cr
+op of India plays a dominant role 
+in its agrarian and industrial economy.
+ It is the backbone of our textile 
+industry, accounting for 70% of total fi
+bre consumption in textile sector, and 
+38% of the country's export, fetching over Rs. 42,000 crores. Area under 
+
+cotton cultivation in India (8.9 million 
+ha) is the highest in the world, i.e., 
+25% of the world area and employs se
+ven million people for their living. 
+ Cotton productivity in India is 
+quite low as compared to world 
+standards. The modern cotton production
+ technology relies heavily on the use 
+of fertilizers and on chemicals to cont
+rol insect pests, diseases, weeds and 
+growth regulators. Cotton 
+cultivated on 5% cultivable land consumes 54% of 
+total pesticides used in Indian agricult
+ure, and in some pockets, the rates are 
+higher than this, leaving immense ecological and human hazards as reported 
+
+by World Health Organization. Use of ch
+emicals at such scale causes a lot of 
+hazards to man, i.e., environmental po
+llution, soil health, and agro-ecology 
+and poor profitability in cotton farm
+ing. This has basically prompted the 
+demand of organically cultivated, eco-friendly or ‚green™ cotton.  
+Mechanical control methods  Removal and destruction of crop re
+sidues after harvest to avoid the 
+carry over population of American
+ boll worm to next season.  
+ Removal of terminals of cotton crop (topping) at 80-90 days of 
+growth to reduce 
+Helicoverpa oviposition and also to encourage 
+sympodial branching which bears more fruiting bodies. 
+ Removal and destruction of alternat
+e weed hosts of white fly like 
+Abutilon indicum
+, Chrozophore rottlari, Solanum nigrum 
+and 
+Hibiscus 
+ficulensus from the fields and neighbouring areas and maintaining 
+field sanitation.  Collection and destruction of leaves infested with white fly  
+ Hand picking and burning of th
+e pink boll worm affected and 
+dropped squares, flowers and frui
+ts and squashing the pink boll 
+worms in the rosettes. Pest and Disease Management: Organic Ecosystem 
+  Removal and destruction of egg masses, early stage larvae found in 
+clusters and hand picking and destru
+ction of grown up caterpillars to 
+minimize heavy build up of future
+ population of tobacco cut worm. 
+ Uprooting and destroying the weeds like 
+Sida 
+sp., Abutilon indicum 
+and Xanthium 
+sp. before sowing of cotton crop to reduce the initial 
+build up of boll worm, whitefly and cotton leaf curl virus (CLCV). 
+ Rouge the plants infested with CLCV regularly. Cultural control methods  Growing one variety throughout 
+the area as far as possible. 
+ Deep summer ploughing on bright sunny days during the months of 
+May or June should be done to expose soil inhabiting or resting 
+stages of insects, pathogens an
+d nematode population. The field 
+should be kept exposed to sunl
+ight for at least 2-3 weeks.  Growing of less preferred crops like green gram, black gram, 
+soybean, castor, sorghum etc., alon
+g with the cotton as intercrop or 
+border crop or alternate crop to reduce the pest infestation. 
+ Growing two rows of maize or sorghum or cowpea along the border 
+to sustain and enhance the build up of natural enemies such as lady 
+bird beetles, staphylinids, 
+Chrysoperla carnea, Anthocorids, 
+Reduviids etc. Pollen of 
+maize helps in retaining 
+Chrysoperla in main 
+cotton field. 
+ Plant trap crops like marigold or okra or pigeon pea along the 
+border and irrigation bunds to dive
+rt American boll worm oviposition 
+from main cotton crop. 
+ Growing castor along the border an
+d irrigation bunds as trap crop 
+for tobacco cut worm, okra for 
+spotted boll worm and aphid. 
+ Use neem cake @ 1 t / ha under assured moisture conditions in 
+nematode infested fields. 
+ Earthing up on 45
+th 
+day (stem weevil). 
+ Basal application of FYM 25 t/ha and 250 kg/ha of neem cake (stem 
+weevil).  Install 15-20 bird perches per acre for the benefit of predatory birds 
+like black drango, king crow, orange myna etc. after 90 days of crop 
+growth. Provide drinking pots with
+ water to them by placing them 
+around the perches.  
+Biological control methods 
+ Application of 
+Helicoverpa armigera 
+or Spodoptera litura 
+nuclear 
+polyhedrosis virus (NPV) @ 250-500 LE / ha (1 LE = 6x10
+9 POBs) (1 
+Pest and Disease Management: Organic Ecosystem 
+ LE / litre of water) depending up
+on the crop growth with jaggery 
+and teepol in evening hours at 7
+th 
+and 12th week after sowing.  ULV spray of NPV at 3 x 10 
+12 POB /ha with 10% cotton seed kernel 
+extract, 10% crude sugar, 0.1% 
+each of Tinopal and Teepol for 
+effective control of H.armigera
+.  Inundative release of egg parasitoid, 
+Trichogramma spp., at 6.25 
+cc/ha at 15 days interval 3 times from 45 DAS (American boll worm) 
+ Inundative release of egg-larval parasitoid, 
+Chelonus blackburnii 
+and 
+predator, Chrysoperla carnea at 100000 / ha at 6
+th, 13th and 14
+th 
+weeks after sowing (American boll worm) 
+ Seed treatment with 
+Trichoderma 
+spp. @ 4g / kg of seed for seed 
+borne diseases  Botanical control methods 
+ Spray NSKE 5% or neem oil (5 ml/l) or fish oil resin soap 25 kg / ha 
+@ 1 kg in 40 l of water or 5 % notchi leaf extract or 5% 
+Catharanthus rosea 
+extract (whitefly)  Spray NSKE 5% or neem oil formulation 0.5% or neem oil 3% thrice 
+at fortnightly intervals (sucking pests) 
+ Spray NSKE 5% as a strong oviposition deterrent (American boll 
+worm) 
+ Spray fish oil resin soap 25 kg / ha @1 kg in 40 l of water (mealy 
+bug) Behavioural control methods 
+ Use pheromone traps for monitoring
+ American boll worm, pink boll 
+worm, spotted boll worm and toba
+cco cut worm. Install pheromone 
+traps at a distance of 50 m @ 5 traps per acre for each insect pest. 
+
+Use specific lures for each insect species and change it after every 
+
+15-20 days. Trapped moths should be removed daily. If the number 
+
+of trapped adult moths is 10 (American boll worm), 20 (tobacco cut 
+
+worm), 15 (spotted boll worm) and 
+8 (pink boll worm) necessary 
+action should be taken. 
+ Installing light traps with incandescent lamp (1-2 / acre) for 
+monitoring of insect activity (A
+merican boll worm and tobacco cut 
+worm). The crop around the light 
+trap may be sprayed with neem 
+oil. 
+ Monitoring the activities of the ad
+ult white flies by setting up yellow 
+pan traps and sticky traps at 1 foot height above the plant canopy. 
+Locally available empty yellow palmol
+ine tins coated with grease / 
+Vaseline / castor oil on outer surface may also be used.  
+Pest and Disease Management: Organic Ecosystem 
+  Paint yellow colour on plastic drinking water pot, apply castor oil on 
+it and move it on both sides with
+ hand by walking in the field to 
+attract and trap whiteflies.  
+Note: 
+1. Use only incandescent light in light traps, as mercury lamp attracts 
+natural enemies in large numbers.   
+          2. The light trap should be lighted between 8 - 10 pm. 
+
+Economic Threshold Levels (ETLs) of Major Pests of Cotton 
+Insect Pest Economic Threshold Level 
+American boll worm One egg or one larva /plant 
+Spotted boll worm 10% infested shoots / squares / bolls 
+Spiny boll worm 10% infested shoots / squares / bolls 
+Pink boll worm 10% infested fruiting parts 
+Tobacco cut worm 8 egg masses/100 m row 
+Leafhopper  50 nymphs or adults/50 leaves 
+Whitefly 5-10 nymphs and adults / leaf 
+Aphid 15% of infested plant 
+Thrips 50 nymphs or adults/50 leaves 
+Stem weevil 10% infestation 
+Mite 10 mites/cm
+2 leaf area 
+Cotton Mealy bug - Recent Threat to cotton cultivation 
+Eco-friendly way 
+ Raise cowpea as a bund/border crop to encourage the activities of 
+Natural enemies 
+ Monitor the crop regularly at least once in a week.  
+ Look for the ant activity / shiny 
+leaves / yellowing , presence of 
+sooty mould (advanced stages) 
+ Look for the predatory coccinellids, 
+Chrysoperla 
+and encourage their activities and avoid using syntheti
+c insecticides when the natural 
+enemy activities are more.  Microbial Bioagents like 
+Beauveria
+ and
+ Verticillium
+ are found to be 
+effective but takes some time to 
+control the nymphs and adults, but 
+this method is ecofriendly and sustainable.   
+ Crawlers (Early stage mealybug nymphs) can be controlled by 
+spraying neem oil 2% or fish oil rosin soap 25g/l of water (to get 
+effective control, thorough
+ coverage is essential). 
+Pest and Disease Management: Organic Ecosystem 
+ Diseases of Cotton and their management Disease and cause Control measures Seedling disease
+ Rhizoctonia, Fusarium and Pythium 
+spp Plant only high quality seed. Plant in 
+warm, well-drained soil. Avoid crop 
+
+stress due to a lack of fertilizer, 
+
+excess water or excess herbicides. 
+
+Plant on raised beds 
+Boll rots
+ Prolonged periods of high humidity or 
+
+water on the boll surface are 
+
+necessary for infection. Rank growth 
+
+promotes boll rot. Avoid practices 
+
+that result in a rank dense canopy. 
+Bacterial diseases Xanthomonas campestris pv. 
+malvacearum Most varieties have some resistance.  
+Crop rotation will control this 
+
+problem. Leaf spot 
+Alternaria macrospora 
+Cercospora gossypina 
+Ascochyta gossypii These leaf spot diseases are of minor 
+
+importance and specific controls are 
+
+not recommended.  
+
+They appear more frequently on 
+
+stressed plants. 
+Fusarium wilt Fusarium oxysporum f. sp. 
+vasinfectum 
+Most varieties are somewhat 
+
+resistant. Maintain soil pH at 6.0 to 
+
+6.5, and use sufficient nutrients for 
+
+plant growth. Integrated Pest/Disease Management Package for Organic Vegetable Ecosystem 
+ Vegetables being a rich and cheap source of vitamins and minerals, 
+occupy an important place in the food
+ basket of Indian consumers. The 
+country is producing about 98 million tonnes (MT) of vegetables from an area 
+
+of around 6.07 million ha. Not withstanding the advantages of vegetables, 
+
+farmers confront a number of problems pa
+rticularly of insect pests, diseases, 
+nematodes and mites which limit their 
+production. Among the vegetable crops 
+okra, brinjal, tomato, cabbage and ca
+uliflower are important and together 
+occupy an area of 1.65 m ha with an annual production of 22.17 MT and they 
+
+are infested by several pests at various stages resulting in a yield loss of 
+about 25-30%. Pest management is thus
+ important with a view to reduce 
+undesired use of pesticides.
+ Integrated Pest/Disease Management package for Organic Tomato 
+Ecosystem 
+Mechanical control methods  Collection and destruction of da
+maged fruits, early instar and 
+grownup caterpillars of Helicoverpa armigera 
+and Spodoptera litura.  
+Pest and Disease Management: Organic Ecosystem 
+  Collection and destruction of virus affected plants. 
+Cultural control methods  Grow simultaneously 45 days old Am
+erican tall marigold and 25 days 
+old tomato seedlings @ 1:16 rows
+ so that both will come to 
+flowering at the same time and 
+Helicoverpa armigera 
+adults will be 
+attracted to marigold for oviposition. 
+ Grow 50 castor plants / acre as 
+a trap crop for tobacco cut worm 
+and the egg masses and early instar larvae in clusters on castor crop 
+should be periodically collected and destroyed. 
+ Remove alternate weed host of whitefly, Abutilon indicum.  Apply press mud @ 5 kg/m2 for nematode disease complex. 
+ Installation of T shaped bird perches @ 15-20 / ha. 
+ Deep summer ploughing (tobacco
+ cut worm and nematode).  
+ Flood irrigation to bring out the hi
+ding larvae (tobacco cut worm). 
+ Grow sorghum or bajra as border crop (sucking pests and viral 
+diseases transmitted by them) 
+ Ploughing the nursery area, uniform
+ly spreading paddy husk @ 20 
+kg / m
+2 (about 15 cm thickness) bu
+rning it and ploughing back 
+facilitates production of nematode free seedlings. 
+ In nursery apply 200 g of neem cake / sq m (nematode). 
+ Crop rotation with marigold, ging
+elly, mustard, maize, wheat etc. 
+(nematode). Biological control methods 
+ Spray Bacillus thuringiensis @ 2g/l. (H. armigera 
+and S. litura). 
+ Release Trichogramma chilonis 
+@ 50000/ha/ week (up to 6 weeks) 
+coinciding with flowering time and based on ETL (
+H. armigera 
+and S. 
+litura). 
+ Application of NPV: For 
+H. armigera: H.a.NPV 250 LE / acre 
+ For S. litura
+: S.l
+. NPV 250LE / acre along with 1 kg jaggery and 100 
+ml teepol at 10 days interval. 
+ Treat the seeds with antagonistic fungi, 
+Trichoderma viride 
+@ 4 g/kg 
+seed (nematode) Pest and Disease Management: Organic Ecosystem 
+ Botanical control methods 
+ Spray Neem Seed Kernel Extract 50 g/l (serpentine leaf miner). 
+ Spray fish oil rosin soap 25 g/l.
+ Add wetting agent (whitefly). Behavioural control methods 
+ Set up pheromone traps @ 12/ha (
+H. armigera 
+and S. litura
+). When 
+the trapped moths are 8 / day necessary action may be taken. 
+ Install yellow sticky traps to attract the adult
+ whiteflies. Major Insect Pests of Tomatoes Name Damage
+ Control Aphid Sucks sap; Vectors 
+disease; Creates 
+
+honeydew which 
+
+attracts sooty mold; 
+
+Misshapen foliage, 
+
+flowers, and fruit Insecticidal soap; 
+Beneficial insects 
+
+(ladybugs, lacewings, 
+
+etc.); 
+Beauvaria 
+bassiana; Pyrethrum; 
+Rotenone 
+Armyworm Feeds on foliage and 
+fruit Beneficial insects; Bt on 
+larvae; Superior oil 
+Blister beetle Feeds on foliage and 
+fruit Larvae are beneficial. 
+For severe infestations, 
+
+use pyrethrum, 
+
+rotenone, or sabadilla 
+Colorado potato beetle Feeds on foliage Bt on larvae; Encourage 
+beneficials; Neem; 
+Pyrethrum; Rotenone 
+Cutworm Cuts plant stem Apply parasitic 
+nematodes to soil; 
+
+Wood ashes around 
+
+stem; Moist bran mixed 
+
+with Bt scattered on soil 
+Flea beetle Many small holes in 
+foliage Row covers; Sanitation; 
+Apply parasitic 
+
+nematodes to soil; 
+
+Neem; Pyrethrum; 
+
+Rotenone; Sabadilla 
+Fruitworm Feeds on foliage, 
+flower, fruit Destroy infested fruit; 
+Bt; Row covers; Neem; 
+
+Ryania Hornworm Feeds on foliage and 
+fruit Bt; Pyrethrum if severe 
+Pinworm Fruit has narrow black 
+tunnels 
+Destroy infested fruit; 
+Till at season end to 
+
+prevent over wintering Stink bug Deformed fruit with Control weeds near 
+Pest and Disease Management: Organic Ecosystem 
+ whitish-yellow spots plants; Trap crops; 
+Planting late-maturing 
+
+varieties; Attract 
+
+beneficials by planting 
+
+small-flowered plants; 
+
+Sabadilla Whitefly Distorted, yellow 
+leaves; Honeydew which attracts sooty 
+mold 
+Insecticidal soap; 
+Yellow sticky traps; 
+Beneficial insects; Garlic 
+oil; Pyrethrum; 
+
+Rotenone; 
+Beauveria bassiana Tomato Diseases and their management 
+ Tomato diseases are rarely fatal, if the proper management is 
+employed. It is important to catch any to
+mato disease early, before it spreads 
+to all of tomato plants and possibly othe
+r plants in the same family, such as 
+potatoes, eggplants and peppers. Here
+ are some common tomato diseases 
+and their management.  
+Early Blight
+: Early Blight fungus overwinters in plant residue and is soil-
+borne. It can also come in on transplants. Remove affected plants and 
+thoroughly clean fall garden debris. Wet 
+weather and stressed plants increase 
+likelihood of attack. Copper sprays ca
+n prevent further development of the 
+fungus.  
+Gray Leaf Spot: 
+Gray Leaf Spot affects only th
+e leaves of tomatoes, starting 
+with the oldest leaves. Warm, moist 
+conditions worsen gray leaf spot 
+problems. Remove all affected plants and fall garden debris. Selection of 
+resistant varieties prevents the disease infection. 
+Late Blight:
+ Late blight affects both the leaves and fruit of tomatoes. Late 
+Blight is the disease responsible for the Irish Potato Famine. The Late Blight 
+fungus can overwinter in frost free areas. Cool, wet weather encourages the 
+development of the fungus. 
+Septoria Leaf Spot:
+ Septoria Leaf Spot is sometimes mistaken for Late 
+Blight. With septoria leaf spot, the pape
+ry patches on the leaves develop tiny, 
+dark specks inside them. Older leaves are affected first. Copper sprays are 
+somewhat affective at halting the spread of symptoms.  
+Verticillium Wilt:
+ This name can be misleading, as sometimes the leaves 
+will turn yellow, dry up and never appear to wilt. Verticillium wilt is caused by 
+a soil-borne fungus and it can affect many different vegetables. The fungus 
+can persist in the soil for many years,
+ so crop rotation and selection of 
+resistant varieties is crucial. Remove affected plants and choose resistant 
+varieties.  Pest and Disease Management: Organic Ecosystem 
+ Integrated Pest/Disease Management Package for Organic Brinjal 
+Ecosystem 
+Mechanical control methods  Collection and destruction of th
+e beetles, grubs and pupae of 
+Epilachna beetle. 
+ Removal and destruction of dried and withered shoots of shoot and 
+fruit borer to arrest the spread of the pest.   Remove the affected fruits and de
+stroy (shoot and fruit borer).  
+ Remove the little leaf affected plants. 
+ Collection and destruction of aphid infested twigs. 
+ Removal and destruction of webbed leaves (leaf webber). 
+Cultural control methods  Application of press mud at 5 kg/m
+2 at the time of sowing. 
+ Application of 200 kg neem cake / acre as basal (shoot and fruit 
+borer, nematode and ash weevil). 
+ Maintain the correct spacing (shoot and fruit borer). 
+ In nursery apply 200 g of neem cake / sq m (nematode). 
+ Crop rotation with marigold, ging
+elly, mustard, maize, wheat etc. 
+(nematode).  Deep summer ploughing (nematode).  
+ Transplant healthy seedlings. 
+ Avoid rationing of brinjal crop since woody stem is preferred by stem 
+borer larvae. Botanical control methods 
+ Spray neem oil 3% plus teepol (1 ml/l) or spray neem seed kernel 
+extract 5 % (whitefly, Epilachna beetle, aphid). 
+ Spray neem seed kernel extract 5 % or neem oil 3% starting from 
+one month after planting at 15 days 
+interval (shoot and fruit borer).  
+ Pour 4% NSKE to soak the severely
+ affected plant™s root system by 
+making 2-3 inch holes (ash weevil). 
+ Biological control methods 
+ Seed treatment with antagonistic fungi 
+viz. Trichoderma harzianum
+ or T. viride @ 
+4 g/kg seed (nematode).  Apply Pseudomonas fluorescens@
+ 10 g / m2 for nematodes. 
+Pest and Disease Management: Organic Ecosystem 
+  Release 1st 
+instar larvae of green lace wing, 
+Chrysoperla carnea @ 
+10,000 per ha (aphid). 
+Behavioural control methods 
+ Monitor the whitefly with yellow sticky trap @ 12/ha. 
+ Installation of pheromone traps (shoot and fruit borer).
+ Diseases of Brinjal and their management 
+Alternaria Leaf Spot: 
+Alternaria melongenae, A. solani  
+Bacterial Wilt: 
+Pseudomonas solanacearum  
+Cercospora Leaf Spot: Cercospora solani -melongenae, C. solani  
+Collar Rot: Sclerotium rolfsii 
+ Management  Pant samrat variety is tolerant.  
+ Crop rotation with cruciferous vegeta
+bles such as cauliflower help in 
+reducing the disease incidence.  
+ Fields should be kept clean and effected parts are to be collected 
+and burnt.  
+ The diseases are more prevalent in the presence of root knot 
+Nematodes, so control of these ne
+matodes will suppress the disease 
+spread.   Seed treatment with 4 g of 
+Trichoderma viride formulation per kg 
+seed will help in reducing the diseases.  
+ Collection and destruction of dise
+ased parts and portions of the 
+plant.   Spray Copper fungicides to control the diseases  Integrated Pest/Disease Management Package for Organic Bhendi Ecosystem 
+Mechanical control methods  Collection and destruction of 
+damaged buds and flowers and 
+distorted fruits (fruit borer). Cultural control methods  Application of neem cake 400 kg/ha at sowing (nematode). 
+Botanical control methods 
+ Spray Neem Seed Kernel Extract 5 % 
+or neem oil (3%) (fruit borer, 
+leafhopper, mites and whitefly). 
+Pest and Disease Management: Organic Ecosystem 
+ Biological control methods 
+ Release of egg parasite, Trichogramma @ 1.0 lakh/ha (fruit borer). 
+ Release of 1
+st instar larvae of green lace wing bug, 
+Chrysoperla carnea @ 10,000/ha (fruit borer). 
+ Spray Bacillus thuringiensis 2 g/l (fruit borer). 
+Behavioural control methods 
+ Set up pheromone trap at 12/ha (fruit borer) 
+ Installation of yellow sticky traps to trap whitefly adults. 
+Diseases of bhendi and their management 
+
+Cercospora Leaf Spots: Cercospora malayensis
+ C. abelmoschi Fusarium Wilt Of Okra: Fusarium vasinfectum 
+Powdery Mildew: Erysiphe cichoracearum and  
+Vein-Clearing/Yellow Vein Mosaic  
+Management  Once the disease becomes destructive,
+ it is advisable to find clean 
+fields even if such a plan involves renting additional land.  
+ A better plan is to use a 6-year rotation before the fungus is 
+destructive; this permit many ye
+ars of okra growing without too 
+much loss.   For sowing during the summer season
+, when the whitefly activity is 
+high, the susceptible varieties should be avoided.  
+ By selecting varieties resistant to 
+yellow vein mosaic like Parbhani 
+Kranti, Arka Abhay, Arka Anamika, Co3, and Varsha Uphar, the 
+incidence of the disease can be minimised.  
+ Even in these varieties, when a pl
+ant starts exhibiting symptom of 
+the disease, it should be pulled 
+out immediately and burnt by which 
+the spread of the diseases can be prevented.  
+Integrated Pest/Disease Management Package for Organic Chilli 
+Ecosystem 
+Mechanical control methods  Collection and destruction of damaged fruits and grownup 
+caterpillars (fruit borers).  Collection and destruction of the dropped flowers and fruits (midge). 
+ Collection and destruction of virus affected plants. 
+Cultural control methods Pest and Disease Management: Organic Ecosystem 
+  Raise 2 rows of maize or sorghum for every 5 rows of chilli crop 
+against wind direction (chilli mosaic). 
+ Crop rotation with maize, soybea
+n, green gram, black gram etc. (
+H. 
+armigera and S. litura
+). 
+ Deep summer ploughing (
+H. armigera, S. litura 
+and root worm). 
+ Raise 2-3 rows of maize or sorghum as border crop to prevent the 
+attack of 
+H. armigera 
+and S. litura 
+from surrounding fields and 
+enhances the activity of lady bird beetle. 
+ Plant the trap crops for 
+H. armigera
+ (marigold)
+ and  S. litura 
+(castor) 
+@100 plants / acre and periodical destruction of egg masses and 
+larvae found on trap crops. 
+ Provision of bird perches @ 15-20 / ha and also provide water pots 
+around them. 
+ Application of well composted farm yard manure along with neem 
+cake (root worm) 
+ Don™t crop the chilli in the fields
+ where tomato and brinjal were 
+raised previously.  Intercrop onion 1 line after 10-12 
+lines of chilli to enhance the 
+natural enemy population especi
+ally, coccinellids and syrphids. 
+Botanical control methods 
+ Spray neem oil and NSKE (mite, 
+thrips, fruit borers, whitefly). 
+ If the infestation is severe, spray th
+e botanicals at weekly intervals. 
+Biological control methods 
+ Spray Bacillus thuringiensis at 2 g/l (fruit borers). 
+ Apply TNAU formulation of VAM (con
+taining 1 spore/g to control root 
+knot nematode in nursery). 
+ When H. armigera 
+is in egg stage, release 
+Trichogramma 
+@ 60000 / acre two to three times. 
+ Spray H.a NPV and S.l 
+NPV @ 200 LE / ha + 500 g jaggery + 100 ml 
+teepol in evening hours. Behavioural control methods 
+ Set up pheromone traps for 
+Helicoverpa armigera and Spodoptera 
+litura at 12 /ha. 
+ Installation of yellow 
+sticky traps (whitefly). Pest and Disease Management: Organic Ecosystem 
+ Diseases of chillies and their management 
+Disease Stage Important
+Factors favouring infection 
+Management Damping off  Seedling (nursery)  
+Moist soils 
+poordrainage 90-
+
+100% R.H soil 
+
+temperature 20
+°C Partial sterilization of soil 
+by burning trash in the 
+
+surface helps in checking 
+
+the disease 
+
+Follow cultural practices 
+
+such as thin planting 
+
+(600 - 750g seed per 
+
+cent) on raised seedbeds.  
+Use of light textured soils 
+
+provides better drainage 
+
+and aeration.  
+
+Use of well decomposed 
+
+manure.  
+
+Seed treatment with 4g 
+Trichoderma viride formulation  
+Anthrac-
+nose /Die 
+
+back /Fruit 
+
+rot  Fruiting  Infected seed 
+airborne wind - 
+
+blown rains Use disease free seed. Seed - borne infection is 
+
+controlled by seed 
+
+treatment  
+ Frog eye 
+
+leaf spot  Nursery  Prolonged period of 
+wetness  
+Seed and infected 
+crop residues Crop rotation 
+Use of resistant varieties Powdery 
+
+mildew  
+Any stage 
+of growth 
+
+in main 
+
+field  Warm climate both 
+dry and humid  
+
+More leaf shedding 
+
+at low humidity Crop rotation 
+Use of resistant varieties Fusarium wilt  
+Nursery & mainfield  High temperatures  
+Wet soil conditions 
+Use of wilt resistant 
+varieties Bacterial leaf spot  Main field 
+all stages 
+of crop  
+Cloudy weather The bacteria are seed - 
+borne and the seeds can 
+
+be treated with corrosive 
+
+sublimate. It is also soil-
+
+borne and hence crop 
+
+rotation is essential 
+Leaf curl  Main field 
+all stage of 
+crop  Virus generally 
+transmitted by 
+white-fly  Crop rotation 
+Use of resistant varieties Mosaic 
+
+Viruses  Main field 
+at all 
+Virus transmitted by insect vectors.  
+Crop rotation 
+Use of resistant varieties Pest and Disease Management: Organic Ecosystem 
+ stages of 
+crop  (Sucking pest)  
+ Eco-Friendly Methods for Stored Grain/Seed Insect Management 
+ Ever since the advent of stabilized Agriculture, storage of produce 
+has remained an issue of utmost concern. Unless the problem of storage is 
+
+solved satisfactorily the problem of hung
+ry millions may continue even with 
+substantial increase in production. Th
+ere are a number of estimates of post 
+harvest losses. Most conservative estima
+tes for the post harvest losses in food 
+grains in India even put at about 10%, 
+a quantity good enough to feed at 
+least 60 million people. Out of the tota
+l production, about 70% is retained 
+and stored by farmers for consumption,
+ as seed, feed and payment of wages 
+and only about 30% is marketable su
+rplus. Insects are responsible for 
+enormous spoilage in storage they feed 
+on grain, bore the kernel, and destroy 
+the germ portion, cause heating and dete
+rioration in stored produce. As per 
+the Pause committee report, the storage losses due to insect pests of stored 
+
+grain are 2.55%. In addition they are 
+also responsible for the qualitative 
+losses in food grains.  
+Sources of Infection 
+ Field infestation, insects fly from st
+ores to fields and lay eggs upon 
+the maturing grains.   These eggs hatch out to larvae in favourable conditions when grains 
+reach the stores. They can crawl/fly to fresh stocks and infest them 
+is called cross infestation.  
+ It has been a general practices, sp
+ecially with farmers, that they 
+keep without cleaning the empty food grain bags for use in the next 
+season only.  
+ Eggs and larvae of insects rema
+in hidden and feed on the grain 
+fragments in the off season. Whenever the grains are filled up in 
+such bags, infestation reappears.  
+ The insects, which may be present 
+in the joints or corners of the 
+carriers, migrate to the food grai
+n lots and cause infestation.  
+ The scientific storage of grains helps in minimizing the damage by 
+insects, and microorganisms.  
+ The following methods can help in safe storage of grains. 
+ Preventive measures  
+ Curative measures  
+Preventive measures Pest and Disease Management: Organic Ecosystem 
+  Cleaning the storage structures, sealing of cracks, crevices and holes 
+present in the floors. Cleaning of the Sheller before their use.  
+ Storage structures/godowns/gunny bags should be disinfected with 
+approved residual insecticides pr
+eferably with Malathion 50% EC, 
+with dilution 1 : 100.  
+ Proper stacking of the filled bags
+ for proper hygiene and sanitation 
+prevents insect damage in the godowns.  
+Curative measures  
+The infestation of stored grain insect
+ pests can be minimized by different 
+methods Physical control measures 
+ Heat treatment of stored grain at 55-60°C  
+ Mixing of inert dusts with grain ma
+kes entry of insects a difficult 
+task. However here grain has to be washed before consumption.  
+Mechanical measures  These measures are practicable and include sieving of grains.  
+Ecological measures 
+ Temperature, moisture content of 
+grain and availability of oxygen 
+have to be suitably manipulated by designing and constructing the 
+storage structures which create unfavourable ecological conditions 
+
+for insect attack.   Food grains kept in airtight sealed structure remain insect free. Eg. 
+Pusa bin.  
+ Grains with moisture content less than 10% are not suitable for 
+multiplication and survival of mo
+st of the insects (except Khapra 
+beetle which can survive but it is susceptible to reduced oxygen 
+
+content)  
+ Apart from this TNAU have developed various ecofriendly techniques 
+for controlling stored products and are given below. 
+i. TNAU Insect Probe Trap 
+ 
+ The use of trap is relatively a new method of 
+detecting trapping insects in stored grains. The basic 
+
+component of a TNAU probe trap consists of three 
+important parts: A main tube, 
+insect trapping tube and a 
+detachable cone at the bottom. Equispaced perforations of 
+
+2 mm diameter are made in the main tube. 
+ Pest and Disease Management: Organic Ecosystem 
+ Concept 
+ Insects love ﬁAIRﬂ and move towards air. This behaviour of the 
+insect is exploited in this technology. 
+ Method of working 
+ The insect trap has to be kept in the grain like rice, wheat etc., 
+vertically with the white plastic cone 
+downside as shown the figure. The top 
+red cap must be with the level of the gr
+ain. Insects will move towards air in 
+the main tube and enter through the hole
+. Once the insect enters the hole it 
+falls down into the detachable white co
+ne at the bottom. Then there is no 
+way to escape and the insects are tr
+apped forever. The white detachable 
+cone can be unscrewed once in a week
+ and the insects can be destroyed. 
+Salient Features 
+ No chemicals; No side effects and No maintenance cost. 
+Significance 
+ Commercialized during 2002. Around
+ 1, 00,000 units have been sold 
+so far across the country. The trap has been included for 
+popularization under Canadian International Development Agency 
+
+(CIDA) and Mc Gill University Project on "
+Food Security in South 
+India" 
+at TNAU, Coimbatore and UAS 
+(University of Agricultural 
+Sciences), Dharwad during 2003-2007.  
+ CARE (Co-operative for Assist
+ance and Belief Everywhere) 
+world's largest independent, non profit, nonsectarian, non 
+government international relief an
+d development organization with 
+its internal secretariat at Brussels, Belgium is using the TNAU probe 
+
+trap technology under integrated child development services in 
+
+Madhya Pradesh. 
+ Won Best Creative product award from Chamber of Commerce, 
+South India, 2002. 
+Recent achievements 
+ A good response from tribal region
+s of Adilabad district of Andhra 
+Pradesh for the trap. Women are purchasing the trap and using 
+them to control insects in rice / 
+sorghum. They say that the traps are 
+useful in reducing the drudgery of cleaning their grains through 
+
+frequent sieving. 
+ Recently M/s. TATA Chemicals Ltd., Kolkatta has taken up marketing 
+of TNAU probe trap, through TATA Kissan Sanchar in Gorakpur area 
+
+of Uttar Pradesh after detailed field studies independently by them. 
+ Pest and Disease Management: Organic Ecosystem 
+ Efficiency 
+ TNAU Insect traps are excellent insect detection devices in food 
+grains and more effective in the detection of stored grain insects namely 
+Rhyzopertha dominica 
+(F.), 
+Sitophilus cryzae 
+(L.) and 
+Tribolium castaneum 
+(Herbst) in stored food grains both 
+in terms of detection 
+as well as 
+number of insects caught 
+than the standard normal sampling method (by 
+spear sampling). The detection ratio (trap 
+: normal sample) is higher in trap 
+than of normal sampling method by fa
+ctors ranging from 2 : 1 to 31:1. The 
+insects catch is also higher in the 
+probe trap than the normal sampling 
+method by factors ranging from 20: 1 to 121: 1. 
+ They are also good mass trapping devices when used at 2 - 3 
+numbers / 25 kg bin (28 cm dia and 39 cm length). They should be placed at 
+
+top 6 inches of the grain, where the insect
+ activity is seen during early period 
+of storage. They can remove > 80% 
+of the insects within 10 - 20 days. 
+ii. TNAU Pit Fall Trap
+ Pitfall traps are used for capturing insects active on grain surface and in other 
+layers of grain (Monitorin
+g and mass trapping tool). Standard Model
+  Standard model of pitfall trap has 2 
+parts, perforated lid (2 mm (or) 3 
+mm) and a cone shaped bottom 
+
+portion.  Application of special coating with 
+sticky material on the inner side of 
+cone to hold trapped insects is 
+necessary 
+ This procedure is tedious. 
+TNAU Model
+  TNAU model has perforated lid, cone 
+shaped bottom which tapers into a 
+funnel shaped trapping tube. 
+ Hence sticky coating is dispensed 
+with  Commercial model is in plastic, 
+simple and economical. 
+ Easy to handle. 
+Significance
+ Pest and Disease Management: Organic Ecosystem 
+  Commercialized very recently 
+and product launched on 18 
+September 2006 by TNAU and available in food grade plastic 
+materials.  Cost is only Rs.25/-  Around 1000 units have been distribu
+ted to KVK's for popularization 
+of the technology  Because of easy handling and low cost, there is great scope of this 
+model to spread fast across the country.  No such cost effective and durable 
+device is available so far in any 
+part of the world. Twenty five Rupees investment will be worth to 
+collect plenty of stored grain insects. iii. TNAU Two-In-One Model Trap 
+The probe trap containing the components namely the 
+perforated tube, pitfall me
+chanism, a collection tube 
+and the cone shaped pitfall trap with a perforated lid 
+
+and the bottom tapering cone were combined as a 
+
+single unit. Combination of probe and pitfall increase 
+
+the trapping efficiency of insects. Best suited for pulse 
+
+beetles as they are seen only on grain surface 
+
+wandering here and there. It does not require tedious 
+
+procedures like coating the inner surface of pitfall cone 
+
+with sticky materials before trapping to hold pulse 
+
+beetles. Beetles are captured alive in this trap, which 
+
+may facilitate release of pheromone and there by 
+attract more insects. Significance
+  Commercialised and commercial launc
+hing was held on 30.12.2003. 
+ Around 100-200 used of farmers of Tamil Nadu and Karnataka units 
+have been dispatched to UAS, Dharwad for popularisation 
+ This trap technology is one of the promising technologies 
+commercialised under National Ag
+ricultural Technology Project 
+funded by World Bank (Rainfed eco 
+
+system)  Spreading fast across the country. 
+iv. Indicator Device 
+It consists of a cone shaped perforated cup 
+(3mm perforation) with a lid at the top. The cup 
+
+is fixed at the bottom with a container and 
+
+circular dish, which are to be smeared with 
+
+sticky material like vaseline.  Pest and Disease Management: Organic Ecosystem 
+  Farmers, before storing their puls
+es, should take 200 g of pulses to 
+be stored and put them in the cup. Wh
+en the field carried over beetles start 
+emerging, due to their wandering behavi
+our, they enter the perforations and 
+get slipped off and fall into the trappi
+ng portions. As they stick on to the 
+sticky materials, farmers can easily lo
+cate the beetles and can take out the 
+bulk-stored pulses for sun drying.  The 
+device with 2mm perforations can be 
+used for cereals. This will help in elim
+inating the initial po
+pulation, which acts 
+as the major source for further build up
+. Thus, timely detection will help the 
+farmers to preserve their valuable pulses during storage. The device is being 
+
+popularised. v. TNAU Automatic Insect Removal Bin 
+ TNAU insect removal bin can remove insect 
+automatically. The structure has 4 major parts 
+
+namely outer container, inner perforated container, 
+
+collection vessel and the lid. The model exploits 
+
+wandering behaviour of stored product insects as 
+
+well as the movement of these insects towards well 
+
+aerated regions. The grains are held in the specially 
+
+designed inner perforated container. The space 
+
+between inner and outer container provides good 
+
+aeration for the insects. Insects, while wandering, 
+
+enter the perforation to reach the aerated part and while doing so, get slipped 
+
+off and fall into the collection vessel th
+rough a pitfall mechanism provided in 
+the collection vessel. In order to quickly 
+collect the insects, as and when they 
+emerge from grains, perforated (2 mm) rods are fixed in the inner container. 
+ The container will be useful for st
+oring rice, wheat, broken pulses, 
+coriander etc. The insects such as rice
+ weevil, lesser grain borer, red flour 
+beetle, saw toothed beetle, which are commonly found attacking stored 
+
+grains can be removed automatically by storing grains in this container. 
+
+Within a very short period of 10 days a majority of the insects (more than 90 
+
+per cent) can be removed from the grains. The containers are available in 2 
+
+kg, 5 kg, 25 kg, 100 kg and 500 kg capacities. 
+Efficiency 
+ Grains (paddy and sorghum) stored in Automatic insect removal bin 
+(100 kg and 500 kg) recorded only 1 - 4% damage by insects compared to 33 
+
+to 65% damage in ordinary bin after 10 
+months of storage. The population of 
+insects (R. dominica,  S. oryzae) 
+ranged from 0 - 2/kg in grain stored in 100 
+kg Automatic insect removal bin compared to 5 - 191 / kg in ordinary bin after 10 months of storage. 
+Significance 
+ The technology was popularised of the Avinashilingam deemed 
+University through a project from Department Science and 
+Technology, Government of India. 
+Pest and Disease Management: Organic Ecosystem 
+  Tamil Nadu State Council for Scie
+nce and Technology sanction Rs. 
+10,000 during 1998 for popularisation
+ of Gadgets to women folk. 
+ Suitability for developing countries
+  No granaries can be filled with grains 
+without insects
+ as the 
+harvested produce contain, egg (or) la
+rvae (or) pupae in them because of 
+'field carryover infestation' which canno
+t be avoided in developing countries 
+like India (known scientific fact). 
+ So the aim of stored product insect researcher should target on this 
+field carryover population (which is ge
+nerally < 1%) which emerge has adults 
+15 to 20 days after harvest in granaries. 
+ In this field carryover population 
+is not cared then the insect will 
+multiply and contaminate the food grai
+ns and complete damage can even be 
+expected within 4 months of storage. 
+ Here comes the role of 
+automatic insect removal bin
+ which can 
+remove substantial number of emerging adults and sometimes free living 
+
+larvae also.  Significant achievements have happe
+ned in popularization of Automatic 
+Insect Removal bin Technology. 
+vi. UV - Light Trap for Grain Storage Godowns 
+The UV light trap mainly consists of 
+a ultra-violet source (4 W germicidal 
+
+lamps). The lamp produces ultra-
+
+violet rays of peak emission around 
+
+250 nano meter. The light is fitted at 
+
+the centre of a funnel of 310 mm 
+
+diameter at the top and 35 mm 
+
+diameter at the bottom. The bottom 
+
+end of the funnel is attached with a 
+
+transparent plastic container for 
+
+collecting the trapped insects. To 
+
+hang the unit at desired points, 
+three hooks have been provided at the pe
+riphery of the funnel. The unit is also 
+provided with a tripod stand.  The UV light trap can be placed in food grain storage godowns at 1.5 
+m above ground level, preferably in pl
+aces around warehouse corners, as it 
+has been observed that the insect tend
+s to move towards these places during 
+the evening hours. The trap can be operated during the night hours. The light 
+
+trap attracts stored product insects of paddy like lesser grain borer, 
+Rhyzopertha dominica, red flour beetle, 
+Tribolium castaneum and saw 
+toothed beetle, 
+Oryzaephilus surnamensis 
+in large numbers. Psocids which are 
+of great nuisance in godowns are also 
+attracted in large numbers. Normally 2 
+Pest and Disease Management: Organic Ecosystem 
+ numbers of UV light trap per 60 x 20 m (L x B) godown with 5 m height is 
+suggested.  The trap is ideal for use in godowns meant for long term storage of 
+grains, whenever infested stocks a
+rrive in godowns and during post 
+fumigation periods to trap the resistant 
+strains and left over insects to prevent 
+build up of the pest populations. In go
+downs of frequent transactions the trap 
+can be used for monitoring. 
+Efficiency 
+ It has been found that two traps kept at the corners of the 
+warehouse (60m x 20m x 5m) can catch around 200 insects/day even from a 
+
+godown where normal sampling did no
+t show any insect presence, thus 
+indicating its effectiveness as a monito
+ring and mass trapping device. It has 
+been recorded around 3000 
+Rhyzopertha dominica 
+on a single day from single 
+trap kept in a paddy godown. 
+Significance 
+National  The Food Co-operation of India ha
+s entered into MOU with TNAU for 
+popularisation of this trap. Already 
+25 officers of all has been trained 
+on this line.  M/s. Bannari Amman sugars Limited uses the UV light trap 
+technology under the consultancy project with TNAU for 
+
+management of stored grain insects in their godowns. 
+International 
+  M/s. Madaus Pharmaceuticals Pvt. Ltd Goa, 
+(German Firm) has adopted the UV trap 
+technology to detect/mass trap cigarette 
+
+beetle infestation in their export produce, 
+
+senna pods/seeds (
+Casia augustifolia
+).  
+ M/s. Saraf Trading Corporation Pvt. Ltd., 
+Cochin which exports herbal tea to Europe 
+uses the UV- light trap technology for 
+
+detection/mass trapping of 
+Lasioderma 
+serricorne.  In Ayurvedic and Siddha Medicine factories 
+UV-light trap will be used for detection of 
+insects in the plant product ingredients 
+
+used for medicines. 
+vii. TNAU Stored Grain Insect Management Kit 
+ Food grains are stored for varying periods to ensure proper and 
+balanced public distribution througho
+ut the year.  Among the biotic and 
+Pest and Disease Management: Organic Ecosystem 
+ abiotic factors which affect grains / seeds in storage, insect plays a major role 
+in the deterioration of grains / seeds ca
+using both qualitativ
+e and quantitative 
+losses.  Often the presence of insects in
+ store houses are felt only when they 
+are hovering and flying around, by which time enormous loss and population 
+
+build up of insects might have occurred.  Hence, timely detection of the 
+
+stored grain insects will help to prevent heavy losses. 
+TNAU is one of the pioneering institutes in India in the development of detection devices 
+for stored grain insects.  These devices exploit the wandering behaviour of the insects 
+
+and help in timely detection of insects in stored produce leading to timely control.  These 
+
+include TNAU probe trap, TNAU pit fall trap
+, two in one model trap, indicator device, 
+Automatic insect removal bin and UV-light trap technology.  These devices have been 
+
+widely used in many places and have received State and National recognitions. 
+ Hence, the Department of Agricult
+ural Entomology, Centre for Plant 
+Protection Studies, TNAU, Coimbatore has developed a ﬁKITﬂ named as 
+
+TNAU-Stored Grain Insect Pest Management Kit
+ containing prototypes 
+of all the devices along with a CD-R
+om about the devices and how to use 
+them.  This kit will be of great use in 
+popularization of the technologies across 
+the country.   The kit will be an ideal ﬁh
+ands - on trainingﬂ tool for Education, 
+Extension centers (KVK, Plant clinic, save
+ grain centers) and also for private 
+ware housing.  This TNAU kit is the 
+first of its kind in the world.   
+Significance
+  The kit has been commercially launched by TNAU through MOU with 
+M/s. KSNM Marketing, Coimbatore. 
+Pest and Disease Management: Organic Ecosystem 
+  Good response from Agrl. Colleges, KVK's, PHT's Centers across the 
+country. So far around one hundred units have been sold by the 
+firm.  For the benefit of the students and staff of Agricultural College 
+and Home Science Colleges of our country the entire information 
+
+on above kit is hosted the website under TNAU-Mc-Gill CIDA 
+Project.  
+     www.agrenv.mcgill.ca/agreng/india/files/pest%20trap
+  ICAR - Agricultural Engineering Regional Center (ICAE) at 
+Coimbatore has taken up TOT of this technology and spreading this 
+technology through Income generation project. 
+viii. A Device to Remove Insect Eggs from Stored Pulse Seeds 
+(Patent No. 198434) 
+ Pulses are more difficult to 
+store than cereals as these suffer a 
+
+great damage during storage by 
+
+pulse beetle Callosobruchus
+ sp. The 
+main source of infestation by pulse 
+
+beetle is it™s carry over damage from 
+
+field to stores which is well known.  
+
+The present invention is a prototype 
+
+of a gadget which can successfully 
+
+crush the eggs of pulse beetle, 
+Callosobruchus chinensis
+ and 
+Callosobruchus maculates
  which 
-may be due to higher 
-net benefits
-. Among the low 
-water consuming crops, there was a marginal reduction in area under maize by 
-9.50
- per cent, 
-whereas
- area under crops like, groundnut, gingelly, cotton
- and tapioca increased considerably 
-ranging from
- 35.93 per cent to 154.60 per cent. In the case of ragi, tobacco, onion, sunflower
- and vegetables 
-namely, 
-brinjal, chilies and tomato, the increase was substan
-tial ranging from 409.40 to 2369.14 per cent.
- Under rain fed conditions
-, area under groundnut, 
-grain sorghum, fodder sorghum,
- and pulses declined in the 
-range of 12.96 to 76.05 per cent, whereas, area under gingelly, cotton and maize increased between 96.5
-7 and 110.96 per cent. 
-The inference is shift from high water consuming and rain fed crops to low water 
-consuming and commercial crops including vegetables. 
-A comparison of table 3 and table 4 would also show 
-that the cropping intensity declined in the cri
-tical, semi critical and over exploited HLUs
-, whereas it increased 
-in the safe HLUs. The CLUI also shown a decline in the critical and over exploited HLUs in terms of ground 
-water, while overall it showed a marginal increase. All these are sign of a crop s
-et that will sustain resource 
-base and simultaneously help to increase the farm income substantially. 
- 4 Conclusion and policy implication 
- The static land use model was developed with an intension to identify an alternative cropping plan which 
+attack stored pulses. The gadget has 
 
-would take 
-care of the land and water resource use sustainability besides maximizing net income from crop 
+outer container and an inner perforated container with a rotating rod having 
 
-enterprise in 
-the 
-Bavani basin of the 
-western zone of Tamil Nadu
- in southern India
-. The land use model use
-d the spatial variation in biophysical and socio
--economic variables of a region by incorporating spatial 
-attributes of land and water resources. The major biophysical factor considered are the land availability, 
-ground and surface water availability, crop suitability for the particular soil type, crop se
-quence and climatic 
-variations 
-in terms of the length of growing period, 
-and these factors were specified as the constrain
-ts in the 
-land use model. The input data for the model 
-were collected from 
-the delineated 
-HLUs
-. The 
-optimum 
-land 
-use model reveals tha
-t there is possibility of increasing the crop income 
-in the upper Bhavani basin of 
-western zone of Tamil Nadu 
-form current level of 
-INR
- 6.14 billion to 
-INR
- 8.25 b
-illion
-. This alternative crop 
-plan also helped to reduce the area under high water consumi
-ng crop
-s in water deficit area 
-without
- affecting 
-the land and water resources base.
- Thus
-, it could be revealed from the land and water resource efficiency 
-indicator
-s for the alternative crop plan
-, 
-resulted
- sustai
-nable resource use with higher net income
-, 
-achie
-ved 
-through
- the static bio
--economic model.
-   17  Reference
- Abrol, I.P. Land Degradation
--A Challenge to Sustainability, In Salinity Management for Sustainable Agriculture 
-(Eds) D.L.N. Rao, N.T. Singh, Raj K. Gupta and N.
-T. Tyagi, (Karnal : Central Soil Salinity Research 
-Institute, 1994)
- Central Water Commissions, 
-Water and Related Statistics,
- New Delhi, 
-2000.
- GAMS Development Corporation, 1998
- Washington, DC, 2000
-7, USA Email. Sales@ games:
- http//www
-/gams.com
- Holden, Stein., Hans Lofgren and Bekele Shiferaw ﬁEconomic Policy Reforms and Soil Degradation: A Village 
-CGE Mode
-l for a high Agricultural potential area with good market access in the Ethiopian Highland, 
-2002.
- Human Development Report 2000, p.38. 
- Ittersum, M. K., Van R. Rabbinge and H.C.Van Latesteijn, ﬁExploratory Land Use Studies and their Role in 
-Strategic Polic
-y Makingﬂ, Agricultural System, 58:309
--330, 1998.
- Keulen, H.Van, M.K.Van Ittersum and N. De Ridder, ﬁNew approaches to land Use Planningﬂ in Eds 
-R.P.Roeter, H.Van Keulen, A.G.Laborte, C.T.Hoanh and H.H. Van Laar, ﬁ System Research for 
-Optimizing Future Lan
-d Use in South and South
--East Asiaﬂ, SysNet Research Paper |Series No. 2, 
-International Rice Research Institute, Los Boños, Philippines , 2000, pp: 3
--20. Subbian, P, K. Annadurai and S. P. Palaniappan. 
-Agriculture 
-- Facts and Figures
- (Luthiyana : Kalyani 
-Publishers, 2000) pp 78
--81.
- Shiferaw Bekele and Stein T.Holden, ﬁFarm Level Benefits to Investments for Mitigating Land Degradation: 
-Empirical Evidence from Ethiopiaﬂ, Environment and Development Economics, 6:335
--358, 2003
- Swaminathan, M.S., ﬁ
-Agriculture an
-d Allied Sectors
-ﬂ Report of the Steering Group on for the Tenth Five Year 
-Plan 2002
--2007, Tenth Five Year Plan / Steering Group Sr.No.13, 2002, p.14
-  
+fixed with plastic brushes on all sides. Th
+e seeds with eggs are to be stored in 
+the perforated container and the rod ha
+s to rotated one full circumference 
+clockwise and anti-clockwise for 10 mi
+nutes 3 times a day (morning, noon 
+and afternoon). Due to the splashing acti
+on of the brush in rotating rod, the 
+eggs get crushed and thus the damage is prevented. The treatment does not 
+
+affect the germination of seeds.   
+Advantages of the invention 
+ The device is useful in removing the eggs without affecting the 
+germination  Once the eggs are removed there will not be further build up of 
+population during storage of seeds. 
+ Removing the eggs laid by the beetles will have a significant impact 
+in arresting the population
+ builds up in storage. 
+ Farmers generally fear to store pulse seeds because of the pulse 
+beetle damage during storage. The device of the present invention 
+Pest and Disease Management: Organic Ecosystem 
+ can remove this fear from the farmers mind and thus motivate them 
+ﬁto have their own seedsﬂ.  The patent has been recently commercialized.  
+ix. Trap for monitoring stored product insects in warehouse
+ (Patent Application No.1733/CHI/2008, dt.24.7.2008) 
+ The invention disclosed in this application relates to a device for 
+detecting stored grain insects in ba
+gstacks which comprises a main hollow 
+tube having a diameter in the range of 1.8 to 2.0 cm with equispaced 
+
+perforation in the range of 1.8 to 2 mm 
+on its upper portion with a bend at 
+one end which ends in a transparent co
+llection unit to collect the insects 
+falling down from the bend, the other end of main tube being closed.  
+     
+     
+ Advantages of the invention  
+ The device is useful in detecting stored grain insects in bag stacks of 
+the food grain warehouses without any damage to sacks.   
+ The device does not require any bait materials to trap insects. 
+ The device is useful in studying the distribution pattern of stored 
+product insects in various layers of bag stacks.  
+ The device will be useful to validate
+ the effect of fumigation by using 
+it immediately after fumigation, in 
+different layers of the fumigated 
+stacks.  The device will also be useful at farm level when farmers store their 
+produce in bags.  
+ 
+ Pest and Disease Management: Organic Ecosystem 
+ TNAU`s Contribution in Biological
+ Control of Pest and Diseases 
+ Tamil Nadu Agricultural University 
+is a highly recognized organization 
+making great inroads in the field of ag
+rotechnology. Tamil Nadu Agricultural 
+University™s consistent efforts in contribu
+ting to this field involves the efforts 
+of various agriculture and horticulture experts includes 
+Trichoderma viridi and 
+Pseudomonas flouroscens
+ Trichoderma viride 
+Advantages 
+ Environmentally Safe  
+ Economically Cheaper  
+ Easy to use  
+ No Residual Toxicity  
+ No Development of Resistance by Pathogens  
+ Incraesed multiplication in the soil  
+ Protect the crops   Broad spectrum of action  
+ Enhances plant growth  
+ Compatible with other Bio fertilizers  
+ Not harmful to beneficial soil microbes 
+Recommended Crops  Black Gram   Green Gram  
+ Bengal Gram   Red Gram   Groundnut  
+ Sunflower  
+ Gingelly   Cotton   Chilli  
+ Tomato  
+ Turmeric Dosage:
+  4g/Kg of Seed as dry Seed Treatment  
+Pest and Disease Management: Organic Ecosystem 
+  Soil Application: 2.5Kg/ha Pseudomonas fluorescens 
+Features of Pseudomonas fluorescens
+  Cost Saving  
+ Improves the growth and Yield of the Crop  
+ Controls Seed born and Soil born fungal diseases  
+ Improves the disease resistance power of the crop  
+ Improves uptake of minerals  
+ Eco-Friendly   Saves Earthworm and other Micro organisms in the soil 
+ Recommended Crops:  Cereal Crops  Paddy  
+ Ragi  Oil Seeds
+  Ground Nut  
+ Gingelly   Sun Flower 
+ Cotton   Pulses   Vegetable Crops:
+   Tomato  
+ Brinjal   Chillies   Bitter Gourds  
+ Cabbage  
+ Cauli Flower 
+ Fruit Crops:
+   Banana  
+ Mango 
+ Pest and Disease Management: Organic Ecosystem 
+ Dosage 
+ Pseudomonas fluorescens
+ @ 10g / kg to control seed born 
+Pathogens 
+ Soil Application: 10 Kg/ha 
+Do™s and Dont™s in Organic Farming 
+Do™s in Organic Agriculture 
+Climate 
+ Appropriate to avoid pests and diseases 
+Soil Type 
+ To match with the crop cultivated. Ex: Deep well drained soils. 
+
+Crops  With inbuilt disease, pest & other biotic resistance. 
+ Acceptability for markets 
+ Quality, yield potential 
+ Adaptability to varying environmental conditions 
+Climate, soils, crops - Appropriateness and suitability are the key 
+factors to be considered Pesticides and organic agriculture 
+No processed chemical pesticide is approved for use. 
+Instead of chemical pesticide the following can be used 
+Botanicals Neem based products 
+Pongamia based product 
+Any botanical with pesticidal property 
+Biocontrol or biological 
+control agents such as 
+ Bacillus thuringensis
+ (BT) Natural enemies of pests can be used 
+Adopting natural biocontrol measures such as 
+ Mixed cropping  Trap crops etc. 
+
+ (Panchakavya, agnihotram,homeo 
+medicines, vrikshayurveda are 
+also projected as effective 
+ No chemical pesticide is the major requirement for O.A. 
+ Pest and Disease Management: Organic Ecosystem 
+ Do not use Agrochemicals  Fertilizer  
+ Agrochemicals such as pesticid
+es, herbicides, fungicides, plant growth promoters (synthetic hormones) Antibiotics for crop production. 
+Do not use products like 
+ Antibiotics, pest control chemicals,
+ hormones, disinfectants, urea etc 
+for Livestock production 
+Any processed input considered to be a potential environmental 
+hazard is prohibited 
+Specific items banned in organic crop production 
+Sewage, sludge 
+ Genetically engineered crops 
+ Ionizing Radiation for food processing 
+
+ Chemical preservatives 
+ Land for organic agriculture should NOT have used prohibited 
+products/ substances for minimum three years.  
+ Banned items in the ﬁSpecificsﬂ list should be checked with 
+standards and certifying agencies as they change from time to time 
+  Thus, organic way of pest and diseases management plays a 
+
+significant role in organic farming. Th
+e knowledge intensive and farmer based 
+management approach that encourages na
+tural control of pest populations by 
+anticipating pest and disease problems and preventing from reaching 
+
+economically damage levels will defini
+tely help achieving the target yield 
+without causing serious damage on en
+vironment and contaminating the food. 
+ Pest and Disease Management: Organic Ecosystem 
+ For Your Thinking 
+World Food day 
+ Bonn, Germany, October 16th 2007 - On this World Food Day 2007, 
+with the theme of the Right to Food, 
+which was recognized as a universal 
+human right in 1948 in the Universal Declaration of Human Rights, over 850 
+
+million people around the world, part
+icularly in least developed countries, 
+suffer is the right of every person to 
+have regular access to sufficient from 
+hunger and malnutrition. For IFOAM, the 
+Right to Food nutritionally adequate 
+and culturally acceptable food for an acti
+ve, healthy life. It is the right to feed 
+oneself in dignity and to produce healthy and culturally appropriate food 
+
+through ecologically, socially and economically sound methods, defining one™s 
+
+own food systems, rather than the righ
+t to be fed. This counts for each and 
+every individual, as well as for communities and regions.  
+   
+   
+    
+   ﬁWe need to make our farming practices and our food economy 
+subject to standards set not by the industrial system but by the 
+health of ecosystems and human communitiesﬂ
+ Soil - The Living Dynamic System Soul Of Infinite Life Upon this handful of soil our survival depends. Husband it and it will grow 
+our food, fuel, our shelter and surround us with beauty 
+Abuse it and the soil will collapse and die 
+taking man with it 

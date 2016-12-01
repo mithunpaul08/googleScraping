@@ -1,65 +1,123 @@
-Skip to content * Journals * Books Advanced search * Shopping cart * __ Sign
-in * Help ScienceDirect * Journals * Books * Register * Sign in ### Sign in
-using your ScienceDirect credentials Username Password Remember me Forgotten
-username or password? ### Sign in via your institution * OpenAthens login *
-Other institution login * Help * Journals * Books * Register * Sign in * Help
-close ### Sign in using your ScienceDirect credentials Username Password
-Remember me Forgotten username or password? ### Sign in via your institution *
-OpenAthens login * Other institution login __ Export __ You have selected 1
-citation for export. Help ### Direct export Save to Mendeley Save to RefWorks
-### Export file #### Format RIS (for EndNote, ReferenceManager, ProCite)
-BibTeX Text #### Content Citation Only Citation and Abstract Export Advanced
-search Close This document does not have an outline. JavaScript is disabled on
-your browser. Please enable JavaScript to use all the features on this page.
-Agricultural Economics Volume 16, Issue 3, August 1997, Pages 185-192 ![Cover
-image](http://ars.els-cdn.com/content/image/S01695150.gif) # Technical
-efficiency in paddy farms of Tamil Nadu: An analysis based on farm size and
-ecological zone Author links open the overlay panel. Numbers correspond to the
-affiliation list which can be exposed by using the show more link. Opens
-overlay Bedassa Tadesse ∗, a, JCA.NCIC@PADIS.GN.APC.ORG, Opens overlay S.
-Krishnamoorthy b aDepartment of Agricultural Economics and Extension, Jimma
-College of Agriculture, P.O. Box 307, Jimma, Ethiopia, IndiabDepartment of
-Agricultural Economics, Centre for Agricultural and Rural Development Studies,
-Tamil Nadu Agricultural University, Coimbatore - 641003, India Accepted 18
-March 1997, Available online 23 December 1997 Show more ### Choose an option
-to locate/access this article: Check if you have access through your login
-credentials or your institution. Check access ![Get Full Text
-Elsewhere](http://www.sciencedirect.com/scidirimg/gw_rtn_ihub.gif) ## Sign in
-using your ScienceDirect credentials Username: Password: Remember me Not
-Registered? Forgotten username or password? OpenAthens login ### Login via
-your institution Other institution login doi:10.1016/S0169-5150(97)00004-2 Get
-rights and content * * * ## Abstract Despite the wider application of
-efficiency analysis in Indian agriculture, little has been done on the
-investigation of intra and interecological variations, size differences and
-their interactions. However, ecological issues have paramount implications for
-the low-input sustainable agricultural production. Furthermore, due to the
-various causes of efficiency, the age-old size-based debate on efficiency
-differences is not yet resolved. The present study examines the level of
-technical efficiency across ecological zones and farm size groups in paddy
-farms of the southern Indian state of Tamil Nadu. The study showed that 90% of
-the variation in output among paddy (IR-20) farms in the state is due to
-differences in technical efficiency. Land, animal power and fertilisers have
-significant influence on the level of paddy production. Varying from 0.59 to
-0.97, the mean technical efficiency was found to be 0.83. The use of _F_-test
-in two-way analysis of variance (ANOVA) and censored regression (Tobit model),
-with dummies for ecological zones, farm size groups and their interactions,
-has shown that, at mean level, the level of technical efficiency among paddy
-farms of the state differs significantly across agro- ecological zones and
-size groups as well. The study further indicated that small-sized paddy farms
-in zone II and medium-sized paddy farms in zone III are represented by
-ecologically size-biased production techniques; thus achieving higher
-technical efficiency. * * * open in overlay Corresponding author. Tel.:
-002517110102, Fax: 002517110575 Copyright © 1997 Published by Elsevier B.V.
-Elsevier About ScienceDirectRemote accessShopping cartContact and supportTerms
-and conditionsPrivacy policy Cookies are used by this site. For more
-information, visit the cookies page. Copyright © 2016 Elsevier B.V. or its
-licensors or contributors. ScienceDirect ® is a registered trademark of
-Elsevier B.V. RELX Group Close overlay Close ## Sign in using your
-ScienceDirect credentials Username: Password: Remember me Not Registered?
-Forgotten username or password? OpenAthens login ### Login via your
-institution Other institution login # Other users also viewed these articles
-![](http://cdn.els-cdn.com/sd/sci_dir/closeButton.png) ![Please wait
-...](//sdfestaticassets-us-
-east-1.sciencedirectassets.com/prod/912746d57a8e7842c2cb66685460adb79ce16adf/images/loader.gif)
-Do not show again
+﻿ * Skip to Main Content * Screen Reader Access * ![Decrease
+Text](imagedefault/a_decrease.png) * ![Normal
+Text](imagedefault/normal_icon.png) * ![Increase
+Text](imagedefault/a_increase.png) * ![High
+Contrast](imagedefault/highcontrast.png) * ![Normal
+contrast](imagedefault/normal_icon.png) * ![Green
+Theme](imagedefault/green.png) * ![Blue Theme](imagedefault/blue.png) *
+![Brown Theme](imagedefault/brown.png) * हिंदी में ![Farmer Portal, Ministry
+of Agriculture,Government of India](imagedefault/title.png) ![Farmer
+Portal](imagedefault/beta.png) translate into : * Insurance * Storage * CWC *
+Cold Stores * Grameen Bhandaran * Credit * Branch Locator * Debt Relief *
+Short Term Credit * Med./Long Term Loans * Agricultural Banking * Agricultural
+Credit * Crops * Wheat * General Info * Pest &amp; Diseases * Seed Varieties *
+Maize * General Info * Pest &amp; Diseases * Seed Varieties * Rice * General
+Info * Pest &amp; Diseases * Seed Varieties * Diagnostic Tool * Pulses *
+General Info * Pest &amp; Diseases * Seed Varieties * Jute * General Info *
+Pest &amp; Diseases * Seed Varieties * Sugarcane * General Info * Pest &amp;
+Diseases * Seed Varieties * Other Crops * Pest &amp; Diseases * Extension
+Activities * Demonstrations * Farmer Friend * Farm School * Beneficiary List *
+NHM * NFSM * MSP * MSP Determination * Questionnaire * Kharif * Rabi *
+Sugarcane * Copra * Jute * Palm Oil * Notified MSP * Current * Archives *
+Animal Husbandry * Schemes * Guidelines * Report Disease * Login * Booklets
+and Fliers * Agromet * AFMU * Met Center * Regional Center * IMD HQ * State *
+Seed Dealer * Fertilizer/Pesticide Dealer * POP * Storage * MSP * Booklets and
+Fliers * District * Seed Dealer * Fertilizer Dealer * Pesticide Dealer * Farm
+Machinery * Manufacturer/Trader * New Registration * Registered *
+Authentication Authority * Association &amp; FMTTI * State * Dealer * M &amp;
+T Division * Seed Avalibility * NeGP-A * Feedback * Admin * Status * Home » *
+Maize Pests And Diseases # Agriculture Corner * Home Page * About Us * Seeds *
+Dealers * Availability * Central Varieties * Adaptable Varieties * Quality
+Testing * Certification * Pesticide * Dealers * Crop Pest Database *
+Precautions(Press Ad) * IPM * Best IPM Practices * State Wise Best Practices *
+Producers Registration * Farm Machinery * Video Clips * Farmer Guide * Find A
+Machine * Manufacturers * Dealers * Fertiliser * Dealers * Availability
+Information * Soil Test Report * Soil Fertility Maps * Agromet Advisory *
+English * Regional Language * Farmer Friendly Material * Booklets &amp; Flyers
+* Handbooks * Success Stories * Video Films * Audio Clips * Market Price *
+Other Agri Commodities * Minor Forest Produce * Exports & Imports * Agri
+Export Zones * Benefit of Agri Export Zones * Drought Management * Economics
+&amp; Statistics * Package of Practices * Programmes and Schemes ![Valid
+CSS!](http://jigsaw.w3.org/css-validator/images/vcss-blue) ![About
+Us](imagedefault/farmerfriend1.jpg) # Maize Pests And Diseases Insect-pest
+management Pink Borer (Sesamia inference) Sesamia inference occurs during
+winter season particularly in peninsular India. The moth of the Sesamia is
+nocturnal and lays eggs on lower leaf sheath. The larvae of the Sesamia enter
+the plant near the base and cause damage to stem. \--- ![Pest
+Maize](imagedefault/pestmaize3.png) | ![Pest
+Maize](imagedefault/pestmaize4.png) | Control of Chilo and Sesamia: For
+control of Chilo and Sesamia, foliar spray of 0.1 % Endosulfan {700 ml (35 EC)
+in 250 litre water} 10 days after germination is very effective. The Chilo can
+also be controlled by release of 8 Trichocards (Trichogramma chilonis) per
+hectare at 10 days after germination. Intercropping of maize with suitable
+varieties of cowpea is an eco-friendly option for reducing the incidence of
+Chilo on maize. Shoot fly (Atherigona sp.) In South India it is a serious pest
+but it also appears on spring and summer maize crop in North India. It attack
+mainly at seedling stage of the crop. The tiny maggots creep down under the
+leaf sheaths till they reach the base of the seedlings. After this they cut
+the growing point or central shoot which results in to dead heart formation.
+\--- **Control of Shootfly** Sowing must be completed before first week of
+February so that the crop will escape shootfly infestation. Spring sowing must
+be accompanied with seed treatment with Imidacloprid @ 6ml/kg seed. | ![Pest
+Maize](imagedefault/pestmaize5.png) Stem Borer (Chilo partellus) Major pest of
+maize in India is Stalk borer. Chilo partellus, popularly known as stalk borer
+that occurs during monsoon season is a major pest throughout the country.
+Chilo lays eggs 10-25 days after germination on lower side of the leaves. The
+larva of the Chilo enters in the whorl and cause damage in the leaves | ![Pest
+Maize](imagedefault/pestmaize1.png) | ![Pest
+Maize](imagedefault/pestmaize2.png) \---|---|--- Termites (Odontotermes
+obesus) ![Pest Maize](imagedefault/pestmaize6.png). | Termite is also an
+important pest in many areas. For control of termite fepronil granules should
+be applied @ 20 kg ha-1 followed by light irrigation. If the termite incidence
+is in patches, than spot application of fepronil @ 2-3 granuled/plant should
+be done. Clean cultivation delays termite attack. \---|--- Other emerging
+pests Recently some other non-traditional pests are also causing damage to
+maize crop viz. larvae of American Bollworm (Helicoverpa armigera) which
+causes damage to cob in Southern part of India while the Chaffer beetle
+(Chiloloba acuta) feeds on maize pollen which adversely affects pollination in
+northern part of India. | ![Pest Maize](imagedefault/pestmaize7.png)
+**American bollworm** | ![Pest Maize](imagedefault/pestmaize8.png) **Chaffer
+beetle** \---|---|--- Disease Management Across the country several diseases
+occurs during different seasons, if they are not managed at proper time than
+they leads to yield loss. BLSB, Pythium stalk rot, Bacterial stalk rot, PFSRs,
+Polysora rust and Downy mildews are the major constraints to be tackled for
+realizing genetic potential yield of the crop. Estimated losses due to major
+diseases of maize in India is about 13.2% of which foliar diseases (5 %),
+stalk rots, root rots, ear rots (5 %) cause major yield losses. The major
+diseases and their management practices are described as below: Turcicum leaf
+blight (Exserohilum turcicum) The disease is prevalent in cooler condition
+with high humidity of Jammu &amp; Kashmir, Himachal Pradesh, Sikkim, West
+Bengal, Meghalaya, Tripura, Assam, Rajasthan, Uttar Pradesh, Uttarakhand,
+Bihar, Madhya Pradesh, Gujrat, Maharashtra, Andhra Pradesh, Karnataka and
+Tamil Nadu. Long, elliptical, grayish green or tan lesions (2.5-15 cm) appear
+on lower leaves progressing upward. Grow PEMH-5, Vivek 21, Vivek 23, Vivek 25,
+Pratap Kanchan 2, Nithyashree in the recommended areas followed by need based
+sprays of mancozeb @ 2.5 g/litre (with adjuant @ 0.05%) at 8-10 days interval.
+\--- ![Pest Maize](imagedefault/pestmaize9.png) ![Pest
+Maize](imagedefault/pestmaize10.png) ![Pest
+Maize](imagedefault/pestmaize11.png) Turcicum leaf blight (Exserohilum
+turcicum) It is a major disease in the states of Jammu &amp; Kashmir, Himachal
+Pradesh, Sikkim, Meghalaya, Punjab, Haryana, Rajasthan, Delhi, Uttar Pradesh,
+Bihar, Madhya Pradesh, Gujrat, Maharashtra, Andhra Pradesh, Karnataka and
+Tamil Nadu having warm humid temperate to tropical climate in the cropping
+period. Lesions on the leaves elongated between the veins, tan with buff to
+brown or dark reddish brown borders. Lesion size may vary in inbreds and
+hybrids due to different genetic backgrounds. Growing of HM 10, PAU 352,
+Malviya Hybrid Makka 2, EMH 1, HQPM 7, HQPM 5, HQPM 1, Shaktiman 3, Shaktiman
+4, PEMH– 5, HQPM-4, and HSC-1 with need based sprays of mancozeb or zineb @
+2.5g/litre of water. | ![Pest Maize](imagedefault/pestmaize12.png) | ![Pest
+Maize](imagedefault/pestmaize13.png) \---|---|--- Common rust (Puccinia
+sorghi) This rust attacks in the maize growing areas with subtropical
+temperate and high land environment of Jammu &amp; Kashmir, Himachal Pradesh,
+Sikkim, Meghalaya, West Bengal, Punjab (Rabi), Haryana (Rabi), Rajasthan,
+Uttar Pradesh, Bihar (Rabi), Madhya Pradesh, Maharashtra, Andhra Pradesh,
+Karnataka and Tamil Nadu. It appears at the time of tasseling. The circular to
+elongate, golden brown to cinnamon brown pustules are visible over both leaf
+surfaces changing to brownish black at plant maturity. Adopt promising
+hybrids/ varieties viz.; Buland, Sheetal, HHM 1, HHM 2 and HQPM 1,
+Nithyashree. Spray of mancozeb@ 2.5g/litre of water at first appearance of
+pustules. Prefer early maturing varieties. * Home * About Us * Help * Weather
+Forecast * Feedback * RTI * Sitemap * Accessibility Statement * Website Policy
+This website belongs to Department of Agriculture &amp; Cooperation, Ministry
+of Agriculture & Farmers Welfare, Government of India 17 August, 2015
 

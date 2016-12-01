@@ -16,5 +16,7 @@ Code that gets the first 10 pdf results of a given google query, and converts it
 2. Go to src folder and type :python scraper.py
 Eg: mithunpaul@chung:~/Desktop/fall2016NLPResearch/googleScraper/googleScraping/main/src$ python scraper.py
 
+#to change the number of query results:
+Update the value of the variable numberOfGoogleResults in scraper.py
 
 #A basic set of results can be found in the /archive and /output folder.
