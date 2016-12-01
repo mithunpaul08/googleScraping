@@ -1,0 +1,1524 @@
+DepartmentofEconomicsWorkingPaperSeries
+ProductionEfciencyinIndianAgriculture:AnAssessment
+of
+thePostGreenEvolutionYears
+
+SubhashC.Ray
+
+UniversityofConnecticut
+
+ArpitaGhose
+
+JadavpurUniversity
+
+WorkingPaper2010-26
+
+October2010
+341ManseldRoad,Unit1063
+
+Storrs,CT06269Œ1063
+
+Phone:(860)486Œ3022
+
+Fax:(860)486Œ4463
+
+http://www.econ.uconn.edu/
+
+ThisworkingpaperisindexedonRePEc,http://repec.org/
+DepartmentofEconomicsWorkingPaperSeries
+ProductionEfciencyinIndianAgriculture:AnAssessment
+of
+thePostGreenEvolutionYears
+
+SubhashC.Ray
+
+UniversityofConnecticut
+
+ArpitaGhose
+
+JadavpurUniversity
+
+WorkingPaper2010-26
+
+October2010
+341ManseldRoad,Unit1063
+
+Storrs,CT06269Œ1063
+
+Phone:(860)486Œ3022
+
+Fax:(860)486Œ4463
+
+http://www.econ.uconn.edu/
+
+ThisworkingpaperisindexedonRePEc,http://repec.org/
+Abstract
+
+InthispaperweusethenonparametricapproachofDataEnvel
+opmentAnal-
+ysis(DEA)toobtainPareto-Koopmansmeasuresoftechnical
+efciencyofindi-
+vidualstatesinIndiaovertheyears1970-71through2000-0
+1inamulti-output,
+multi-inputmodelofagriculturalproduction.ThePareto-
+Koopmansmeasureis
+acompletemeasureofefciencythatreectsallunrealized
+potentialforincreas-
+ing
+any
+outputanddecreasing
+any
+inputthatthermhasfailedtoexploit.In
+ourempiricalanalysis,wedisaggregateoverallefciency
+intotwodistinctcom-
+ponentsrepresentingoutputandinputefcienciesandiden
+tifythecontributions
+ofindividualoutputsandinputstothemeasuredlevelofove
+rallefciency.Be-
+causeintroductionofmoderninputshasbeenamajorcompone
+ntoftheprocess
+ofmodernizationofIndianagriculture,weexaminetowhate
+xtentdifferentstates
+succeededinutilizingthemoderninputscomparedtothetra
+ditionalinputs.Fi-
+nally,weuseregressionanalysistoexplainvariationsine
+fciencyacrossstates
+intermsofdifferencesinvariousinfra-structural,insti
+tutional,anddemographic
+factors.
+JournalofEconomicLiteratureClassication:
+Q16,C61,O33
+Keywords:
+DataEnvelopmentAnalysis;Pareto-KoopmansEfciency;Mo
+d-
+ernandtraditionalinputs.
+PRODUCTION EFFICIENCY IN
+ INDIAN AGRICULTURE:  
+AN ASSESSMENT OF THE POST GREEN REVOLUTION YEARS 
+   
+1. Introduction  Two successive years of major crop failure in
+ the years 1965-66 and 1966-67 resulted in severe 
+food shortage all over the country and added urgency to India™s new agricultural development 
+strategy. Popularly known as the Green Revolution, the new agricultural policy ushered in an era of modernization in the country™s traditiona
+l agriculture that had changed little from the 
+Colonial days over the first two decades sin
+ce Independence from British rule in 1947. The 
+main pillars of the Green Revolution were intr
+oduction of high yielding varieties (HYV) of wheat and rice, widespread use of chemical fer
+tilizers, introduction of agricultural machinery 
+(like tractors and pump sets), extending irriga
+tion to a greater area under cultivation thereby 
+allowing multiple cropping, and creation of proper 
+institutions for agricultural credit. The 
+depth of modernization of the production tec
+hnology following the Green Revolution can be judged by the increasing role of non-traditional inputs (like power, chemical fertilizers, and 
+farm machinery) in Indian agriculture. For instan
+ce, use of chemical fertilizers increased from 
+2.18 million tonnes in 1970-71 to 16.7 million to
+nnes in 2000-01. The number of (wheel and 
+crawler) tractors increased 
+from 0.1 million in 1970 to 1.94 millions in 2000. Total power 
+availability on the farm increased 
+from 0.29 kilowatt/hectare in 1971-72 to 1.23 
+kilowatt/hectare in 2001-02. Area under mu
+ltiple cropping increased from 25.52 million 
+hectares in 1970-71 to 43.97 million hectares in
+ 2001-02. There was a concomitant increase in 
+productivity. The index of yield per acre (base: triennium ending 1981-82 = 100) increased 
+from 93.2 in 1970-71 to 152.8 in 2000-01 for f
+oodgrains. Corresponding change for other crops (non-foodgrain) was from 91.4 in 1970-
+71 to 133.2 in 2000-01. Success of the Green 
+Revolution is evident from the fact that although deprivation and malnutrition remains an 
+endemic problem in rural areas, India has achie
+ved self-sufficiency in food and is no longer dependent on imports or outright aid from donor c
+ountries to feed its population. In a parallel manner, development of the non-food segment of the 
+agricultural sector helps to foster growth of textiles, food processing, and other agro-based manufacturing. Over
+all, the extent of  2transformation of Indian agriculture over th
+e first three decades following the Green 
+Revolution is genuinely impressive. One cannot, however, ignore some disturbing signs that 
+the engine of growth driving Indian agriculture is losing its steam. The index of food grains 
+production in 2002-03 fell by 18.6% from the level 
+reached in the previous year. This was preceded by a 6.66% drop in 2000-01 and followed by a 7.04% drop in 2004-05.  
+Every revolution eventually loses momentum
+ and the system waits for another major 
+breakthrough to sustain the growth process. This may, indeed, be the reality for Indian 
+agriculture at this point in time. It is, nevert
+heless, important to investigate whether greater 
+productivity is achievable within the limits of the prevalent 
+technology through elimination of 
+technical inefficiencies.  
+A firm is said to be weakly effici
+ent if it is not possible to increase 
+all of its outputs without increasing any input or to reduce all of its inputs without reducing any output. Such weak efficiency does not preclude potential for increasing some outputs or reducing some inputs 
+(although not all). Obviously weak efficiency does not ensure Pareto efficiency. Although useful for a summary evaluation of performan
+ce, the measured level of weak efficiency 
+(whether input- or output-oriented) fails to
+ provide a proper benchmark for improvement. In 
+order to become fully efficient a firm has to
+ eliminate underproduction of every output and at 
+the same time avoid under utiliza
+tion of every input. Apart from providing a target input-output bundle that the firm should try to attain, Pareto-Koopmans analysis provides input- and output-specific measures of efficiency.  
+There are numerous studies in the existing literature that
+ measure efficiency in I
+ndian agriculture in the recent period. Kalirajan (1981) estimated a profit 
+function using data on HYV IR 20 rice production in  
+the rabi (winter) season for the year 1977-78, from a progr
+essive village in Coimbatore district in the 
+Indian state of Tamil Nadu and, following Lau an
+d Yotopolus(1971), compared the relative efficiency 
+of small and large farms. Kumbhakar and Bhattach
+arya (1992) estimated a generalized profit function 
+incorporating price distortions resulting from im
+perfect market conditions, socio-political and 
+institutional constraints alongside technical and allocative inefficiencies using farm level data collected 
+by Agro-Economic Research Centre (an organizatio
+n for agricultural research under the Ministry of 
+Agriculture, Government of India) from the three regi
+ons of the Indian State of West Bengal, for the 
+year 1980-85. Bhattacharya et al (1996) used farm 
+level data for 105 jute growers from West Bengal to 
+estimate a generalized indirect production func
+tion. Tadesse and Krishnamoorthy (1997) used a 
+stochastic frontier production function and estimated 
+technical efficiency across seven distinct agro-
+ 3climatic zone and farm si
+ze groups of paddy farms of Southern Indian State of Tamil Nadu for the year 
+1992-93. Sengupta (2000) used 1989-90 
+farm level cost of cultivation data collected by Ministry of 
+Agriculture, Government of India,  to obtain alte
+rnative measures of efficiency using a non-frontier 
+approach.  Shanmugam (2002) estimated technical effi
+ciency of rice production in different regions of 
+Karnataka, India from 1991-92 to 1994-95, employi
+ng the stochastic frontier approach. Mythili and 
+Shanmugam  (2000),
+ on the other hand, employed stochastic 
+frontier methodology using panel data for 
+the year 1990-91, 1991-92 and 1992-93 to estimate tec
+hnical efficiency for the six agro-climatic zones 
+in the state Tamil Nadu, India. 
+
+In this paper we use the nonparametric approach 
+of Data Envelopment Analysis (DEA) to obtain 
+Pareto-Koopmans measures of technica
+l efficiency of individual states in India over the years 1970-71 
+through 2000-01 in a multi-output, multi-input model of
+ agricultural production. Our paper extends the 
+extant literature on measurement of efficiency in I
+ndian agriculture in several ways. First, although 
+there are some applications in other areas
+1, to the best of our knowledge, this is the first study 
+measuring Pareto-Koopmans efficiency in agricultur
+al production. Pareto-Koopmans efficiency is a 
+complete measure in the sense that it reflects 
+unrealized potential for increasing any output and 
+decreasing any input that the firm has failed to expl
+oit. In our empirical analysis, we disaggregate the 
+overall efficiency measure into two distinct comp
+onents representing output and input efficiencies. 
+Further, we are able to identify the contributions of
+ individual outputs and inputs to the measured level 
+
+of overall efficiency. Second, unlike the previous studies cited above, we examine the entire 
+
+agricultural sector of the country rather than a sa
+mple of individual firms from a specific region. 
+Moreover, we utilize a panel data set covering th
+ree decades following the Green Revolution. This 
+enables us to track how different regions of the 
+country have performed ove
+r this period. Because introduction of modern inputs has been a major com
+ponent of the process of modernization of Indian 
+agriculture, we examine to what extent states succeeded in utilizing the modern inputs compared to the 
+
+traditional inputs. Finally, we use regression analysis 
+to explain variations in efficiency across states in 
+terms of difference in various infra-structura
+l, institutional, and demographic factors. 
+Specifically, we address the following questions:   How do measured levels of technical efficiency as well as individual components vary across 
+
+the different geographical regions (and across states within these regions)? 
+ Are there differences in efficiency in the utilization of traditional and non- traditional inputs?  
+ How do input and output-oriented efficiencies and their individual components compare across 
+
+years within the sample period?  
+                                                 1 Ray and Jeon (2008) measured the Pareto-Koopm
+ans efficiency of America™s top-rated MBA 
+programs.
+  4 What are the possible determinants of inter-state variation in efficiencies? 
+The rest of the paper is organized as follows. 
+Section 2 provides an overview of the nonparametric 
+methodology. Section 3 describes the data and repor
+ts the empirical findings from the efficiency 
+analysis. A statistical analysis of the factors explaining the observed variation in technical 
+efficiency is presented in section 4. The main c
+onclusions and policy implications are summarized 
+in section 5.  
+2. The Nonparametric Methodology 
+2.1 The Technology and Technical Efficiency 
+Consider an industry producing bundles of 
+m outputs 
+y from bundles of 
+n inputs 
+x. The  production technology is defined by
+ the production possibility set  
+T ={(x, y): y 
+  can be produced from 
+x  },                 
+(1)    
+mRnRAn input-output bundle 
+(x0, y0) is feasible if (x0, y0) T.  The bundle 
+(x0, y0) is weakly efficient in its 
+input-orientation
+ if it is not possible to reduce all inputs 
+simultaneously without reducing any output. That is,  
+                 
+ and     (2a) 
+Tyx
+),(
+00
+.),(1
+00
+Tyx
+
+
+Similarly, 
+(x0, y0) is weakly efficient in its output-orientation
+ if 
+                     
+and    (2b) 
+Tyx
+),(
+00
+.),(1
+00
+Tyx
+
+That is all outputs cannot be increased simultaneously without increasing any input.  
+Note that input-oriented weak efficiency does no
+t preclude reduction in one or more (though not all) 
+inputs. Similarly, output-oriented weak efficiency is compatible with increase in one or more 
+
+individual outputs. Thus, weak efficiency does not imply Pareto efficiency. Both input- and output-
+
+oriented weak efficiencies are essentially 
+radial in nature because one considers radial contraction of 
+the input bundle or a radial expansion of the output bundle.  
+By contrast, 
+(x0, y0) is strongly input-efficient only if a reduction in 
+any component of the 
+x0 input 
+bundle would render the output bundle 
+y0 infeasible. That is                             
+ and    (3a) 
+Tyx
+),(
+00
+.),(
+00Tyxxx
+
+In an analogous manner, 
+(x0, y0) is strongly input-efficient only if 
+                             
+ and    (3b) 
+Tyx
+),(
+00
+.),(
+00
+Tyxyy
+
+Finally,
+ is Pareto-Koopmans efficient if both of the following conditions 
+simultaneously hold 
+Tyx
+),(
+00
+               (i) 
+                 (4a)               and  
+;),(
+00Tyxxx
+
+               (ii) 
+                (4b) 
+.),(
+00Tyxyy
+
+ 5Thus, strong input- and output-efficiency are both necessary and are together sufficient for Pareto-
+Koopmans efficiency. 
+
+   
+2.2 Data Envelopment Analysis
+  In order to calibrate any of the various technical efficiency measures considered above, we need to 
+
+construct the production possibility set empirically 
+from observed data. In pa
+rametric models, one 
+starts with an explicit specification of the produc
+tion technology in the form of a production function 
+(in the single output case) or a transformation function (in the multiple output case) and uses 
+appropriate statistical methods to obtain estimates 
+of the parameters of the specified function from 
+sample data. By contrast, in the nonparametric a
+pproach of Data Envelopment Analysis (DEA) one 
+makes a number of fairly general assumptions a
+bout the underlying technology but specifies no 
+explicit functional form. Introduced by Charnes,
+ Cooper, and Rhodes (CCR) (1978) and further 
+generalized by Banker, Charnes, and Cooper (
+BCC) (1984), DEA allows one to construct the 
+
+production possibility set empirically from observe
+d data. Specifically, one makes the following 
+assumptions: 
+(i) Each input-output bundle 
+(xj, yj) (j = 1,2,–,N)
+ actually observed in the sample is feasible. 
+(ii) The production possibility set 
+T is convex. (iii) Inputs are strongly disposable. That is, if 
+Ty
+ and x1 x0, then 
+Ty
+. x),(
+00
+x),(
+01
+(iv) Outputs are freely disposable. That is, if 
+Ty
+ and y1  y0, then 
+Ty
+. x),(
+00
+x),(
+10
+(v) If constant returns to scale hold, if Ty
+, then Tky
+for all k  0. x),(
+00
+kx),(
+00
+ It can be easily verified that the free dispo
+sal convex hull of the observed input-output data 
+           S
+V =         (5a) 
+
+
+NNN
+jj
+jjjjNj
+yyxxyx
+111
+),...,2,1(0;1;
+;:),(
+
+is the smallest set satisfying assumptions (i)-(i
+v). The corresponding production possibility set 
+satisfying the CRS assumption is 
+            S
+C =                      (5b) 
+
+NNjjjjjNj
+yyxxyx
+11),....,2,1(;0;
+;:),(
+
+  
+   6Radial Measures of Technical Efficiency
+ Following Banker, Charnes, and Cooper (1984), the i
+nput-oriented radial technical efficiency of a 
+firm with an observed input-output bundle 
+(x0, y0) under the variable returns to scale assumption is 
+obtained as:                     
+ min),(
+00
+yx
+x              s.t. 
+ Njjyy
+10;                                       (6) 
+Njjxx
+10;
+                      
+ Nj1;1
+                      
+),...,2,1(;0
+Nj
+j
+ Similarly, the output-oriented radial techni
+cal efficiency under VRS is measured as 
+           
+*100
+),(
+yx
+y      where * = max 
+                     s.t. 
+ Njjyy
+10;
+                                       (7) 
+Njjxx
+10;                      
+ Nj1;1
+                     
+),...,2,1(;0
+Nj
+j
+ When CRS is assumed, the restriction 
+is deleted from (6) or (7
+). It is obvious that neither the input- nor the output-oriented radial measure of tech
+nical efficiency is affected 
+by the presence (or magnitude) of 
+slacks in any of the individual input or output constraints in (6) or (7).
+ Nj11Non-Radial Measures of Technical Efficiency 
+The problem of slacks in any optimal soluti
+on of a radial DEA model arises because 
+we seek to expand all outputs or contract all inputs by the same proportion. In non-radial 
+models, one allows the individual outputs to increase or the inputs to decrease at different  7rates. Färe and Lovell (1978) introduced the following input-oriented, 
+non-radial measure 
+of technical efficiency called the Russell measure:    
+  iinxyx
+100
+min),(
+ s.t.    (r = 1,2,–,m); jrrjj
+yy
+;0          (i= 1, 2,–, n);  (8)  
+jiiijj
+xx
+;0
+        jj;1
+;0
+j (j =1, 2,–, N).
+ When input slacks do exist at the optimal soluti
+on of a radial DEA model, the non-radial Russell 
+measure in (8) falls below the conventional measure
+ obtained from an input-oriented BCC model (6). 
+Because the radial projection is always a feasible solution for (8), 
+.xx
+ That is, the non-radial Russell measure of technical efficiency never exceeds the corresponding radial measure. 
+The analogous output-oriented non-radial VRS measure of technical efficiency is:
+    yyyxRM
+1),(
+00
+,       
+ where  
+rrmy1max s.t.    (r = 1,2,–,m); jrrrjj
+yy
+;0
+          (I = 1, 2,–, n);  (9)    
+jiijj
+xx
+;0       
+jj;1
+;0
+j (j =1, 2,–, N). 
+ 
+ 
+While no input slacks can exist at th
+e optimal solution of (8), presence 
+of any output slack is not ruled 
+out. Similarly, input slacks may remain at the optimal solution of (9). Thus, non-radial technical 
+efficiency (whether input-oriented or output-oriented) by itself does not ensure over all Pareto 
+efficiency. 
+  8  
+  A non-radial Pareto-Koopmans measure of techni
+cal efficiency of the input-output pair 
+(x0, y0) can be computed as: 
+ rrmiinyx
+1100
+min),(
+ s.t.  Njrrrjj
+yy
+10;
+);,...,2,1(
+mr
+   Njiiijj
+xx
+10;
+);,...,2,1(
+ni
+  (10)     
+Njjj1;0;1
+
+).,...,2,1(
+Nj
+ Note that the efficient input-output projection 
+(x*, y*) satisfies 
+  and . 
+Njjjxxx
+10**
+Njjjyyy
+10**Thus, (x0, y0) is Pareto-Koopmans efficient, if and only if 
+ for each output 
+r and  for 
+each input i, implying 
+  1*r1*i.1),(
+00
+yx
+Pastor, Ruiz, and Sirvent (PRS) (1999) and Tone (2001)
+ introduced essentially the same measure of overall 
+efficiency and called it a slack based measure (SBM). Th
+e objective function in (10) is non-linear. Both PRS 
+and Tone transformed this linear 
+fractional functional programming problem into an LP problem by 
+normalizing the denominator to unity. Alternatively, 
+as shown in Ray (2004), one may re
+place the objective 
+function by a linear approximation 
+.0000
+1111
+(,)(,)(,)
+1iri
+nmnm
+irir
+xyff
+r
+
+
+.          (11)
+ using for all 
+i and for all 
+r as the point of approximation. 
+We may, therefore, 
+replace the objective function in (10) by (11) and solve (10) iteratively using the optimal solution 
+
+from each iteration as the point of approximation fo
+r the next iteration until convergence. Once we obtain the optimal from this problem, we evaluate 
+10i10r),(
+**
+
+ 9 rrmiinyx
+*1*100
+),(
+   (12) 
+ as a measure of  the Pareto-Koopmans efficiency of 
+(x0, y0).   We can visualize the Pareto-Koopmans global effici
+ency measure as the product of two factors. The 
+first is the input-oriented component  
+                      
+iinx
+1       (13a) 
+and the second is an output-oriented component 
+                     
+rrmy11.                       (13b) 
+Thus,                         
+         00(,)..
+(14)
+xyxy
+                                        
+                  
+  Apart from an overall measure, (12) also provide
+s information about the potential for reducing 
+individual inputs 
+and increasing individual outputs  Also a decomposition of (12) into the 
+input- and output-oriented components can be obtained from (12). 
+)(
+*i).(
+*r 3. The Empirical Analysis 
+ 3.1 The Data This study visualizes a two-output and seven-input production technology for Indian agriculture.  
+  The two outputs are: (a) food grains and (b) non food grains. The inputs included are: (i) Land, (ii) Fertilizers; (iii) Irrigated Area; (i
+v) Pump sets ; (v)Tra
+ctors(vi) Electricity; 
+and (vii) Labor. Further, the actual amount
+ of rainfall is also treated as a non-discretionary input.  Sixteen major Indian States has been considered and are classified 
+into four regions:  (A) Eastern Region : Assam (AS), Bihar (BI),
+ Orissa (OR), and West Bengal (WB); 
+(B) Northern Region: Haryana (HA), Himachal 
+Pradesh (HP),Jammu and Kashmir (JK),, 
+Punjab (PU) and Uttar Pradesh (UP); 
+ 10(C) Southern Region: Andhra Pradesh (AP), Karnataka (KA), Kerala (KE), and            Tamil Nadu (TN);  
+(D) Western  Region
+ : Gujarat (GU), Madhya Pradesh (MP), Maharashtra (MH), and          Rajasthan (RA). Data used in this study have been collected from the different issues of 
+Statistical Abstracts 
+published by Central Statistical Organization (CSO) of India, 
+www.indianstat.com
+, Center for Monitoring the Indian Economy (CMIE), 
+Agricultural Statistics at a Glance, and Agriculture 
+in Brief
+ published by the Central Statistical Organization, different issues of Census of India, National Sample Survey (NSS) Reports, and Financial Accounts, Government of India, 
+Publication.  3.2 The Empirical Findings   Estimated state-wise average levels of overa
+ll productive efficiency and its two principal components, input and output e
+fficiencies, are presented in Ta
+ble 1. More detailed breakup of the input and output efficiencies are reported in Tables 2.1-2.3. Overall productive efficiency and its components 
+The overall productive efficiency and its compone
+nts are presented in Table1. At the All-India level the level of output technical efficiency ((OTE), averaged over all years and all states, was 
+0.8549 implying that on average output was about 85.5%
+ of the Pareto optimal level. Similarly, 
+the level of input-oriented technical efficiency was 0.8603. That is, about 14% reduction in the average level of inputs would be possible. The overall level of Pareto Koopmans (PK) 
+efficiency was 75.45%. Among the individual states
+, Uttar Pradesh (UP) showed the highest 
+level of Pareto-Koopmans efficiency; West Be
+ngal (WB) was a close second. Both states 
+achieved overall efficiency above 96%.  Three other states, Tamil Nadu (TN), Punjab (PU), 
+and Assam (AS) were more than 90% efficient.
+  At the other extreme, Gujarat (GU), and 
+Jammu & Kashmir (JK) had efficiency below 
+50%; Kerala (KE) and Rajasthan (RA) were slightly above 50%. At the regional level, the Eastern region performed the best and the 
+Western Region did the worst. In view of this, a nearly 90% overall efficiency of Maharashtra (MH), a Western state was quite remarkable. 
+
+  11Overall input efficiency varied from a high 
+of 0.975 for West-Bengal (W
+B) to a low of 0.693 for the state Kerala (KE). The all-India average was 0.858.   At the regional level, the overall input efficiency is highest in the Eastern region (0.918), follo
+wed by the Northern region (0.886). By contrast, Western region (0.829) and lowest in the Southern region (0.803) 
+performed much worse. At the st
+ate level, input efficiency was the highest in Uttar Pradesh 
+(UP) and West Bengal (WB) exceeding 97% in both cases. Punjab (PU), Assam (AS)Tamil 
+Nadu (TN), and Maharashtra (MH)  all had input efficiency above 90%. Surprisingly, 
+however, so did two other states Œ Bihar (BI) and Madhya Pradesh (M) Œ even though their overall Pareto efficiency scores were quite low.  Average output technical efficiency (OTE) was slightly below the input technical efficiency (ITE). This comparison hides the f
+act that for most states, output 
+efficiency was higher than the input efficiency. In Madhya Pradesh (MP) output efficiency was only 75.6% whereas input efficiency was 91.5%. Similarly, 
+in Rajasthan (RA) output efficiency was 62.8% while input 
+efficiency was 81.2% In Bihar (BI) and Jammu & Kashmir (JK) output efficiency was lower 
+than input efficiency by over 8 percentage points. Despite these individual cases most Indian 
+states performed better in resp
+ect of realizing the potential 
+outputs than in conserving the surplus inputs. 
+Input Efficiency  Tables 2.1 and 2.2 provide more de
+tails on the on the components 
+of input technical efficiency. As noted at the beginning, introduction of modern
+ inputs was an integral part of the new agricultural strategy in the Green 
+Revolution era. In light of this, we divided the agricultural inputs into two broad categories: modern and traditional. Include
+d in the modern category are: (i) fertilizers, (ii) pumps, (iii) tractors, and (iv)
+ (electric) power. The other inputs: (a) labor, (b) irrigation, and (c) land are treated as traditional i
+nputs. Use of chemical 
+fertilizers, pumps for 
+deep well irrigation, tractors and tillers, and electric power are the hallmarks of the new 
+technology. Of course, there is some measure of 
+overlap in the sense that irrigation in the traditional category relies on deep wells as the sour
+ce and, hence, to a considerable extent, is 
+closely related to pumps (and power). As can be
+ seen from Tables 2.1 and 2.2, while utilization 
+of the traditional inputs was reasonably high, the modern inputs were considerably under-
+
+utilized. At the All-India level, the average rate of under-utilization of modern inputs was 
+ 1220.7% Given that these non-traditional inputs account for a large part of the paid out costs in 
+farming, this is quite disturbing. 
+
+For any individual input, the input-specific technical efficiency of any particular state (reported in Table 2.1) shows what proportion of the actual quantity of that input used would be required if the state operated at 
+the selected Pareto-Koopmans effici
+ent point on the frontier. Only 5 states, Bihar (BI), West Bengal (WB), Punjab 
+(PU), Uttar Pradesh (UP), and Tamil Nadu (TN), 
+had average input efficiency over 90% for the modern inputs. The All-India average was even lower than 80% implying that over a fifth of the actual input bundle was being wasted. At the 
+
+individual input level, efficiency was lowest for power (73.76%). For fertilizer, it was still 
+below 80%.  The strikingly low numbers for Gujarat (GU) may have been due to some data 
+problem (although data errors over 
+all inputs and all years appear to be highly unlikely). But even when we exclude Gujarat, the average improved only marginally. In the case of 
+
+fertilizers, Jammu & Kashmir (JK), Kerala (KE), Gujarat (GU) had efficiency below 45% 
+
+while Karnataka (KA) was at the 53% level. For pumps, Gujarat 
+had efficiency below 40% and 
+Kerala (KE) barely exceeded 50%. But most ot
+her states were quite efficient. For tractors, 
+Jammu & Kashmir (JK), Karnatak
+a (KA), Kerala (KE), and Gujarat (GU) performed poorly. 
+Others were fairly to highly efficient. In 
+the case of power, Jammu & Kashmir (JK), Karnataka 
+(KA), Kerala (KE), and Gujarat (GU) had very low efficiency. Orissa (OR) and Andhra Pradesh (AP) also had over 35% under-utilization of the power input. Region-wise, the Southern states had efficiency below 65% for fertilizer and power. Tamil Nadu (TN) was an 
+exception. Western states had efficiency barely above 
+65% in case of power. Low efficiency 
+rating of the Western region is ma
+inly driven by Gujarat (GU).  Low input specific efficiencies in respect of th
+e modern inputs contrast sharply with traditional 
+inputs where except for Bihar (BI) in respect of labor and Jammu & Kashmir (JK) in respect of 
+irrigation, input efficiencies are uniformly high. It would be
+ worthwhile to examine if 
+government subsidization of fertilizer and power
+ inputs account for avoidable waste in these inputs found in Table 2.1. Output Efficiency 
+Table 2.3 shows the decomposition of the overall 
+output efficiency into separate components 
+for food grains and other ((non-food grain) crops. For food grains, output efficiency is above 90% for all states other than Kerala (KE), and Gujarat (GU). By comparison efficiency in the 
+ 13production of other crops is much lower. Ja
+mmu & Kashmir (JK) (25.27%), Gujarat (GU) 
+(56.89%). Andhra Pradesh (AP) (62.48%) and Bihar (BI) (65.73%) are the most inefficient 
+states in this respect. 
+While a high average level of output efficiency in respect of food grai
+ns is good news, it also carries an implicit warning that there is not mu
+ch room for increasing food supply within the 
+present technological frontier. In view of the increasing level of commercialization of 
+agriculture in India, the poor performance observed in respec
+t of the other crops is somewhat 
+puzzling. It is possible that because most of 
+these products (like cotton and jute fiber) are produced as industrial raw material
+s, demand fluctuation in the relevant industries may restrict 
+production well below the full potential. This, of course, is only a speculation that can be 
+verified only with crop specific data. That is beyond the scope of the present study.   Efficiency over time 
+Another question that we addre
+ss in this study is whether there is any clear pattern in how 
+input or output specific efficiency levels have changed over time. The findings in this respect 
+are reported in Table 3. To eliminate the random noi
+se often found in year-to-year variations in 
+efficiency, we focus, instead, on average levels of
+ efficiency over 5-year periods. In the first 
+half of the 1970s, both input and output efficiencies were quite high. Further. The rate of utilization of modern inputs exceeded 91%. On
+ the output side, both food grains and other crops showed high efficiency. One may argue that the Green Revol
+ution got off to a good start. During the latter half of the 70s, even though efficiency with respect to modern inputs on the 
+one hand and non-food crop output on the other showed a slight decline, overall input and output efficiencies  both remained above 90%. The 
+next decade saw a drastic drop in efficiency with respect to modern inputs as well as non
+-food output. Both of them were between 72% and 74%. Particularly low were the utilization rates of fertilizer and power inputs. During the first half of the 1990s, there was some improvement
+ in respect of mode
+rn inputs overall but efficiency in the utilization of power remain
+ed below 70%. Over the last half of the 1990s, 
+things worsened. Quite low efficiency is found for tractors and power. For the first time, output 
+efficiency fell below 90% for food grains. All in all, there is a decline in input and output efficiencies over time. This is
+ particularly noticeable for non-food crops and for some modern 
+inputs (especially, fertilizers and power).   14 4. Explaining the variation Pareto- Koopmans Efficiency   
+ Modernization of traditional agriculture involves numerous structural
+ changes at different levels. The most important of them is repla
+cement of  age old farming parctices by a more 
+advanced and knowledge based technology. As noted by Dantwala (1967, 1970), there are 
+other concomittant changes like commericialization of a predominantly subsistence agriculture 
+
+through integration of an isolated village based economy into a national and eventual global 
+economy and breaking up rural monopolies in la
+nd though a more eaglatarian distribution.    
+In the post-Green Revolution era, the newly introduced high yielding variety seeds and chemicial fertilizers have greatly enhanced th
+e importance of assured supply of water through deep well and canal irrigation. Although government and private irrigarion have 
+complimentary roles to play, commodification of
+ water as a purchased input supplied from 
+private sources has played a major role
+ (as in the case of  winter rice, 
+Boro, in West Bengal). 
+Other kinds of physical infrastructures (like road and rail communication facilities, telephones, 
+network of power lines in rural areas, etc) also enhance productive efficiency. 
+Government expenditure on agri
+cultural education, research, a
+nd extension contributes to human capital formation and fac
+ilitates transtion from traditional to modern technology. Eeven 
+the spread of basic education (raising the rural literacy rate) 
+contributes towards increase in human capital. Because of the growing importa
+nce of purcahsed inputs, easy and timely 
+availability of agriocultural credit is also conducive to increasing efficiency.  
+It is well known that trade liber
+alization provides many benefits
+ such as increase in market 
+size, knowledge of demand characteristics in foreign markets, information about new 
+
+technologies, process and products and cost reductions and quality improvements. Also the 
+gains from trade can arise because of (a) moveme
+nts to existing production possibility frontiers 
+(due to technical efficiency), (b) movement along the existing frontiers because of new trading 
+opportunities and (c) upward shift of the frontier (due to learning, application of improved 
+technologies and adoption of better farming pract
+ices. As explained below, a state with a higher (weighted) share of its agricultural products in the country™s exports benefits more from 
+liberalized trade policies. 
+ 15At the individual producer level, crop diversification makes the farmer more competitive 
+allowing it to access the market for a greater 
+number of products. Further, diversification 
+lowers risk and fosters commercialization allowing the farmer to step outside the bounds of 
+what once was described as the ﬁsurvival algorithmﬂ when producing enough food crop for 
+subsistence was the highest priority. 
+Finally, land reforms and loweri
+ng the concentration of ownership is a well documented engine 
+of productivity and efficiency growth in agriculture. There are several individual country studies that explore the possible connection of land distribution and productivity. Besley and Burgess (2000) finds that land reforms had their 
+greatest effect in those Indian states with 
+greatest initial land inequality. Jeon and Kim (2000) documen
+t significant productivity gains from land reforms undertaken in Korea in the 
+1950s  which limited the amount of land any 
+individual can own. Banerjee and  Iyer (2005) examining the histor
+ical nature of land distribution in India find that those Indian states with higher initial land inequality had lower 
+productivity even after land reform took place. 
+Vollarth (2007) addresses the issue of land 
+distribution and international agricultural productivity by using cross country data on inequality in operational holding of agricultural land reform from Deininger and Squire 
+(1998).In an estimation of an agricultural pr
+oduction function , the Gini coefficient for land holdings is found to have a significant negative relationship with productivity. In view of the above, we specified a log-linear regression with the Pareto-Koopmans efficiency 
+(PK) as the dependent variable and (a) Gini ratio of land distribution (GINI), (b) degree of openness (OPEN), (c) government spending on agri
+cultural education and 
+research (EDUR),  
+(d) acreage under private irrigation (PI), (e) acreage under government (canal) irrigation (GI),  
+(f) availability of agricultural credit (LOAN), (g) crop diversifi
+cation index (CDI),  (h) rural literacy rate (RLR), and a physical infrastructure index (INFR)  as explanatory variables. Each state in the sample was treated as a unit of observation. 
+Data construction was carried out as follows. 
+ The Gini ratio was constructed from the Census of agriculture.   Degree of openness was constructed in the following way. Let the country export  
+R  number of agricultural goods and net export of each commodities be E
+1, E2 ––..ER .Let E be the net export of the country. Then m1 = E1/E, m2 = E2/E,..,mR = ER/E, be the share of each commodities in total net export basket. Suppose that 
+ 16there are j = 1, 2 –.. n number of
+ states in the country and sij, i = 1, 2 –.. R, j = 1, 2 –. n is the value share of crop i in total agricultural production of state j. Then the index of openness for the state j can be constructed  as                   1122
+....
+jjRj
+OPENsmsmsm
+
+R The amount of Government expenditure 
+on agricultural education and research is normalized by dividing it total ar
+ea under agricultural operation and is denoted as EDUR. 
+ Private and government irrigation is m
+easured by the proportion of irrigated  area under the two kinds of irrigation.  Agricultural credit (LOAN) is measured
+ by the total amount of credit issued by 
+rural banks and agricultural cooperatives pe
+r acre of cultivated area in the state. 
+ Crop diversification index (CDI) is the Hirshmann-Harfindahl index of 
+diversification of land allocated to different crops.  Rural Literacy Rate comes from the Census. 
+ The physical infrastructure index is taken from data constructed by Ghosh and 
+De   using Principal Component Analysis (1998). The preferred estimated model is 
+reported in the following table: 
+  OLS Regression of Pareto-Koopmans Efficiency(PK)  
+    
+ 
+ 
+Dependent 
+variable 
+ 
+     LPK Explanatory 
+
+variables coefficients 
+t-ratio 
+p-value 
+ R2 LGINI -0.96394 -1.7814 0.1127   
+0.4788 LOPEN 1.0961 2.1815 0.0607 LEDUR 0.25407 2.0102 .0793 LRLR 1.3694 1.4896 0.1747 LPI 6.5509 1.2804 0.2363 LGI  2.8592 1.1827 0.2709 LCDI 
+0.046948 
+1.3226 0.2225 CONSTANT -10.612 -1.6180 .1443    
+ 
+ 
+    Here LPK, LGINI, LOPEN, LEDUR, LRLR, LPI, LGI, LCDI denote the log of the respective variables. Two explanatory variables, de
+gree of openness and government expenditure on 
+agricultural research and extension, have t-values than 2.0 and are significant at 6 % and 7 % level of significance respectiv
+ely. Both of them have positive impact on efficiency. GINI
+  17Coefficient is significant at 11% level of significance and has the anticipated negative sign. A higher concentration of land ownership lowers 
+efficiency. Rural literacy rate has a positive 
+coefficient that is significant at the 17.5% level.. The other explanatory variables are significant between 22% to 27% levels of significance. Private irrigati
+on has a greater impact 
+on efficiency than government irrigation. All of th
+e coefficients have ‚t™ ratios well in excess of unity. The R2 of the model is a moderate 47.8%.  
+We may now summarize the main findi
+ngs from the empirical analysis: 
+ There is strong evidence of an overall decline in both input- and output efficiencies over time. It is particularly true of the modern inputs and non food crops. Thus, 
+although the use of fertilizers, agricultural machinery, and power has increased 
+phenomenally over years, rates of produc
+tive utilization of the inputs has fallen. Because use of these modern inputs is an
+ integral part of the modern technology, 
+potential benefits of the technological change remain unr
+ealized to a considerable extent. 
+ There is little room for incr
+easing food production simply through improved efficiency. 
+Relatively high rates of utilization of traditional inputs (especially land and irrigation) suggest that these are the inputs that could limit increas
+ing output without another technological breakthrough.  There is considerable inter-regional variation in the levels of input- and output-specific efficiencies. This is particularly true for modern inputs and non-food output. The 
+Eastern Region performs the best in terms of both input and output efficiency. Further, 
+
+the average input and output efficiencies are approximately equal in this region. This is 
+true of the Northern Region also, which al
+so shows high average efficiency. The other 
+
+two regions, Western states have a higher i
+nput efficiency while the Southern states 
+have a higher average level of output efficiency.  Although fertilizers and power are the two inputs that largel
+y account for the low levels of efficiency (i.e., utilization) of modern inputs, there is
+ considerable variation across regions (and states within regions). For the Eastern Region, efficiency is highest for tractors and for the other three modern inputs 
+it is about equal. In the Northern Region, efficiency is highest for pumps and about 
+equal for the other three inputs. In the 
+ 18Southern Region, efficiency is lower for fertilizers and power. Finally, in the Western 
+Region, efficiency is highest for fertilizers and lowest for power. Based on the regression analysis reported above, the following policy recommendations for 
+improving overall technical efficiency can be made: 
+ The government should increase expend
+iture on agricultural education and research. 
+ Trade liberalization policy should be aggressively pursued.  The government should carry out land reform 
+in order to lower the inequality in land ownership.  Policies to raise the literacy rate among the rura
+l population will increase 
+efficiency. 
+ Private irrigation schemes should be supported and encouraged through appropriate incentives. Public irrigation projects shoul
+d be viewed as complementary to rather 
+than substitutes for private irrigation. 
+ Crop diversification should be encouraged through agricultural extension programs 
+as well as easier access to credit. 
+It is advisable to recognize, at this point, some limitations of 
+the data used and to acknowledge that the results should be inte
+rpreted with some caution. In the first place, we are using highly 
+aggregated data. Not only are the 
+input-output data aggregates over all farms in a state, they are 
+also aggregated over crops and, hence, across di
+fferent varieties of any crop (like traditional 
+and high yielding varieties of rice or wheat). Similarly, inputs 
+(like fertilizers) are also aggregated. Despite this limitation, our 2-output 
+multi-input framework is more disaggregated 
+than what is found in the relevant literature.  Another important point to rememb
+er is that state level efficiency measures computed for each 
+year are based on the input-output data for that particular year only. In the jargon of Data Envelopment Analysis, these ar
+e efficiencies relative to a contemporaneous frontier. No attempt is made to measure efficiency agains
+t ﬁcross-period frontiersﬂ. This circumvents the 
+question of technical progress. Finally, although we have efficiency measures by state and 
+year, similar year- and state-wise information a
+bout the explanatory variables is not available. This ruled out a (2-way fixed effects) panel regression. We had to settle, instead, for a 
+
+regression using the mean of the de
+pendent and independent variables.  19In spite of these limitations, evidence of the 
+downward movement in overall efficiency as well 
+as in output and input efficiencies is quite convincing.  5. Conclusion  It is well known from the general theory of diffusion of both ideas and products that there are four distinct stages in the process. The new idea is first embraced by innovators, the small 
+percentage of the relevant population who dare to try some
+thing new. Then come the 
+early adopters, the more careful segment who prefer 
+to wait-and-see first. Next are the 
+late adopters, who are mainly driven by the exam
+ple of others. Finally enter the laggards. In the case of the Green Revolution, it is reasonable to argue that the more productive farmers with greater 
+human capital came first. Over time, the less 
+productive ones followed. This is a reasonable explanation of the decline in efficiency (especially for modern inputs and cash crops) over 
+time. In any event, it seems to be the case that Indian agriculture is likely to remain stagnant 
+
+unless a new breakthrough in the technology takes place. 
+     
+  20  
+ 
+                        Table 1: Output-, Input-, and overall Efficiencies: 
+                                                (by Region and State)
+  Region/State OTE ITE PK Eastern 
+0.9272 
+0.9178 
+0.8589 
+      AS 0.9864 
+0.9295 
+0.9197 
+BI 0.8287 
+0.9140 
+0.7654 
+OR 0.8974 
+0.8574 
+0.7827 
+WB 0.9963 
+0.9702 
+0.9677 
+      Northern 
+0.8807 
+0.8858 
+0.8030 
+      HA 0.9198 
+0.8898 
+0.8237 
+HP 0.8884 
+0.8922 
+0.8102 
+JK 0.6263 
+0.7086 
+0.4682 
+PU 0.9706 
+0.9503 
+0.9264 
+UP 0.9985 
+0.9880 
+0.9866 
+      Southern 
+0.8565 
+0.8026 
+0.7047 
+      AP 0.8021 
+0.8327 
+0.6806 
+KA 0.9325 
+0.7506 
+0.7063 
+KE 0.6965 
+0.6931 
+0.5012 
+TN 0.9951 
+0.9339 
+0.9308 
+      Western 
+0.7487 
+0.8289 
+0.6393 
+      GU 0.6415 
+0.6694 
+0.4303 
+MH 0.9699 
+0.9151 
+0.8927 
+MP 0.7560 
+0.9189 
+0.7077 
+RA 0.6276 
+0.8121 
+0.5263 
+      All-India 
+0.8549 
+0.8603 
+0.7545 
+    21  
+                    
+ Table 2.1 Efficiency in the Use of Modern Inputs 
+                                         (by Region and State) 
+ 
+    Region/State fertilizer
+ pumptractorpowermodern  
+      
+Eastern 
+0.8823 
+0.8998 
+0.9523 
+0.8597 
+0.8985 
+  
+      
+AS 0.8660 
+0.9127 
+0.9210 
+0.8482 
+0.8870 
+BI 0.9001 
+0.9283 
+0.9291 
+0.9737 
+0.9328 
+OR 0.8102 
+0.8170 
+0.9845 
+0.6495 
+0.8153 
+WB 0.9527 
+0.9410 
+0.9745 
+0.9673 
+0.9589 
+  
+      
+Northern 
+0.7968 
+0.9484 
+0.7846 
+0.7943 
+0.8310 
+  
+      
+HA 0.8355 
+0.8758 
+0.7516 
+0.8565 
+0.8298 
+HP 0.8025 
+0.9552 
+0.7463 
+0.7870 
+0.8228 
+JK 0.4117 
+1.0000 
+0.5795 
+0.4105 
+0.6004 
+PU 0.9350 
+0.9632 
+0.8782 
+0.9274 
+0.9259 
+UP 0.9995 
+0.9480 
+0.9673 
+0.9899 
+0.9762 
+  
+      
+Southern 
+0.6139 
+0.7439 
+0.7709 
+0.6312 
+0.6900 
+  
+      
+AP 0.6051 
+0.8443 
+0.9973 
+0.6043 
+0.7627 
+KA 0.5300 
+0.7248 
+0.5654 
+0.5312 
+0.5879 
+KE 0.4392 
+0.5022 
+0.5377 
+0.5148 
+0.4985 
+TN 0.8811 
+0.9045 
+0.9831 
+0.8744 
+0.9108 
+  
+      
+Western 
+0.8354 
+0.7552 
+0.7499 
+0.6561 
+0.7492 
+  
+      
+GU 0.4357 
+0.3978 
+0.7447 
+0.2894 
+0.4669 
+MH 0.9203 
+0.9216 
+0.8501 
+0.8216 
+0.8784 
+MP 0.9855 
+0.9250 
+0.7935 
+0.8135 
+0.8794 
+RA 1.0000 
+0.7764 
+0.6114 
+0.7000 
+0.7720 
+All-India 
+0.7818 
+0.8434 
+0.8109 
+0.7376 
+0.7934 
+ 22  
+ 
+                         Table 2.2 Efficiency in the Use of Traditional Inputs 
+                                            (by Region and State) 
+ Region/State 
+Labor 
+Irrigationland traditional
+Eastern 
+0.9073 
+0.9376 
+0.9857 
+0.9385 
+          AS 1.0000 
+0.9728 
+0.9864 
+0.9660 
+BI 0.7106 
+0.9606 
+0.9956 
+0.8889 
+OR 0.9283 
+0.8515 
+0.9608 
+0.9135 
+WB 0.9905 
+0.9657 
+1.0000 
+0.9854 
+          Northern 
+0.9692 
+0.9266 
+0.9896 
+0.9618 
+          HA 1.0000 
+0.9430 
+0.9667 
+0.9699 
+HP 0.9638 
+1.0000 
+0.9902 
+0.9847 
+JK 0.8879 
+0.7405 
+1.0000 
+0.8761 
+PU 1.0000 
+0.9571 
+0.9910 
+0.9827 
+UP 0.9945 
+0.9925 
+1.0000 
+0.9957 
+          Southern 
+0.8993 
+0.9890 
+0.9872 
+0.9585 
+          AP 0.8650 
+0.9941 
+0.9872 
+0.9488 
+KA 0.9206 
+1.0000 
+0.9824 
+0.9677 
+KE 0.8823 
+0.9967 
+0.9792 
+0.9527 
+TN 0.9292 
+0.9649 
+1.0000 
+0.9647 
+          Western 
+0.9620 
+0.9597 
+0.8838 
+0.9351 
+          GU 0.9876 
+0.9493 
+0.8812 
+0.9394 
+MH 0.9360 
+1.0000 
+0.9563 
+0.9641 
+MP 0.9306 
+0.9917 
+0.9922 
+0.9715 
+RA 0.9937 
+0.8979 
+0.7054 
+0.8656 
+All-India 
+0.9302 
+0.9528 
+0.9643 
+0.9491 
+          23  
+                    Table 2.2 Efficiency in the Production  of Outputs 
+                                            (by Region and State) 
+
+ Region/State 
+Food 
+non-food 
+output 
+Eastern 
+0.9960 
+0.8634 
+0.9271 
+      AS 1.0000 
+0.9927 
+0.9863 
+BI 1.0000 
+0.6573 
+0.8287 
+OR 0.9914 
+0.8034 
+0.8974 
+WB 0.9925 
+1.0000 
+0.9963 
+      Northern 
+0.9927 
+0.7686 
+0.8806 
+      HA 0.9633 
+0.8763 
+0.9198 
+HP 1.0000 
+0.7768 
+0.8884 
+JK 1.0000 
+0.2527 
+0.6263 
+PU 1.0000 
+0.9412 
+0.9706 
+UP 1.0000 
+0.9959 
+0.9979 
+      Southern 
+0.8984 
+0.8147 
+0.8565 
+      AP 0.9793 
+0.6248 
+0.8021 
+KA 0.9095 
+0.9555 
+0.9325 
+KE 0.7138 
+0.6792 
+0.6965 
+TN 0.9909 
+0.9993 
+0.9951 
+      Western 
+0.9023 
+0.5952 
+0.7487 
+      GU 0.7141 
+0.5689 
+0.6415 
+MH 0.9459 
+0.9938 
+0.9699 
+MP 0.9962 
+0.5159 
+0.7560 
+RA 0.9531 
+0.3021 
+0.6276 
+All-India 
+0.9500 
+0.7598 
+0.8549 
+   24 25  
+ 
+           Table 3 Mean levels of Input-, Output-, and Overall Efficiency (by sub-periods) 
+ sub-period 71-2/75-6
+ 76-7/80-1
+81-2/85-6
+86-7/90-1
+91-2/95-6
+ 96-7/00-1
+           ITE 0.9435
+ 0.9049
+0.8208
+0.8293
+0.8554
+ 0.8069
+        modern 0.9185
+ 0.8555
+0.7212
+0.7397
+0.7833
+ 0.7423
+          fertilizer
+ 0.9153
+ 0.8576
+0.6988
+0.7138
+0.7500
+ 0.7555
+pump 0.9361
+ 0.8597
+0.7561
+0.7890
+0.8352
+ 0.8843
+tractor 0.9197
+ 0.8593
+0.7421
+0.7782
+0.8489
+ 0.7170
+power 0.9028
+ 0.8456
+0.6878
+0.6777
+0.6991
+ 0.6126
+        traditional 0.9768
+ 0.9708
+0.9536
+0.9489
+0.9515
+ 0.8931
+        labor 0.9829
+ 0.9654
+0.9192
+0.9134
+0.9348
+ 0.8656
+irrigation 0.9688
+ 0.9771
+0.9745
+0.9670
+0.9524
+ 0.8769
+land 0.9788
+ 0.9698
+0.9671
+0.9664
+0.9671
+ 0.9368
+                        OTE 0.9441
+ 0.9133
+0.8581
+0.8175
+0.8492
+ 0.7470
+               food 0.9768
+ 0.9708
+0.9536
+0.9489
+0.9515
+ 0.8931
+non-food 0.9185
+ 0.8555
+0.7212
+0.7397
+0.7833
+ 0.7423
+        PK 0.9056
+ 0.8392
+0.7195
+0.6961
+0.7495
+ 0.6159
+  26References  Banerjee, A and L. Iyer (2005): ﬁHistory, Institution and Economic 
+Performance: The Legacy of Coloni
+al Land Tenure System in India, 
+American Economic Review, 95: 1190-213.    Banker, R.D., A. Charnes, and W.W. Cooper (198
+4), ﬁSome Models for 
+Estimating Technical and Scale Ine
+fficiencies in Data Envelopment 
+Analysis,ﬂ Management Science, 30:9 (September), 1078-92. 
+Bhattacharya, A., A. Bhattacharya, and S.C. Kumbhakar (1996)ﬂGovernment Interventiond, market Imperfections, a
+nd Technical Inefficiency in a Mixed Economy: A Case Study of Indian Agricultureﬂ; 
+Journal of Comparative Economics, 22, 219-241 (1996) Bhattacharya, Anjana and Kumbhakar, S.C. (1996). ﬁModelling Indirect-production Function with Expenditure Constraints: A Farm level study of 
+Rice Production: A. Banerjee and B. Chatterjee (ed), Economic Theory, International Trade and Quantitative Techniques; 
+Essays in Honour of P.N. Roy, Calcutta, Calcutta University Press, 1996 Besley, T and R Burgess (2000) ﬁ 
+Land Reform, Poverty Reduction and 
+Growth : Evidence from India, Quarterly Journal of Economics,115, 389-430 Central Statistical Organizati
+on, Government of India. 
+Agricultural Statistics 
+at a Glance (different years).. Central Statistical Organization, Government of India. 
+Agriculture in Brief
+  (different years). 
+Charnes, A., W.W. Cooper, and E. Rhode
+s (1978) ﬁMeasuring the Efficiency of Decision Making Units,ﬂEuropean Journal of Operational Research 
+2:6 (November), 
+429-44.   27Cooper, W.W. and J.T.Pastor (1995) ﬁGlobal Efficiency Measurement in 
+DEAﬂ, Working Paper , Depto Estee Inv.Oper. Unversidad Alicante,Spain Dantawala. M.L. (1967): ﬁIncentives and Disincentives in Indian Agricultureﬂ, Indian Journal of Agricultural Economics Dantawala, M.L. (1970) : From Sta
+gnation of Growth : Relative roles of Technology, Economic Policy and Agrarian Institutionﬂ, Presidential Address to the 43
+rd Annual conference of the Indian Economic Association, Gauhati, 
+Indian Economic Journal, 49:2, October Œ December. 
+Deininger, K and L. Squire(1998): ﬁNew Ways of  Looking at Old Issues 
+:Inequality and Growthﬂ, Journal of Development Economics, 57,259-87. Fare, R. and C.A.K Lovell (1978): ﬁMeasuring Technical Efficiency of Production Functionﬂ, Journal of Economic Theory,19,1,150-16 Ghosh, B. and P. De (1998), ﬁRole of Infrastructure in Regional Development 
+- A Study over the Plan Periodﬂ, Economic and Political Weekly, Vol. 33, No. 47-48.  Ghosh, B. and P. De (2004), ﬁHow do Different Categories of Infrastructure Affect Development? Evidence from Indian Statesﬂ, 
+Economic and Political 
+Weekly, Vol. 39, No. 42.  Government of India. 
+Census of India (different reports) 
+Government of India. 
+Finance Accounts 
+(different reports)
+ Government of India  
+National Sample Survey Reports
+, (different issues). 
+Jeon, Y and Y. Kim (2000) : ﬁLand Reform, Income Redistribution and 
+Agricultural Production in Koreaﬂ, 
+Economic Development and Cultural 
+Change, 48: 253-68  28Kalirajan, K. (1981): ﬁAn Econometric Anal
+ysis of Yield Variability in Paddy 
+Productionﬂ, Canadian Journal of Agricultural Economics, 29, 283-294.  Kumbhakar S.C. and Arunava Bhattach
+arya (1992): ﬁPrice Distortions and Resource use Efficiency in Indian Agri
+culture: A Restricted Profit Function 
+Approachﬂ, Review of Economic and Statistics. Lau, L. and P. Yotopolus (1971): ﬁA Test for Re
+lative Efficiency and an 
+Application to Indian Agricultureﬂ, 
+American Economic Review,
+ 61, March. 
+Mythili, G. and K.R. Shanmugam (2000): ﬁTechnical Efficiency of Rice 
+Growers in Tamil Nadu: A St
+udy Based on Panel Dataﬂ, Indian Journal of Agricultural Economics, Vol. 55, No. 1,
+ Jan-March, 2000. 
+Pastor, J.T, J.L.Ruiz, and I. Sirven
+t(2000) ﬁAn Enhanced DEA Rusell-Graph 
+Efficiency Measureﬂ, European Journal of Operational Research
+, 115, 596-607. Ray S.C.and Y. Jeon(2008) ﬁReputat
+ion and Efficiency: A Nonparametric 
+Assessment of America™s Top-Rated MBA Programsﬂ; 
+European Journal of 
+Operational Research
+, 189, 245-268.  
+Ray S.C.(2004): 
+Data Envelopment Analysis: Theory and Techniques for 
+Economics and Operation Research, 
+Cambridge Univer
+sity Press. Sengupta, A (2000) : Farm efficiency in Indian Agriculture: An Analytical study based on West-Bengal
+, Unpublished Ph,D Thesis, Indian Statistical 
+Institute Calcutta. Shanmugam,  K.R. 
+ (2002) : ﬁTechnical Efficiency
+ of Growing Rice Crop in Karnataka : A Panel Studyﬂ, 
+Artha Vijnana,
+ Vol. XLIV, No. 3-4, Sept.-Dec. 
+2002, PP. 213-224.   29Tadesse, Bedassa and S. Krishnamoort
+hy (1997): ﬁTechnical Efficiency in 
+Paddy Forms of Tamil Nadu: An Analysis based on Farm 
+Size and Ecological Zoneﬂ, 
+Agricultural Economics, 16, 1997, 185-192.  Vollrath, Dietrich,(2007):ﬂLand Distri
+bution and International Agricultural 
+Productivityﬂ, American Journal of Agricultural Economics
+, 89,1,202-216.   

@@ -1,0 +1,111 @@
+![FAO_logo](/agris-search/search/img/FAO-
+logo.svg;jsessionid=ED531CB4F9F163F6779D1D765C633E69) ![home-icon](/agris-
+search/search/img/home- icon.svg;jsessionid=ED531CB4F9F163F6779D1D765C633E69)
+* English * Español * Français * العربية * 中文 * Русский ![home-icon](/agris-
+search/search/img/home- icon.svg;jsessionid=ED531CB4F9F163F6779D1D765C633E69)
+Toggle navigation __ AGRIS Register Sign in * My Profile * Change Password *
+Searching History * Browsing History * Saved Publications * Logout Search __ *
+Register * Sign in ### Related information in other data sources __ __
+Technical efficiency in paddy farms of Tamil Nadu: an analysis based on farm
+size and ecological zone ![Loading...](search/img/loading.gif)
+![Loading...](search/img/loading.gif) ![Loading...](search/img/loading.gif)
+![Loading...](search/img/loading.gif) ![Loading...](search/img/loading.gif)
+![Loading...](search/img/loading.gif) ![Loading...](search/img/loading.gif)
+![Loading...](search/img/loading.gif) ![Loading...](search/img/loading.gif)
+![Loading...](search/img/loading.gif) # Technical efficiency in paddy farms of
+Tamil Nadu: an analysis based on farm size and ecological zone [1997] ##
+Tadesse, B. Krishnamoorthy, S. Technical efficiency in paddy farms of Tamil
+Nadu: an analysis based on farm size and ecological zone 1997 Despite the
+wider application of efficiency analysis in Indian agriculture, little has
+been done on the investigation of intra and interecological variations, size
+differences and their interactions. However, ecological issues have paramount
+implications for the low-input sustainable agricultural production.
+Furthermore, due to the various causes of efficiency, the age-old size-based
+debate on efficiency differences is not yet resolved. The present study
+examines the level of technical efficiency across ecological zones and farm
+size groups in paddy farms of the southern Indian state of Tamil Nadu. The
+study showed that 90% of the variation in output among paddy (IR-20) farms in
+the state is due to differences in technical efficiency. Land, animal power
+and fertilisers have significant influence on the level of paddy production.
+Varying from 0.59 to 0.97, the mean technical efficiency was found to be 0.83.
+The use of F-test in two-way analysis of variance (ANOVA) and censored
+regression (Tobit model), with dummies for ecological zones, farm size groups
+and their interactions, has shown that, at mean level, the level of technical
+efficiency among paddy farms of the state differs significantly across agro-
+ecological zones and size groups as well. The study further indicated that
+small-sized paddy farms in zone II and medium-sized paddy farms in zone III
+are represented by ecologically size-biased production techniques; thus
+achieving higher technical efficiency. [farm inputs, crop production,
+agricultural regions, efficiency, ecology, factors of production, econometric
+models, least squares, maximum likelihood, rice, environmental protection,
+farm size] [Agricultural economics : the journal of the International
+Association of Agricultural Economists] ** Abstract ** Despite the wider
+application of efficiency analysis in Indian agriculture, little has been done
+on the investigation of intra and interecological variations, size differences
+and their interactions. However, ecological issues have paramount implications
+for the low-input sustainable agricultural production. Furthermore, due to the
+various causes of efficiency, the age-old size-based debate on efficiency
+differences is not yet resolved. The present study examines the level of
+technical efficiency across ecological zones and farm size groups in paddy
+farms of the southern Indian state of Tamil Nadu. The study showed that 90% of
+the variation in output among paddy (IR-20) farms in the state is due to
+differences in technical efficiency. Land, animal power and fertilisers have
+significant influence on the level of paddy production. Varying from 0.59 to
+0.97, the mean technical efficiency was found to be 0.83. The use of F-test in
+two-way analysis of variance (ANOVA) and censored regression (Tobit model),
+with dummies for ecological zones, farm size groups and their interactions,
+has shown that, at mean level, the level of technical efficiency among paddy
+farms of the state differs significantly across agro- ecological zones and
+size groups as well. The study further indicated that small-sized paddy farms
+in zone II and medium-sized paddy farms in zone III are represented by
+ecologically size-biased production techniques; thus achieving higher
+technical efficiency. ![RDF/XML representation of the
+article](search/img/rdf_button.png) ![LodLive provides a demonstration of the
+use of Linked Data standards to browse RDF
+resources](search/img/lodliveLogo.png) ![Loading...](search/img/loading.gif)
+Other subjects __ * farm inputs * crop production * agricultural regions *
+efficiency * ecology * factors of production * econometric models * least
+squares * maximum likelihood * rice * environmental protection * farm size __
+![Loading...](search/img/loading.gif) ![Loading...](search/img/loading.gif)
+Other information __ _ Language _: English _ Type _: Journal Article _ In
+AGRIS since _: 2013 _ Volume _: 16 _ Issue _: 3 _ Start Page _: 185 _ End Page
+_: 192 ** All titles **: " Technical efficiency in paddy farms of Tamil Nadu:
+an analysis based on farm size and ecological zone " __ Save item as: * __
+AGRIS_AP * __ RIS * __ EndNote(XML) * __ RDF/XML Translate with ![google-
+logo](search/img/google-logo.svg) translator This translation tool is powered
+by Google. FAO is not responsible for the accuracy of translations. × #### __
+Congratulations Publications saved Close View all **AGRIS:** International
+Information System for the Agricultural Science and Technology About Toggle
+Dropdown * What is AGRIS * How it works * For contributors * Acceptable use
+policy Feedback ![ciard](search/img/ciard.png)
+![aginfra](search/img/aginfra.png) #### FAO Departments and Offices * Contact
+us * Terms and Conditions * Scam Alert * Report fraud * Employment *
+Procurement * Governing Bodies * Office of the Inspector General * Evaluation
+* Legal and Ethics Office * Agriculture and Consumer Protection * Economic and
+Social Development * Fisheries and Aquaculture * Forestry * Technical
+Cooperation * Regional Office for Africa * Regional Office for Asia and the
+Pacific * Regional Office for Europe and Central Asia * Regional Office for
+Latin America and the Caribbean * Regional Office for the Near East and North
+Africa * Country Offices Contacts * Contact us * Terms and Conditions * Scam
+Alert * Report fraud Utilities * Employment * Procurement * Governing Bodies *
+Office of the Inspector General * Evaluation * Legal and Ethics Office
+Departments * Agriculture and Consumer Protection * Economic and Social
+Development * Fisheries and Aquaculture * Forestry * Technical Cooperation
+Offices * Regional Office for Africa * Regional Office for Asia and the
+Pacific * Regional Office for Europe and Central Asia * Regional Office for
+Latin America and the Caribbean * Regional Office for the Near East and North
+Africa * Country Offices #### Follow us on *
+![facebook](search/img/RTEmagicC_facebook_26.png.png) *
+![flickr](search/img/RTEmagicC_flickr_23.png.png) *
+![Google+](search/img/RTEmagicC_c6270bed47.png.png) *
+![Instagram](search/img/RTEmagicC_456950478f.png.png) *
+![LinkedIn](search/img/RTEmagicC_linkedin_07.png.png) * ![RSS news
+feeds](search/img/RTEmagicC_rss_19.png.png) *
+![SlideShare](search/img/RTEmagicC_433b8859a8.png.png) *
+![SoundCloud](search/img/RTEmagicC_2e22811972.png.png) *
+![Twitter](search/img/RTEmagicC_twitter_01.png.png) *
+![YouTube](search/img/RTEmagicC_youtube_40.png.png) #### Download our App
+![](search/img/download-app-icon-55x81px.png) * ![](search/img/applestore-
+icon-127x38px.png) * ![](search/img/googleplay-icon-127x38px.png) (C) FAO,
+2016
+

@@ -1,84 +1,939 @@
-# File:Thirupalaivanam,Tamil Nadu Agriculture Farm Rural life India 2012.jpg
-From Wikimedia Commons, the free media repository Jump to: navigation, search
-* File * File history * File usage on Commons * Metadata
-![File:Thirupalaivanam,Tamil Nadu Agriculture Farm Rural life India
-2012.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Thirupalaivanam%2CTamil_Nadu_Agriculture_Farm_Rural_life_India_2012.jpg
-/800px-
-Thirupalaivanam%2CTamil_Nadu_Agriculture_Farm_Rural_life_India_2012.jpg) Size
-of this preview: 800 × 577 pixels. Other resolutions: 320 × 231 pixels | 640 ×
-462 pixels | 1,024 × 739 pixels | 1,280 × 923 pixels | 5,184 × 3,739 pixels.
-Original file (5,184 × 3,739 pixels, file size: 1.46 MB, MIME type:
-image/jpeg) DescriptionThirupalaivanam,Tamil Nadu Agriculture Farm Rural life
-India 2012.jpg | A farm in Tamil Nadu, India 2012 \---|--- Date | 1 November
-2012, 00:00:00 Source | Flickr: "Life on a farm is a school of patience; you
-can't hurry the crops or make an ox in two days" - Henri Alain Author | Sarath
-Kuchi Permission (Reusing this file) | | ![Checked copyright
-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg
-/50px-Checked_copyright_icon.svg.png) | This image, which was originally
-posted to _Flickr.com_, was uploaded to Commons using **Flickr upload bot** on
-23:36, 12 December 2013 (UTC) by **Lisa.davis** (talk). On that date it was
-licensed under the license below. \---|--- ![w:en:Creative
-Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg
-/90px-CC_some_rights_reserved.svg.png)
-![attribution](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-
-by_new_white.svg/24px-Cc-by_new_white.svg.png) ![share
-alike](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-
-sa_white.svg/24px-Cc-sa_white.svg.png) | This file is licensed under the
-Creative Commons Attribution-Share Alike 2.0 Generic license. | \---|---|---
-You are free: * **to share** – to copy, distribute and transmit the work *
-**to remix** – to adapt the work Under the following conditions: *
-**attribution** – You must attribute the work in the manner specified by the
-author or licensor (but not in any way that suggests that they endorse you or
-your use of the work). * **share alike** – If you alter, transform, or build
-upon this work, you may distribute the resulting work only under the same or
-similar license to this one. http://creativecommons.org/licenses/by-sa/2.0 CC
-BY-SA 2.0 Creative Commons Attribution-Share Alike 2.0 truetrue ## File
-history Click on a date/time to view the file as it appeared at that time. |
-Date/Time| Thumbnail| Dimensions| User| Comment \---|---|---|---|---|---
-current| 23:36, 12 December 2013| ![Thumbnail for version as of 23:36, 12
-December
-2013](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Thirupalaivanam%2CTamil_Nadu_Agriculture_Farm_Rural_life_India_2012.jpg
-/120px-
-Thirupalaivanam%2CTamil_Nadu_Agriculture_Farm_Rural_life_India_2012.jpg)|
-5,184 × 3,739 (1.46 MB)| Flickr upload bot (talk | contribs)| Uploaded from
-http://flickr.com/photo/78943097@N03/8157707169 using Flickr upload bot * You
-cannot overwrite this file. ## File usage on Commons There are no pages that
-link to this file. ## Metadata This file contains additional information such
-as Exif metadata which may have been added by the digital camera, scanner, or
-software program used to create or digitize it. If the file has been modified
-from its original state, some details such as the timestamp may not fully
-reflect those of the original file. The timestamp is only as accurate as the
-clock in the camera, and it may be completely wrong. Camera manufacturer |
-Canon \---|--- Camera model | Canon EOS REBEL T3i Exposure time | 1/125 sec
-(0.008) F-number | f/5.6 ISO speed rating | 400 Date and time of data
-generation | 06:26, 3 November 2012 Lens focal length | 250 mm Width | 5,184
-px Height | 3,456 px Bits per component | * 8 * 8 * 8 Pixel composition | RGB
-Orientation | Normal Number of components | 3 Horizontal resolution | 240 dpi
-Vertical resolution | 240 dpi Software used | Adobe Photoshop CS6 (Windows)
-File change date and time | 00:06, 4 November 2012 Exposure Program | Manual
-Exif version | 2.3 Date and time of digitizing | 06:26, 3 November 2012 APEX
-shutter speed | 6.965784 APEX aperture | 4.970854 APEX exposure bias | 0
-Maximum land aperture | 5 APEX (f/5.66) Metering mode | Center weighted
-average Flash | Flash did not fire, compulsory flash suppression
-DateTimeOriginal subseconds | 49 DateTimeDigitized subseconds | 49 Color space
-| sRGB Focal plane X resolution | 5,728.1767955801 Focal plane Y resolution |
-5,808.4033613445 Focal plane resolution unit | inches
-![](//commons.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
-Retrieved from
-"https://commons.wikimedia.org/w/index.php?title=File:Thirupalaivanam,Tamil_Nadu_Agriculture_Farm_Rural_life_India_2012.jpg&amp;oldid=112959228"
-Category: * Fields in Tamil Nadu Hidden categories: * Flickr images uploaded
-by Flickr upload bot * CC-BY-SA-2.0 ## Navigation menu ### Personal tools *
-English * Not logged in * Talk * Contributions * Create account * Log in ###
-Namespaces * File * Discussion ### Variants ### Views * View * Edit * History
-### More ### Search ### Navigate * Main page * Welcome * Community portal *
-Village pump * Help center ### Participate * Upload file * Recent changes *
-Latest files * Random file * Contact us ### Tools * What links here * Related
-changes * Special pages * Permanent link * Page information * This page was
-last modified on 31 December 2013, at 17:09. * Text is available under the
-Creative Commons Attribution-ShareAlike License; additional terms may apply.
-By using this site, you agree to the Terms of Use and Privacy Policy. *
-Privacy policy * About Wikimedia Commons * Disclaimers * Developers * Cookie
-statement * Mobile view * ![Wikimedia Foundation](/static/images/wikimedia-
-button.png) * ![Powered by
-MediaWiki](/static/images/poweredby_mediawiki_88x31.png)
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+1AN EXPLORATORY 
+SUDY OF 
+MOBILE 
+MULTIMEDIA 
+AGRICULTURAL ADVISORY 
+SYSTEM: CHALLENGES AND 
+LESSONS FROM 
+TAMIL NADU, INDIA  Ganesan Muthiah 
+IITM's Rural Technology and Business 
+Incubator 
+India 
+ganesan@rtbi.in
+ Suma Prashant 
+IITM's Rural Technology and Business 
+Incubator 
+India 
+suma@rbti.in
+  Jayalakshmi Umadikar 
+IITM's Rural Technology and Business 
+Incubator 
+India 
+jaya@rtbi.in Kavitha Karthikeyan 
+IITM's Rural Technology and Business 
+Incubator 
+India 
+kavithas@rtbi.in
+  ABSTRACT
+ This paper describes the experiences gained in
+ terms of challenges encountered and lessons 
+learned in an exploratory initiative of mobile phone-based multimedia agricultural advisory 
+System (MAAS), which helps in providing timely
+ agricultural expert advice to farmers on 
+their mobile phone. When a farmer is calling, a call-centre-like interface containing 
+personalized information of that farmer pops up at the expert™s end. The expert views the 
+farmer™s dashboard and analyses the situation and query based advisory is provided to the 
 
+farmer. This agricultural advisory system formed part of a research study under National 
+Agricultural Innovation Projects (NAIP), New Delhi. The MAAS is developed by Indian 
+Institute of Technology Madras™s Rural Technol
+ogy and Business Incubator and it was field 
+tested with 1200 farmers in three districts of Tamil Nadu (Kancheepuram, Erode and 
+Dharmapuri), India, during December 2010 to June 2012. The aim of this paper is to describe 
+the experiences, highlighting a number of specific challenges and lessons associated with 
+providing mobile based agricultural advisories to farmers in rural areas. 
+  Keywords:
+ Information and communication technology;
+ Mobile phone; Agricultural 
+advisory; Agricultural extension; Agricultural information; India
+  1.  I
+NTRODUCTION
+ Agriculture is still the predominant livelihood in rural India, accounting for about 52 per cent 
+of the population though its contribution to the Gross Domestic Product (GDP) has decreased 
+between 1990-91 and 2010-11 from 30.00 per cent to 14.50 per cent (SIA, 2012). Information 
+
+and Communication Technologies (ICTs) play a key role in communicating knowledge and 
+information to rural farming communities. ICTs include technologies and media that capture, 
+store and disseminate data and information, and they include tools such as video, teletext, 
+voice information systems, radio, mobile telephony, fax and computer-mediated networks 
+among others.
+ICTs are considered drivers of change for rural and agricultural development. 
+They are efficient tools for reaching rural and remote communities and improving 
+agricultural productivity (Richardson, 1997; 
+Warren, 2002; Harris, 2004; May et al., 2007).  
+While involving in agricultural operations, a farmer needs different types of 
+information during every stage. For instance, availability of agricultural inputs and input 
+prices information are most useful at planting time whereas information about improved crop 
+
+production and management practices are mainly helpful to farmers during crop cultivation. 
+Similarly, daily updates on the prices of agricultural commodities in the local markets of the 
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+1AN EXPLORATORY 
+SUDY OF 
+MOBILE 
+MULTIMEDIA 
+AGRICULTURAL ADVISORY 
+SYSTEM: CHALLENGES AND 
+LESSONS FROM 
+TAMIL NADU, INDIA  Ganesan Muthiah 
+IITM's Rural Technology and Business 
+Incubator 
+India 
+ganesan@rtbi.in
+ Suma Prashant 
+IITM's Rural Technology and Business 
+Incubator 
+India 
+suma@rbti.in
+  Jayalakshmi Umadikar 
+IITM's Rural Technology and Business 
+Incubator 
+India 
+jaya@rtbi.in Kavitha Karthikeyan 
+IITM's Rural Technology and Business 
+Incubator 
+India 
+kavithas@rtbi.in
+  ABSTRACT
+ This paper describes the experiences gained in
+ terms of challenges encountered and lessons 
+learned in an exploratory initiative of mobile phone-based multimedia agricultural advisory 
+System (MAAS), which helps in providing timely
+ agricultural expert advice to farmers on 
+their mobile phone. When a farmer is calling, a call-centre-like interface containing 
+personalized information of that farmer pops up at the expert™s end. The expert views the 
+farmer™s dashboard and analyses the situation and query based advisory is provided to the 
+
+farmer. This agricultural advisory system formed part of a research study under National 
+Agricultural Innovation Projects (NAIP), New Delhi. The MAAS is developed by Indian 
+Institute of Technology Madras™s Rural Technol
+ogy and Business Incubator and it was field 
+tested with 1200 farmers in three districts of Tamil Nadu (Kancheepuram, Erode and 
+Dharmapuri), India, during December 2010 to June 2012. The aim of this paper is to describe 
+the experiences, highlighting a number of specific challenges and lessons associated with 
+providing mobile based agricultural advisories to farmers in rural areas. 
+  Keywords:
+ Information and communication technology;
+ Mobile phone; Agricultural 
+advisory; Agricultural extension; Agricultural information; India
+  1.  I
+NTRODUCTION
+ Agriculture is still the predominant livelihood in rural India, accounting for about 52 per cent 
+of the population though its contribution to the Gross Domestic Product (GDP) has decreased 
+between 1990-91 and 2010-11 from 30.00 per cent to 14.50 per cent (SIA, 2012). Information 
+
+and Communication Technologies (ICTs) play a key role in communicating knowledge and 
+information to rural farming communities. ICTs include technologies and media that capture, 
+store and disseminate data and information, and they include tools such as video, teletext, 
+voice information systems, radio, mobile telephony, fax and computer-mediated networks 
+among others.
+ICTs are considered drivers of change for rural and agricultural development. 
+They are efficient tools for reaching rural and remote communities and improving 
+agricultural productivity (Richardson, 1997; 
+Warren, 2002; Harris, 2004; May et al., 2007).  
+While involving in agricultural operations, a farmer needs different types of 
+information during every stage. For instance, availability of agricultural inputs and input 
+prices information are most useful at planting time whereas information about improved crop 
+
+production and management practices are mainly helpful to farmers during crop cultivation. 
+Similarly, daily updates on the prices of agricultural commodities in the local markets of the 
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+2surrounding district are required during harvesting time (Aker, 2011; Kapugama et al., 2011; 
+Glendenning et al., 2010; Mittal, 2012).  
+Fafchamps & Minten (2012) have reported that the main source of information is the 
+farmer™s own observation and experimentat
+ion followed by a conversation with other 
+farmers. Radio and television are also the common source of information particularly on the 
+weather aspects. But, Glendenning et al. (2010), who reviewed some of the agricultural 
+extension approaches in India, reported that the 
+majority of farmers in India have no access to 
+external sources of information. So, timely advisory of agricultural information to farmers is 
+of great significance for maximum yield and profitability. 
+ Information and Communication Technologies have also been used in Africa to 
+deliver education modules on farming practices, which are delivered by audio/radio, web-
+based means, CD-ROM, video and print format (Pye, 2003; Asenso-Okyere & Mekonnen, 
+
+2012). In Uganda, ICTs are used to disseminate local agricultural information and knowledge 
+to small scale farmers (Akiiki, 2006). The Swedish government is improving delivery of farm 
+services with the help of mobile phones using SMS technology, which has reached even the 
+rural population of the country. Through their mobile phones, residents from these 
+communities access vital information that will help them to solve issues that hinder them 
+
+from improving their livelihood. With the similar concept of e-Governance, I-Agri Imus™s 
+agricultural network was launched in Philippines. The project provided readily accessible 
+information across the agriculture value chain.
+ In Central Kenya, a pilot project called 
+DrumNet provides marketing, financial servi
+ces and information over mobile phones. While 
+in Senegal, women are using telecentres (linked to the internet via mobile phones) to access 
+
+market prices (Hafkin & Odame, 2002; Drumnet, 2007; May et al., 2007).  
+In India, the existing public agricultural extension system is traditionally providing 
+extension services to meet with the farmers™ requirements related to agricultural production. 
+
+But, it has become less effective, more time 
+consuming and hence unsuccessful and there is a 
+gap between the extension agent and the farmers (Mruthunjaya & Adhiguru, 2005). However, 
+
+efforts were made to strengthen the system with some innovative schemes by the Department 
+of Agriculture and Cooperation, Government of 
+India, in collaboration with the concerned 
+state government. For instance, Doordarshan is telecasting programs to make the farmer 
+
+aware of modern technologies and research outcomes related to agriculture and its related 
+areas five to six days a week through National and Regional Kendras within predefined time 
+windows. Similarly, All India Radio is broadcasting 30 minutes of programme for farmers six 
+days a week. Kissan Call Centres have been set up in every state of the country and all the 
+centres are accessible through toll free number from 6.00 am to 10.00 pm on all seven days a 
+
+week. Call centre agents are answering farmer™s queries in their local language. The 
+department has also set up Agri clinics a
+nd Agri-Business Centres to provide self 
+employment opportunities for professionally qualified agricultural graduates facilitating 
+delivery of value added extension services (SIA, 1012).  
+In addition, several modern Information and Communication Technology based 
+agricultural extension initiatives are being implemented by private, cooperatives and non-
+governmental organizations. For instance, IFFCO Kissan Sanchar Limited (IKSL), BSNL, 
+Reuters Market Light (RML), Nokia Life To
+ols, Fisher Friend Project, Rubber Board and 
+Department of Agriculture, Haryana State are providing services through SMS and Voice 
+messages about agriculture related inform
+ation (ICTFSECBP, 2009; Fafchamps & Minten, 
+2012; Saravanan, 2010). Farmers are seeking agri
+cultural related queries using their mobile 
+phone (Lall & Sahi, 2009). Despite these initiatives, the farmers are still facing a lot of 
+difficulties in getting timely, reli
+able and relevant information. This is mainly because the 
+technologies developed for farmers were not suited to the farmers™ capacity to take risk 
+according to Glendenning et al. (2010) who have reviewed some ICT based agricultural 
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+3services in India. Mass media like television and radio broadcast programs provide highly 
+generic information rather than addressing the specific needs of individual farmers. This 
+
+severely affects their ability to increase their productivity, profitability and income.  
+According to Telecom Regulatory Authority of India, the number of wireless mobile 
+phone subscribers has reached 929.37 million as on 31
+st May, 2012. The share of rural 
+wireless subscribers has been increasing as co
+mpared to urban counterparts (TRAI, 2012). 
+This is because of the availability and afford
+ability of the technology. Therefore the initiative 
+was designed in an appropriate manner with 
+the goal of collecting and updating farm/crop 
+specific information pertaining to each farmer™s field through mobile technology that would 
+help the agricultural expert to analyse the situation to give right kind of advisories to farmers.  
+This multimedia agricultural advisory system, which is an inexpensive technology 
+tools, developed by Indian Institute of Tec
+hnology Madras™s Rural Technology and Business 
+Incubator (IITM™s RTBI), Chennai, was fiel
+d tested in partnership with Tamil Nadu 
+Agricultural University (Coimbatore), National Agro Foundation (Kancheepuram), Erode 
+Precision Farm Producers™ Company Ltd (Erode) and Dharmapuri Precision Farmers Agro 
+Services Ltd (Dharmapuri). Three districts na
+mely Kancheepuram, Erode and Dharmapuri in 
+Tamil Nadu, India, have been chosen and a multimedia agricultural advisory system was used 
+
+to provide advisories during December, 2010 to June 2012. Based on the experiences gained 
+so far from this initiative, this paper has been de
+signed to emphasise lessons learnt in terms of 
+challenges so as to take the innovative technology to other regions as also to scale it up 
+efficiently. The research question of this pape
+r is that what are the challenges encountered 
+and lessons learned in both the mobile phone 
+based farmer™s registra
+tion/farm updating and 
+expert advice to farmers? The outcome of this 
+study results would certainly help in further 
+deployment of this technology with fewer challenges expected in the field. The rest of the 
+paper is organized as follows: first we de
+scribe the technology. Second, we explain 
+methodology in which we describe complete na
+rrative of selecting farmers for participation 
+and farmers™ registration process over the mobile
+ technology and the setting up of call centre 
+like platform equipped with multimedia agricultural advisory system (MAAS). Third, we 
+present the results and discussion and finally we conclude.  
+
+  2.  A
+N OVERVIEW OF THE 
+TECHNOLOGY
+ The IITM™s RTBI developed a multimedia agricultural advisory system (MAAS) which helps 
+in providing timely expert advice to farmers. 
+Farmer can raise a query using their mobile 
+phone to an agricultural expert. When a farmer calls, a call centre like interface with 
+personalized information pops up at the expert
+™s end. The expert views the farmer™s 
+dashboard and analyses the situation and query 
+based advise is provided to the farmer. Field 
+testing of MAAS essentially means to give the right kind of advisory to farmer at right time 
+on their mobile phone. Figure 1 depicts the fa
+rmer™s registration and information flow.  
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+4 Figure1Farmer's
+registration
+and
+information
+flow 3.  M
+ETHODOLOGY
+ The MAAS was field tested with 1200 farmers in Tamil Nadu (Kancheepuram, Erode and 
+
+Dharmapuri districts), India, during December 2010 to June 2012. These three districts were 
+
+selected for a purpose, because each of them fi
+ts into one of the three agro-climatic zones. 
+These are North Eastern Zone (Kancheepuram district), Western Zone (Erode district) and 
+North Western Zone (Dharmapuri district) (Fig. 
+2). Another reason for selecting these study 
+areas was that the areas in which the project was piloted are quite contrasting in terms of their 
+geographical and agricultural practice. 
+        
+           3.1  Selecting Farmers for Participat
+ion and Farmers™ Registration Process 
+Farming communities in these three districts are not homogenous. Farmers differ in social 
+status, wealth, access to and control over res
+ources. There were different categories of 
+farmers belonging to marginal, small, medium and big based on land size. Four main 
+strategies for selecting farmers to participate 
+in this field testing were adopted. First, a 
+strategy that was frequently used in the farmers™ selection process was to choose the 
+interested farmer to register, with other farm
+ers volunteering to participate in the registration 
+process. The second strategy was for volunteers during awareness camp, and from them 
+Figure 2 Map showing the location of study 
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+5selects farmers to participate in the project. A 
+third strategy used was to let farmers select 
+participants within their community. In the fourth strategy, farmers were selected by 
+
+extension staff. In all the strategies, no selection bias was followed against farmers who wish 
+to participate. Nevertheless
+ the farmers™ selection criteria included having a mobile phone, 
+cultivating the crops chosen and willingness to take part in this project.  
+A total of 1200 farmers (400 in each district) across villages in each district covering 
+182 villages with an average of nearly 7 farmers per village were selected.
+ Nine crops (three 
+from each district) were chosen as focus crops for this field testing: paddy, groundnut & 
+brinjal for Kancheepuram district; turmeric, 
+sugarcane & coconut for Erode district and 
+mango, tapioca & tomato for Dharmapuri district. These crops were chosen because, in all 
+the three districts, they are all grown as prominent agricultural and horticultural crops. 
+ Subsequent to this, an orientation progr
+amme was done to create awareness about 
+project goals and objectives among the farmers. The selected farmers were contacted through 
+one to one interaction in their respective village and
+ motivated to register through the newly 
+developed mobile application using mobile phone by providing the personal profile like name 
+of the farmer, gender, age, mobile number, name 
+of village/block/district etc. and farm details 
+such as previous/current crop cultivation practices; farm size etc. The photo of the farmer was 
+
+also captured with camera in the mobile phone.  
+All this data was transmitted using General Packet Radio Service (GPRS), which is a 
+wireless data service deployed as a standard feature in many mobile phones. The GPRS 
+transmits data over the mobile operator™s network to an internet gateway, further to which it 
+goes to a dashboard for expert™s view and analysis. Collection of data is done on the mobile 
+
+phone using an installed java-based application. Apart from mobile based data collection, 
+GPS devices had been used for geospatial data 
+like geographical location, farm size, contours 
+of the land. This information was further edited
+ using customized software (Photo tagger for 
+Data logger tracks and Map source for Garmin 
+tracks) and the developed farm plots assigned 
+to individual farmers. Each farm plot is saved 
+in a Shape file format 
+and made available in 
+dashboard. The data collected is directly stor
+ed in a remote database. During the registration 
+process, the farm plot details in dashboard were refined periodically based on the suggestions 
+and feedback given by the farmers. The farm
+ers and field level staff who facilitated the 
+farmers have been given adequate training.  
+ 3.2  Setting up of Call Centre Like Platform Equipped with MAAS 
+
+A multimedia agricultural advisory system was set up in IITM™s RTBI™s premise in Chennai, 
+
+the state capital of Tamil Nadu in India and it has been functioning since December 2010. 
+
+One agricultural expert has been engaged to answ
+er the farmer™s queries as and when he/she 
+contacts through the call centre number. Once the farmer submits requisite details through the 
+mobile, he/she becomes a registered user in MAAS. The submitted data are available on 
+concerned farmer™s dashboard. 
+ The details are geographical location, farm size, contours of the land, soil physico-
+chemical properties, history of the crops grow
+n, inputs used, crop yields, pest and disease 
+history. By presenting all this information in the context of the farmer query, the agricultural 
+expert will analyze the situation and promptly provide the query based advisories in Tamil 
+(the local language). 
+The registered user can also upload a pictur
+e of pest and disease affected crop using 
+their mobile phone to the system, the expert in turn will diagnose the problem based on the 
+photo submitted and timely crop specific advisory is given to the farmer on their phone. The 
+details of queries by farmers, the responses pr
+ovided to those queries by expert are recorded 
+as call history. Further, this has helped the e
+xpert to revisit the past queries and responses, 
+when there were similar queries from the farmers.  
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+6The participating farmers used project mobile phone for initial registration and farm 
+updates, but farmers used their own mobile phone for seeking agricultural advisory from the 
+
+expert. From December 2010 to June 2012, enthusiastic farmers who had registered to the 
+system from these three districts have been raisi
+ng agricultural queries to get expert advice.  
+To monitor field level activities and to provide troubleshooting support to farmers, a 
+project staff was stationed at each of the study areas. This paper comes up with the basic 
+understanding of registered farmers™ socio-economic characteristics such as gender, 
+
+education, type of farmer and years of 
+individual farming experience and challenges 
+encountered and lessons learned during the regist
+ration process and agricultural advisories to 
+farmers. The data on month wise number of fa
+rmers registered through mobile technology, 
+their socio-economic characteristics, number of queries raised by the farmers, and type of 
+queries were obtained from backend database a
+nd simple descriptive analysis was used to 
+interpret the results.  
+    4.  R
+ESULTS AND 
+DISCUSSION
+ In this section, we first present the number of
+ farmers registered through mobile technology 
+and their socio-economic characteristics, this is followed by an analysis of farmers™ queries. 
+
+Subsequently the challenges encountered and le
+ssons learnt during registration/farm updates 
+and agricultural advisories to farmers are meticulously discussed.  
+
+ 
+4.1  Number of Farmers Registered  
+After conducting a baseline survey among the farmers followed by an orientation 
+programme, the farmers were asked to register
+ through newly developed mobile application 
+using mobile phone. This was done because only a registered famer can raise the query to 
+agricultural expert. During the registration process, the field level staff did the initial data 
+
+collection process on behalf of the farmers. Th
+e data collected were farmer™s personal profile 
+such as district to which the farmers belong to
+, gender, education, type of farmer and number 
+of years of individual farming experience along with the farm specific information on the 
+details of previous/current crop cultivation practices, farm size etc. Following this, the 
+farmers were instructed and motivated to update
+ the farming operations that are subsequently 
+carried out after the initial registration process.
+ The farmers were also instructed and taught 
+how to update the information and how in case of any clarifications or doubts, they can get in 
+touch with the project staff for smoot
+h functioning of farm/crop updates.  
+The month wise number of farmers registered through mobile technology is presented 
+in figure 3. It was observed that on average 55 farmers were registered each month starting 
+
+from April 2010 to January 2012. It took 22 months to achive the target of 1200 farmers™ 
+registration (400 from each district) from all the three districts.  
+The collected farmer™s personal profile and farm specific crop details during the 
+registration process were viewed by the resear
+cher to identify the quality of the submitted 
+data. Technical team periodically checked the da
+ta for errors and rectification was done in 
+consultation with Tamil Nadu Agricultural University (TNAU), Coimbatore (one of the 
+partners in the project). This has facilitated the customization of both mobile application and 
+dashboard application and it was made sure that the variables available in both the 
+
+applications are synchronized with each other.  
+Apart from the initial orientation programme, it was required to conduct several 
+awareness kind of training programmes among the farmers to help them understand clearly 
+the project goals and objectives and to enroll the 
+farmers in the system. In the initial stage, we 
+thought of completing the farmers registration process within a predefined time but it was not 
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+7possible to do so as it required constant interaction with farmers to build rapport among the 
+farmers.  
+   
+4.2  Socio-Economic Characteristics of Registered Farmers 
+
+The socio-economic characteristics such as gender,
+ age, education, type of farmer and years 
+of individual farming experience were analysed 
+and given in Table 1. It was observed that 
+gender composition consists of nearly 94 per cent male farmers and only six per cent of them 
+are female. About 39.90 per cent of the registered farmers were middle aged (36 Œ 45 years), 
+38.80 per cent
+ old (46 years and above) and 21.30 per cent young (<35 years). The analysis 
+of educational background of the participating fa
+rmers (Table 1) show that about 33 per cent 
+of them had studied up to high school level (10
+th std) while nearly 14 per cent up to higher 
+secondary (12
+th std), about 10 per cent had graduate
+d after higher secondary school, while 
+nearly 4 per cent post graduation after studying a graduation degree. Only nearly six per cent 
+did not have any formal education. Since most of them are educated till either school or 
+
+college level, we did not take up any literacy based intervention programme to make them 
+aware of this initiative. The analysis of farmer
+s™ classification showed that majority of them 
+were small (34.80%) and medium (34.50%) fa
+rmers and this was followed by marginal 
+farmers (20.20%). Only 10.60 per cent of the fa
+rmers were large farmers. A majority of the 
+farmers (34%) had been involved in farming activities for more than 26 years. 
+
+ Table 1 Distribution of Socio-Economic Characteristics of Registered Farmers  
+Characteristics Category Frequency Percentage 
+Gender  Male Female 
+1127 73 93.90
+6.10Age (in years) <35 Years (Young) 
+36 Œ 45 years (Middle) 
+>46 years (Old) 
+255 479 466 21.30
+39.90
+38.80
+Education Primary school 
+Middle school 
+High school 
+Higher secondary school 
+Graduate 
+Post graduate 
+162 239 
+396 165 122 45 13.50
+19.90
+
+33.00
+13.80
+10.20
+3.80Figure 1 Number of Farmers Registered th
+rough Mobile Application (by Month)
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+8No education 71 5.90Classification of farmer
+ Marginal (<1 ha) 
+Small (1Œ2ha) 
+Medium (3-5ha) 
+
+Large (>5ha)
+ 242 417 414 
+127 20.20
+34.80
+34.50
+
+10.60
+Years of farming 
+experience 
+0 to 5 6 to 10 11 to 15 16 to 20 21 to 25 26 & above 63 159 189 229 163 397 5.3013.30
+15.80
+19.10
+13.60
+33.10
+Total 1200 100
+ 4.3  Farmer™s Queries  
+Out of 1200 farmers who had registered with the system, only 243 farmers used the MAAS 
+services provided through call centre approach giving a successful participation rate of 20.25 
+per cent. The reason for poor participation might be due to lack of constant touch with 
+farmers by the staff who were stationed in the field. 
+It was found that totally 1183 queries 
+with an average of 62 per month were raised by these farmers during December 2010 to June 
+2012 from all the three districts (Fig. 4).  
+The analysis of district wise queries reve
+aled that farmers from Erode district (60%) 
+raised more queries than the other two districts (Fig. 5). Mittal (2012) reviewed the impact on 
+adoption of modern ICT tools like mobile phone by farmers in South Asia. It has been 
+reported that there are several important factors 
+like education, social categories, income and 
+landholding size that influence the use of ICTs in decision making. Similarly, Tamil Nadu 
+Agricultural University based in Coimbatore ha
+s also reported in one of their documentation 
+reports that the farmers of Erode district are more innovative and try to adopt new innovative 
+technologies it was because they regularly contacts with extension staff and agricultural 
+scientists (DAP, 2008).
+ The analysis of type of queries (Fig. 6) rev
+ealed that plant protection with reference to 
+pest and disease management (62%) and cop cultivation practices (32%) were found to be 
+
+highest number of queries raised by the farmers. The lowest percentage of queries was on 
+weather information (4%) and market information (2%). From this analysis it could be 
+inferred that farmers were more concerned a
+bout pest and disease management and best 
+packages of crop cultivation aspects rather
+ than weather and market information.  
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+9  Figure 2 Month wise number of queries 
+   
+     
+     
+   
+4.4  Challenges and Lessons  
+
+There were several challenges encountere
+d and lessons learnt during farmers™ 
+registration/farm updates through mobile applicati
+on and expert advice to farmers. One of the 
+main lessons we learnt was that the data submitted through mobile application had too many 
+spelling mistakes particularly on the names of fertilizers and pesticides. To overcome this, 
+questions were made available with answers in the form of drop down menu options instead 
+Figure 3 Percentage of Queries by Districts 
+Figure 4 Percentage of Query types 
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+10of open ended questions. This has facilitated the farmers in choosing the answer and reduced 
+erroneous data.  
+The mobile application also had the facility of updating the information on farming 
+operations that are carried out between sowing to harvesting of the crops, but this was not 
+used by most of the farmers. It was learnt that the level of English literacy was abysmally 
+poor among the farmers and that the content over mobile application needed to be in the local 
+language (Tamil) to gain wide usage by the famers. To overcome this challenge, the expert 
+
+from the call centre contacted the farmers over phone and updated the information in the 
+concerned farmer™s dashboard by asking questions. But, this took considerable time for the 
+expert rather than spending valuable time on providing agricultural advisories to farmers.  
+On learning difficulties faced by farmers during farm updates, the project team has 
+developed an Interactive Voice Response (IVR) system in Tamil (the local language), which 
+
+may eliminate the language barrier and enable the farmer to keep updating the farming 
+operations as and when they undertake them in their respective fields. IVR is emerging to be 
+the most appropriate solution to the defined digital inclusion problem. This voice technology 
+allows representations that are closest to the natural human language and does not require any 
+level of literacy. However, Ganesan et al. (2012), who reviewed the challenges in 
+
+implementing mobile phone based data collection in developing countries, reported that there 
+are expected voice input errors due to low accuracy of the speech recognizer and noise 
+background environments in IVR.  
+Apart from this, the project team has also developed a pest and disease image upload 
+application over mobile phone in a local language (Tamil). This can be used for uploading 
+
+pest and disease affected plant over mobile phone for seeking advisories from the expert. 
+Both these newly developed technologies will be implemented in due course to help in 
+regular updates from the farmers™ field.  
+The other challenges we faced was that some of the farmers showed disinterest in 
+registration over mobile technology during the initial stage. It was learnt that no crops which 
+
+were chosen in the project were being cultivated in their lands due to unseasonal conditions. 
+This had resulted in unwillingness for those who do not have crops in their field at the time of 
+registration. Hence, the project team had to wait till the farmers start getting involved in the 
+
+cultivation of crops in their respective fields. In
+ view of this, there was considerable delay in 
+completing the registration process for all the participating farmers within the timeframe set 
+in the timeline.  
+Similarly, most of the farmers showed disinterest in the use of service during 
+agricultural advisories. It was learnt that 
+the information provided lacked quality, was not 
+timely provided and the information was irreleva
+nt and unreliable. The information provided 
+to them was mainly on best practices for crop production rather than focussing on 
+information about postharvest aspects including processing, marketing, storage and handling. 
+Motivation among the farmers played a crucial factor but, this was not adopted by the staff 
+from the field at appropriate time when they n
+eed the information. There was also lack of 
+coordination between the agricultural expert, fiel
+d staff and farmers. Another reason might be 
+due to the farmers requiring a diversified inform
+ation needs to support their farm enterprise. 
+It was also noted that lack of expert™s knowledge
+ particularly in pest and disease related areas 
+played major role in decreasing the number of calls from the farmers. It was also found that 
+there was a lack of farmers™ participation in
+ the project due to poor rapport building by the 
+staff who were stationed in the field. On observing this, the respective field level staff was 
+instructed to meet with every farmer on daily basis but this was not possible for three field 
+staff as each of them was assigned 400 farmers 
+in the respective districts. Another challenge 
+was that each of the farmers™ field were sca
+ttered around and were located with a minimum 
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+11distance of 20 to 25 km radius. As a result, number of queries decreased over period of time 
+inspite of considerable number of farmers registered. 
+The field level staff also faced a lot of diffi
+culties in reaching the farmers field by foot 
+as frequent transport facilities were not available in many of the villages. On some occasions, 
+farmers who had two wheeler facility voluntarily 
+came forward to help the field staff to take 
+him/her to the field but this could not be expected at all the times. This has posed as one of 
+the main challenges in this initiative. 
+During the queries from farmers to expert fo
+r advisories, the expert was not able to 
+provide weather forecasting information at village specific location to farmers. This 
+information was sought by farmers because it would help them make crop management 
+decision which could reduce risk and losses due 
+to extreme climate. The agricultural expert 
+tried to collect weather related information from the website of agricultural universities and 
+
+meteorological related institutes but there was no village level specific forecasting 
+information available and instead block level information was delivered directly to farmers.  
+Soil testing is one of the important agricultural practices to be followed by farmers to 
+meet with the nutrient requirement of different crops before the start of the crop cultivation in 
+their respective farm land. The results of the soil testing help the expert to calculate and 
+
+provide accurate recommendations to farmers that 
+will assist them in integrated management 
+of their farm. But we learnt during the agricultural advisories that the majority of the farmers, 
+who had asked for fertilizer recommendation, did not go for soil testing. It was for this reason 
+that the expert could provide only general fe
+rtilizer recommendation rather than the accurate 
+recommendation to farmers.  
+Interestingly, the farmers who were not registered to the system also contacted the 
+expert for agricultural advisory. It might be be
+cause some of the farmers, who had registered, 
+shared the benefits of advisories received fro
+m an agricultural expert. Similarly, farmers 
+raised a query for the crops which were not focused on in this initiative. All this shows the 
+
+farmers™ enthusiasm to seek advisories from the expert. One of the hurdles we faced was that 
+
+different subject matter specialists were not e
+ngaged at the call centre when advisories were 
+provided to the farmers. This has clearly affect
+ed the advisory part when there was a query 
+about very specific subject related questions. Fo
+r example one of the farmers raised a query 
+on animal husbandry and dairy related aspects. The expert could not answer directly to 
+farmers; instead this query was communicated to a specialist who was actually not part of this 
+initiative. We are developing a multiparty c
+onferencing system to incorporate into MAAS 
+whereby different subject matter specialists (Agronomist, Pathologist, Entomologist, 
+Livestock veterinarian, Insurance specialist etc) could be interlinked through mobile phone 
+
+with farmers directly.  
+ 5.  C
+ONCLUSIONS
+ In this paper, we have reported the results of a field testing of Multimedia Agricultural 
+
+Advisory System (MAAS). It is an innovative technology whereby the agricultural expert 
+
+delivers the advice by analyzing the actual situations on the dashboard rather than visiting the 
+field and viewing the crop in person. The agricultural advisory information is expected to 
+help farmers to adopt improved crop production techniques for increasing the yield of the 
+crops.  The field testing was conducted in collaboration with Tamil Nadu Agricultural 
+University, National Agro Foundation, Erode Precision Farm Producers™ Company Ltd and 
+Dharmapuri Precision Farmers Agro Services Ltd. The field testing involved 1200 farmers in 
+three districts of Tamil Nadu (Kancheepuram, 
+Erode and Dharmapuri), India. Participating 
+farmers registered through newly developed 
+mobile applications and subsequently, we 
+motivated farmers for updating of farm information to seek expert™s timely advice. The 
+EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+12question that is discussed in this paper is as follows. ﬁWhat are the challenges encountered 
+and lessons learnt in both the mobile phone ba
+sed farmer™s registra
+tion/farm updating and 
+expert advice to farmers?ﬂ  
+This paper elaborates various challenges while field testing of MAAS and some of the 
+key challenges are discussed here. For instance, most of the farmers were not able to update 
+the information on farming operations through mobile applications at regular intervals. One 
+of the reasons may be due to language gap in terms of the medium of the language as 
+
+reported by May et al. (2007). Most of the registered farmers showed disinterest in the use of 
+service during the period of time. This may be because the information provided to farmers 
+lack relevant services that might not meet with information needs of the farmers, resulting in 
+low usage. Glendenning et al. (2007) who have reviewed agricultural extension in India 
+reported that information needs will differ from farmer to farmer based on landholding size 
+
+and farmer required diversified range
+ of information. So, there is a need to focus in the future 
+to understand what is exactly obstructing the usage of MAAS and the relevance of 
+information provided.  
+Despite several challenges, the project has been able to accomplish enrolling 1200 
+farmers (400 from each district) in the multimedia agricultural advisory system using mobile 
+
+application. Enthusiastic farmers have contacted the call centre during at every stage of crop 
+growth for agricultural advisory purpose. The project was also successful in refining and in 
+customization of a user friendly dashboard application. Apart from this, the farmers 
+participating in the project have acquired enough knowledge on how to register themselves 
+using mobile technology and contact the expert at the call centre for seeking advisory. The 
+
+farmers were able to get timely and right adviso
+ries to successfully control pest and disease. 
+They were also able to adopt improved crop production techniques and management practices 
+during crop cultivation, which contributed to incr
+eased the yield of the crop. These results are 
+in line with IFFCO Kissan Sanchar Limited 
+(IKSL), Reuters Market Light (RML), Nokia 
+Life Tools and Fisher Friend Project who are providing services through SMS and Voice 
+
+messages about agriculture related inform
+ation (ICTFSECBP, 2009; Fafchamps & Minten, 
+2012; Saravanan, 2010).  
+Based on lessons learnt during the field testing of MAAS, and we find some of the key 
+challenges need to be given greater attention during further deployment of this technology 
+among the farmers in rural areas: 
+- regular updates of farm/crop specific information by farmers 
+- timely motivation of farmers by project stakeholders 
+- providing village level location specific we
+ather forecasting information to farmers  
+- incorporating multiparty conferencing system into MAAS to facilitate interlinking 
+with different subject matter specialists and farmers 
+The major contribution of this paper is to share the experiences gained so far in terms of 
+challenges encountered and lessons learnt during the field testing of MAAS. All the 
+challenges discussed in this paper must be take
+n into consideration for further deployment of 
+this technology in order to be effectively implemented among the farmers in rural areas. 
+Further research should focus on testing the effect of MAAS on the performance of 
+agricultural crop yield by adopting a randomized controlled trial (CRT). For example, two 
+treatments can be implemented. Treatment 1, 
+all the participating farmers are offered MAAS 
+services; Treatment 2, a proportionate number of farmers are not offered any of MAAS 
+
+service and it should be treated as control. 
+Bruhn and McKenzie (2009) have shown that, in 
+randomization controlled trials, stratification 
+improves efficiency. Thus, randomization of 
+treatments across villages in each district can be implemented in future.  
+  EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+136.  R
+EFERENCES
+ Aker, J.C. (2011) Dial A for Agriculture: A Review of Information and Communication 
+Technologies for Agricultural Exte
+nsion in Developing Countries. 
+CGD Working 
+Paper 269, Washington, D.C.: Center for Global Development
+, http://www.cgdev.org/content/publications/detail/1425497
+  Akiiki, E.K.
+ (2006) Towards improving farmers™ livelihoods through exchange of local 
+agricultural content in rural Uganda. 
+Knowledge Management for Development 
+Journal
+, 2(1), 68-77, 
+http://journal.km4dev.org/index.php/km4dj/article/viewFile/53/90
+  Asenso-Okyere, K. Mekonnen, D.A. (2012) The Importance of ICTs in the Provision of 
+Information for Improving Agricultural Productivity and Rural Incomes in Africa. 
+Working paper, United Nations Development Programme, Regional Bureau for 
+Africa, http://web.undp.org/africa/knowledge/WP-2012-015-okyere-mekonnen-ict-
+productivity.pdf
+ Bruhn, M. and McKenzie, D. (2009) In Pursuit of Balance: Randomization in Practice in 
+Development Field Experiment. 
+American Economic Journal: Applied Economics
+, 1(4): 200-232 DAP (District Agriculture Plan), Erode District. (2008) National Agricultural Development 
+Programme. Tamil Nadu Agricultural University 
+DrumNet. (2007)
+ Financing the Agricultural Value Supply Chain. 
+A Project of Pride Africa
+. http://www.ruralfinance.org/fileadmin/templates/rflc/documents/1176485707833_Dru
+mNet_final.pdf
+  Fafchamps M. and Minten. B. (2012) Impact
+ of SMS-Based Agricultural Information on 
+Indian Farmers, The World Bank Economic Review. 
+Published by Oxford University 
+Press on behalf of the International Bank for Reconstruction and Development
+, 1-32, http://wber.oxfordjournals.org/content/early/2012/02/27/wber.lhr056.full.pdf+html
+  Ganesan, M., Suma, P. and Ashok, J. (2012) A Review on Challenges in Implementing 
+Mobile Phone Based Data Collection in Developing Countries. 
+The Journal of Health 
+Informatics in Developing Countries
+, 5(1), 366-374, 
+http://www.jhidc.org/index.php/jhidc/article/view/77/114
+  Glendenning, C.J., Babu, S. and Asenso-Okyere, K. (2010) Review of Agricultural Extension 
+in India, Are Farmers™ Information Needs Being Met?. 
+IFPRI Discussion Paper 
+01048, http://www.ifpri.org/sites/default/files/publications/ifpridp01048.pdf
+  Hafkin, N.J and Odame, H.H..
+ (2002) Gender, ICTs and Agriculture. 
+A Situation Analysis for 
+the 5th Consultative Expert Meeting of CTA™s ICT Observatory Meeting on Gender 
+and Agriculture in the Information Society
+. http://www.cta.int/observatory2002/ 
+background_paper.pdf
+ Harris, R.W.
+ (2004) Information and Communication Technologies for Poverty Alleviation
+. Kuala Lumpur: UNDP, Asia-Pacific D
+evelopment Information Programme.  
+ICTFSECBP (Information Communication Technology For Small Enterprise Capacity 
+Building Program) (2009) 
+Final Report September 29, 2006 Œ September 28, 2009, 
+USAID from the American People 
+Kapugama N., Lokanathan, S. and Perera, R.
+S. (2011) Improving Farmer Services by 
+Understanding their Information Needs. 
+http://www.cprsouth.org/wp-
+content/uploads/2011/08/Policy-brief_finalV3.pdf
+ Lall, A. and Sahi, S. (2009) Taking ICTs to the Grassroots. A Case Study of the LifeLines 
+India Initiative, 19,1
+ http://www.iimahd.ernet.in/egov/ifip/feb2009/anusha-lall.htm
+ EJISDC (2013) 56, 5, 1-14 
+The Electronic Journal of Informatio
+n Systems in Developing Countries 
+www.ejisdc.org
+14May, J., Karugia, J. and Ndokweni, M. (2007)
+ Information and Communication Technologies 
+and Agricultural Development in Sub-Saharan Africa: Transformation and 
+
+Employment Generation. 
+Final Framework Paper prepared for the African Economic 
+Research Consortium (AERC)
+, http://www.aercafrica.org/documents/ 
+ict_project_working_papers/ mayet_al_ictagriculturaldevelopmentinssa.pdf
+ Mittal, S. (2012) Modern ICT for Agricultural Development and Risk Management in 
+Smallholder Agriculture in India. 
+Socio Economics Working Paper 3
+, http://www.scribd.com/doc/102434893/18/Table-6-Example-of-a-crop-calendar-for-
+wheat-crop
+ Mruthunjaya and Adhiguru, A. (2005) ICT 
+for Livelihood Security: A Reality Check. 
+Mainstreaming ICTs
+, II (2), 14-18. 
+Pye, D. (2003)
+ Using ICT to Increase the Effectiveness of Community-Based, Non-Formal 
+Education for Rural People in Sub-Saharan Africa, 
+The CERP Project Final Report,
+ http://www.dfid.gov.uk/r4d/PDF/Outputs/TechDistLearn/paper50.pdf
+ Richardson, D. (1997) The Internet and Rural and Agricultural Development Œ An Integrated 
+Approach. FAO Corporate Document Repository
+, http://www.fao.org/ 
+docrep/w6840e/w6840e00.htm
+ Saravanan, R. (2010) India, In: Saravanan 
+(Ed.) ICTs for Agricultural Extension: Global 
+Experiments, Innovations and Experiences. 
+New India Publishing Agency (NIPA), 
+New Delhi
+, 115-168 
+SIA (State of Indian Agriculture) (2012)
+http://agricoop.nic.in/SIA111213312.pdf
+ TRAI (Telecom Regulatory Authority of India) (2012) 
+http://www.trai.gov.in/
+  Warren, M.F. (2002) Adoption of ICT in Agricultural Management in the United Kingdom: 
+The Intra-Rural Digital Divide. 
+Agricultural Economics
+, 48(1), 1-8, http://www.cazv.cz/2003/2002/ekon1_02/warren.pdf
+  

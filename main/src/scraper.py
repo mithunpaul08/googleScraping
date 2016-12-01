@@ -31,13 +31,14 @@ res = requests.get('https://www.google.com/search?q=%22farm+size%22+tamil+nadu+a
 #https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start=1&num=10
 
 numberOfGoogleResults=40
+
 def my_range(start, end, step):
     while start <= end:
         yield start
         start += step
 
 
-def parseGResults(myQS):
+def parseGResults(myQS,startValue):
     res = requests.get(myQS)
     print "value of query string is"+ myQS    
     res.raise_for_status()
@@ -45,17 +46,19 @@ def parseGResults(myQS):
     linkElems = soup.select('.r a')
     numOpen = min(numberOfGoogleResults, len(linkElems))
     print 'value of  numOpen is ' + `numOpen`
+    
     for i in range(numOpen):
         try:
             #find if href has .pdf in it
             res = requests.get('http://google.com' + linkElems[i].get('href'))
+            filenameCounter=i+startValue
             try:
                 res.raise_for_status()
             except:
                 print "exception occured"
             else:
                 #create a unique file name to store each of the results
-                combinedFileName=stubFilename +`i`
+                combinedFileName=stubFilename +`filenameCounter`
                 waterResultFile = open(combinedFileName, 'wb+')
                 for chunk in res.iter_content(100000):
                     waterResultFile.write(chunk)
@@ -124,5 +127,5 @@ for gCounter in my_range (1,40,10):
     start =gCounter
     print start
     queryString='https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start='+`start`+'&num=10'
-    parseGResults(queryString)
+    parseGResults(queryString,start)
  
