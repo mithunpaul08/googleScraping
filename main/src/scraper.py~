@@ -1,13 +1,3 @@
-#changes in this version.
-#todo
-#1.1 download and save html files from the first one results---done
-#1.2 download and save html files from the first ten results----done
-#1.3 download html files from the first ten results---done
-#2. convert first 10 html results to text and save them---done
-#3. download pdf files from the first ten results--done
-#4. convert the pdf files into txt and save them---done
-#5. create a folder structure
-
 import requests, bs4, sys, webbrowser, html2text, os , PyPDF2
 
 # encoding=utf8
@@ -105,3 +95,11 @@ for i in range(numOpen):
 
 
 
+#todo
+#1.1 download and save html files from the first one results---done
+#1.2 download and save html files from the first ten results----done
+#1.3 download html files from the first ten results---done
+#2. convert first 10 html results to text and save them---done
+#3. download pdf files from the first ten results--done
+#4. convert the pdf files into txt and save them---done
+#5. create a folder structure
