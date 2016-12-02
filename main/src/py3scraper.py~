@@ -67,7 +67,7 @@ def parseGResults(myQS,startValue):
 
                 else:
                     #create a unique file name to store each of the results
-                    combinedFileName=stubFilename +`filenameCounter`
+                    combinedFileName=stubFilename +filenameCounter
                     waterResultFile = open(combinedFileName, 'wb+')
                     for chunk in res.iter_content(100000):
                         waterResultFile.write(chunk)
@@ -75,7 +75,7 @@ def parseGResults(myQS,startValue):
                     hrefValue=linkElems[i].get('href')
 
                     if(hrefValue.find('.pdf')>0):
-                        print 'file number ' + `filenameCounter`+  ' is a pdf file'
+                        print('file number ' + filenameCounter+  ' is a pdf file')
                         os.rename(combinedFileName,combinedFileName+'.pdf')
                         pdfFileObj = open(combinedFileName+'.pdf', 'rb')
                         pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
@@ -98,7 +98,7 @@ def parseGResults(myQS,startValue):
                         target.close()
                     else:
                         #if file is html or txt
-                        print'file number ' + `filenameCounter`+  ' is not a pdf file'
+                        print('file number ' + filenameCounter+  ' is not a pdf file')
 
                         #get the unicode converted file and rename it as html
                         os.rename(combinedFileName,combinedFileName+'.html')
@@ -126,7 +126,7 @@ def parseGResults(myQS,startValue):
                         target.write(html2text.html2text(convertedText).encode('utf-8'))
                         target.close()
             except:
-                print "Exception occured in the entire function"
+                print("Exception occured in the entire function")
                 continue
 
 
@@ -134,7 +134,7 @@ def parseGResults(myQS,startValue):
 #see if you can raise more than 10 google results
 for gCounter in my_range (startValue,numberOfGoogleResults,10):
     start =gCounter
-    print start
-    queryString='https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start='+`start`+'&num=10'
+    print(start)
+    queryString='https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+"+"&start="+start+'&num=10'
     parseGResults(queryString,start)
  
