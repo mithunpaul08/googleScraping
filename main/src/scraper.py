@@ -24,14 +24,18 @@ os.chdir('../../outputs/')
 #various typical requests
 #todo: add into a string array and call ?
 #res = requests.get('https://www.google.com/search?q=pests+diseases+tamil+nadu+agriculture')
-stubFilename='farmSize'
+
 #res = requests.get('https://www.google.com/search?q=soil+degradation+tamil+nadu+agriculture')
 #res = requests.get('https://www.google.com/search?q=farm+sizes+tamil+nadu+agriculture')
-res = requests.get('https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start=1&num=10')
+#res = requests.get('https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start=1&num=10')
 #https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start=1&num=10
+#ideal query:res = requests.get('https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start=1&num=10')
+#				https://www.google.com/search?q=%22pests+diseases%22+tamil+nadu+agriculture+&start=41&num=10
 
+stubFilename='pestsDiseases'
+queryStringStub='http://www.google.com/search?q=pests+diseases+tamil+nadu+agriculture'
 numberOfGoogleResults=1000
-startValue=205
+startValue=1
 
 def my_range(start, end, step):
     while start <= end:
@@ -41,7 +45,7 @@ def my_range(start, end, step):
 
 def parseGResults(myQS,startValue):
 
-    print "value of query string is"+ myQS
+    print "value of query string is:"+ myQS
     try:
         res = requests.get(myQS)
         res.raise_for_status()
@@ -135,6 +139,6 @@ def parseGResults(myQS,startValue):
 for gCounter in my_range (startValue,numberOfGoogleResults,10):
     start =gCounter
     print start
-    queryString='https://www.google.com/search?q=%22farm+size%22+tamil+nadu+agriculture+&start='+`start`+'&num=10'
+    queryString=queryStringStub+ '+&start='+`start`+'&num=10'
     parseGResults(queryString,start)
  
